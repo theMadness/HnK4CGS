@@ -1,0 +1,260 @@
+Number,Name,Type,Style,Attribute,Cost3,Cost2,Cost1,Rarity,Power/Summary,Text,Flavor,sym1,sym2,sym3
+1,Kenshiro,Character,Hokuto Shinken,義,⏺,⏺,義,,2200,"・ 将: While this character is the [General], it has +400 Power.","You're already dead
+ー Kenshiro",将,↑UP,
+2,Rei,Character,Nanto Seiken,義,,⏺,義,★,2000,"・ When this character attacks, if another character [Intercepts] the attack, deal damage to the original target.","I must survive at all costs!
+I cannot rest
+until I kill the man with seven scars on his chest!!
+ー Rei",🗲,,
+3,Yuria (Last General of Nanto),Character,Nanto Seiken,義,,⏺,義,★★,1500,"・ 将: While this character is the [General], all ""義"" (blue) attribute characters on the battlefield have +200 Power.","Sure thing!
+Juza of the Clouds' life is yours to command!!
+ー Juza",将,↑UP,
+4,Hyui,Character,Nanto Seiken,義,,,⏺,,1500,,"Now, the wind must move as well!!
+ー Hyui",,,
+5,Shuren,Character,Nanto Seiken,義,,,義,,1800,"・ While attacking, this character has +400 Power.","All who touch me will burst into flames of wrath!!
+ー Shuren",↑UP,,
+6,Rihaku,Character,Nanto Seiken,義,,⏺,⏺,★★,1500,"・ When this character enters the battlefield, look at the top three cards of the opponent’s deck, then put them back in any order.","Rihaku of the Ocean!
+In another time, you would have been a master tactician who commanded great armies!!
+ー Raoh",,,
+7,Kenshiro,Character,Hokuto Shinken,義,⏺,愛,義,★★★,2500,"・ 将: While this character is the [General], it has +200 Power for each character with the ""愛"" (orange) attribute on the battlefield.","The time has come for the violence star to die!!
+ー Kenshiro",将,↑UP,
+8,Juza,Character,Nanto Seiken,義,⏺,愛,義,★,2300,"・ When this character participates in a battle, you may discard it and an opponent's character participating in the battle.","My fist is self-taught, self-taught without forms!!
+Having no forms means it's impossible to predict it!!
+ー Juza",,,
+9,Kenshiro (Child),Character,Hokuto Shinken,義,,,⏺,★,800,"・ 将: While this character is the [General], you may play a character named ""Kenshiro"" from your hand by discarding this card, without paying its cost.","This boy has the potential to shine brighter than anyone else.
+ー Shu",将,,
+10,Ryuken,Character,Hokuto Shinken,義,,⏺,義,★,2000,,"I shan't kill you...
+But I shall prevent you from ever using those fists again...
+ー Ryuken",,,
+11,Rizo,Character,Nanto Seiken,義,,,,,1200,・ This character can't attack.,"Your Majesty!
+At least let someone bandage Shew's wounds!
+ー Rizo\",˟✊,,
+12,Fudo,Character,Nanto Seiken,義,,⏺,⏺,,1400,"・ While it is attacking a ""邪"" (red) attribute character, this character has +1000 Power.","You'll pay for this!
+ー Fudo",↑UP,,
+13,Toki,Character,Hokuto Shinken,愛,,⏺,愛,★,2000,"・ Characters that battle this character become [Resting].
+・ When this character wins a battle, do not discard the opponent's character.","Life is not something to be thrown away!!
+ー Toki",,,
+14,Shu,Character,Nanto Seiken,愛,,⏺,愛,★,2000,"・ 将: While this character is the [General], all your characters with the ""Ordinary Person"" style on the battlefield have +100 Power.
+・ While [Intercept]ing an attack, this character has +500 Power.","If I think of this stone as your lives, it's not so heavy.
+ー Shu",将,↑UP,
+15,Fudo,Character,Nanto Seiken,愛,⏺,⏺,愛,★★,2000,"・ If your opponent has more characters on the battlefield than you, this character has +1000 Power.","I, Fudo,
+will become a demon once more to protect these innocent lives!!
+ー Fudo",↑UP,,
+16,Shiba,Character,Ordinary Person,愛,,,⏺,★★,500,"・ When this character is discarded from the battlefield, you may choose an opponent's character with Power <=1000 and make it [Resting].","I'm going to distract them.
+ー Shiba",,,
+17,Lin,Character,Ordinary Person,愛,,,,,300,"・ When this character enters the battlefield, draw 1 card from your deck.
+・ This character can't attack.","I could never pledge my allegiance to demons like you!
+ー Lin",˟✊,,
+18,Mamiya,Character,Ordinary Person,愛,,,⏺,,1500,,"It's what you get for not taking a woman seriously.
+ー Mamiya",,,
+19,Airi,Character,Ordinary Person,愛,,,,,300,"・ When this character enters the battlefield, return an [Event] card from the discard pile to your hand.
+・ This character can't attack.","I will fight!! I'm not running anymore!
+ー Airi",˟✊,,
+20,Toh,Character,Ordinary Person,愛,,⏺,愛,,800,"・ When this character enters the battlefield, choose a card from your deck and put it in your hand. Then shuffle the deck.","...If you can't accept my love, this is all that's left for me...
+ー Toh",,,
+21,Yuria,Character,Ordinary Person,愛,,⏺,⏺,,800,"・ When this character enters the battlefield, choose a [Character] card from your deck, reveal it to the opponent, and put it in your hand. Then shuffle the deck.","Are you still going to fight him? You've settled your score already.
+ー Yuria",,,
+22,Rei,Character,Nanto Seiken,愛,⏺,愛,義,★★★,2400,"・ When this character attacks a [General], it has +400 Power for that battle.
+・ Discard this character if it attacked a [General] and made it go to the discard pile.","Hehe... all that suffering has turned your hair white!
+ー Yuda",↑UP,,
+23,Souther (Child),Character,Nanto Seiken,愛,,,愛,★,800,"・ 将: While this character is the [General], you may play a character named ""Souther"" from your hand by discarding this card, without paying its cost.","Master!!
+ー Souther",将,,
+24,Toki (Child),Character,Hokuto Shinken,愛,,,⏺,★,700,"・ 将: While this character is the [General], you may play a character named ""Toki"" from your hand by discarding this card, without paying its cost.","I want to surpass my brother!!
+ー Toki",将,,
+25,Ohgai,Character,Nanto Seiken,愛,,⏺,愛,,1800,"・ While [Intercept]ing an attack, this character has +400 Power.","...it's the destiny of each successor
+to be defeated by the next successor!
+ー Ohgai",↑UP,,
+26,Juza,Character,Nanto Seiken,流,⏺,愛,流,★★★,2500,"・ At the end your attack phase, you may make this character [Ready].
+・ When you put another character on the battlefield, return this character to your hand.","I live a free life, just like those clouds.
+ー Juza",,,
+27,Raiga,Character,Nothing,流,,⏺,⏺,,1500,"・ While you have a character named ""Fuga"" on the battlefield, this character has +600 Power.","Those who attempt to open the gate ... find only death!!
+ー Raiga & Fuga",↑UP,,
+28,Fuga,Character,Nothing,流,,⏺,⏺,,1500,"・ While you have a character named ""Raiga"" on the battlefield, this character has +600 Power.","Go forth and wait for us in hell!
+We'll join you soon enough!!
+ー Raiga & Fuga",↑UP,,
+29,Ryuga,Character,Taizan Ryu,流,⏺,⏺,流,★,2000,"・ When this character attacks, if another character with Power <= 800 [Intercept]s the attack, deal damage to the original target.
+・ If this character attacks, discard it at the end of the turn.","I'll be known as a rabid wolf, for the sake of the next age!!
+ー Ryuga",🗲,,
+30,Bat,Character,Ordinary Person,流,,,⏺,,600,"・ When this character enters the battlefield, if you have a [General], you may choose a new [General].","Oh well.
+I'm sure I won't go hungry if I tag along!
+ー Bat",,,
+31,Misumi,Character,Ordinary Person,流,,,,★,400,"・ When this character is discarded from the battlefield, make one of your characters [Ready].
+・ This character can't attack the deck.","Hey, I'm back!!! With seeds! I've got seeds!!
+ー Misumi",˟🎴,,
+32,Toyo,Character,Ordinary Person,流,,,,,400,"・ When this character is discarded from the battlefield, you may return a character with Power <= 1000 to its owner's hand.
+・ This character can't attack the deck.","Damn hyenas! They've already sniffed us out!
+ー Toyo",˟🎴,,
+33,Non-resistance village chief,Character,Ordinary Person,流,,,流,★★,500,"・ While this character is on the battlefield, all characters with the ""Ordinary Person"" style can't attack.","Nonresistance is the only weapon
+that we have to defend ourselves!
+ー Village Chief",˟✊,,
+34,Koryu,Character,Hokuto Shinken,流,,⏺,流,★,2200,"・ This character can't be equipped with a [Skill] card.
+・ While attacking, this character has +300 Power.","And you'll be joining them soon. I'll give you your last rites!!
+ー Koryu",↑UP,,
+35,Juza (Child),Character,Nanto Seiken,流,,,流,★,700,"・ 将: While this character is the [General], you may play a character named ""Juza"" from your hand by discarding this card, without paying its cost.","Me? I'd just eat them.
+ー Juza",将,,
+36,Johnny,Character,Ordinary Person,流,,,,,800,"・ When this character enters the battlefield, discard one of your characters with the ""Ordinary Person"" style from the battlefield.
+・ This character can't attack the deck.","Oh...?!
+I guess methyl alchohol isn't meant to be drunk...
+ー Johnny",˟🎴,,
+37,Taki,Character,Ordinary Person,流,,,,★★,300,"・ When this character enters the battlefield, you may draw one card from your deck.
+・ This character can't attack the deck.","It's my village! My auntie and everyone else need you help!!
+ー Taki",˟🎴,,
+38,Mitsu,Character,Ordinary Person,流,,,,,500,・ This character can't attack the deck.,"Forgive us! You must die
+in order to save the people of Cassandra!!
+ー Raiga & Fuga",˟🎴,,
+39,Raoh,Character,Hokuto Shinken,覇,⏺,邪,覇,★★★,2400,"・ 将: While this character is the [General], it has +200 Power.
+・ When this character attacks, you may discard any number of cards from your hand, for each discarded card, it has +100 Power.","THEN I SHALL FIGHT THE GODS, TOO!!
+ー Raoh",将,↑UP,
+40,Shin,Character,Nanto Seiken,覇,⏺,⏺,邪,,2000,"・ 将: While this character is the [General], it has +400 Power.
+・ When this character attacks, if another character [Intercept]s the attack, deal damage to the original target.","I will not die by your fist!!
+ー Shin",将,↑UP,🗲
+41,Souther,Character,Nanto Seiken,覇,⏺,⏺,覇,★★,2300,"・ 将: While this character is the [General], it has +200 Power.
+・ When this character attacks, discard one card from your hand (if you have any).","I was born with the body of an Emperor!
+ー Souther",将,↑UP,
+42,Kokuoh,Character,Horse,覇,,,⏺,,1500,,"I will ride nothing but Kokuoh!
+ー Raoh",,,
+43,Raoh,Character,Hokuto Shinken,覇,⏺,覇,覇,★,2500,"・ 将: While this character is the [General], it has +200 Power.
+・ When this character attacks, discard one of your characters on the battlefield not named ""Raoh"" or ""Kokuoh"".","Ken-Oh's legend of terror begins now!
+ー Raoh",将,↑UP,
+44,Raoh (Child),Character,Hokuto Shinken,覇,,,覇,★,900,"・ 将: While this character is the [General], you may play a character named ""Raoh"" from your hand by discarding this card, without paying its cost.","I will become the strongest man of all time!!
+ー Raoh",将,,
+45,Jagi,Character,Hokuto Shinken,邪,,邪,邪,★,1500,"・ 将: While this character is the [General], all ""邪"" (red) attribute characters on the battlefield have +200 Power while attacking.","Hyahaha!! Who am I?!
+Say my name!!
+ー Jagi",将,↑UP,
+46,Yuda,Character,Nanto Seiken,邪,,邪,邪,★,1800,"・ 将: While this character is the [General], you may use your [Resting] characters to [Intercept] attacks that target it, then discard the chosen character.","No one in this world is stronger than me...
+Or more beautiful!!
+ー Yuda",将,,
+47,Zeed,Character,Nothing,邪,,,,,600,・ This character can't attack on the turn it enters the battlefield.,"Food! Bring me every scrap of your food!
+ー Zeed",,,
+48,Spade,Character,Nothing,邪,,,⏺,,800,"・ While attacking, this character has +300 Power.","PFFT! I'll smash your brains out! DIE, ASSHOLE!!
+ー Spade",↑UP,,
+49,Diamond,Character,Nothing,邪,,,⏺,,1000,,"And I, DIAMOND, am nothing like Spade!!
+ー Diamond",,,
+50,Club,Character,Nothing,邪,,,邪,,1200,,"Hey... Keep your filthy peasant hands off me!!
+ー Club",,,
+51,Heart,Character,Nothing,邪,,⏺,邪,★,1400,"・ When this character is attacked, you may automatically win the battle by discarding 2 cards from your hand.","So it IS a pig. Pigs belong in a pigsty. Move aside!
+ー Kenshiro",,,
+52,Mad Sergeant,Character,Nothing,邪,,,⏺,,1200,・ This character can't attack on the turn it enters the battlefield.,"I'll show you what real guerrilla warfare can do!
+ー Mad Sergeant",,,
+53,Colonel,Character,Nanto Seiken,邪,,⏺,邪,,1500,"・ 将: While this character is the [General], at the beginning of the opponent's attack phase, return a [Skill] card from one of their characters to their hand.","He's got supernatural powers!!
+ー Mad Sergeant",将,,
+54,Jackal,Character,Nothing,邪,,⏺,邪,,800,"・ When one of your other characters is discarded from the battlefield, you may discard one card from your hand to make this character [Ready].","I ain't interested in fighting you.
+ー Jackal",,,
+55,Devil Rebirth,Character,Nothing,邪,,⏺,⏺,,1000,"・ While attacking, this character has +1000 Power.
+・ While [Intercept]ing an attack, this character has +1000 Power.","I missed you, my dear little brother! Have you forgotten the face of your older brother?!
+ー Jackal",↑UP,,
+56,Fang Clan,Character,Kazan Ryu,邪,,,邪,,700,"・ You may have multiple copies of this character, even if you control other copies with the same name.","You idiots really think I'm the last of the fang clan?!
+ー Fang Clan",,,
+57,King Fang,Character,Kazan Ryu,邪,,邪,邪,★★,1500,"・ 将: While this character is the [General], when a character named ""Fang Clan"" is discarded from the battlefield, return it to your hand instead.","You fool! So long as I live,
+I can replace you easily!!
+ー King Fang",将,,
+58,Amiba,Character,Nanto Seiken,邪,,邪,邪,★,1500,"・ 将: While this character is the [General], when a character with Power <= 1500 attacks, discard the top card of your deck. If you discarded a ""邪"" (red) attribute card, the attacking character will have +1000 Power while attacking, otherwise discard the attacker and cancel the battle.","Mm?! Did I get it wrong ...?
+ー Amiba",将,,
+59,"Uighur, the Warden",Character,Taizan Ryu,邪,,⏺,邪,★★,1500,"・ 将: While this character is the [General], when it attacks, the opponent discards 1 card at random from their hand.","As if a maggot like you
+could topple the legend that is Cassandra.
+ー Uighur, the Warden",将,,
+60,Galf,Character,Nothing,邪,,,邪,★,1000,"・ When this character enters the battlefield, reveal the top card of your deck. If it is a ""邪"" (red) attribute card, you may draw it into your hand, and discard one of your opponent's characters with Power <= 800. If it has a different attribute, discard it.","So, Seki, tell me... Is this man innocent or must he die?
+ー Galf",,,
+61,Komaku,Character,Nothing,邪,,⏺,邪,★,800,"・ When this character enters the battlefield, the opponent discards 1 card at random from their hand.","Heeheehee... I reckon that the village is under water by now!
+ー Komaku",,,
+62,Usa,Character,Nothing,邪,,⏺,邪,,600,"・ While this character is on the battlefield, if the opponent uses an [Event] card, draw one card from your deck.","In fact, I, Usa, would like a piece of the action myself...
+ー Usa",,,
+63,Toki (Amiba),Character,Hokuto Shinken,邪,,⏺,邪,★★★,1500,"・ This character is considered to have both the name ""Toki"" and ""Amiba"".
+・ When this character attacks, you may choose one opponent's character that is able to [Intercept] it and force it to [Intercept].","Kenshiro, violence is good!!
+ー Toki?",,,
+64,Gonzu,Character,Nothing,邪,,⏺,邪,★★,1000,"・ When this character enters the battlefield, reveal cards from the top of your deck until you reveal a [Character] card, then add all revealed cards to your hand.","You broke the record, Master Gonzu.
+ー Gonzu's Subordinate",,,
+65,Hokuto Hyakuretsu Ken,Skill,,義,,,義,★,"《Req》(St.) Hokuto Shinken
+《FX》Double","・ Can only be equipped to characters with the ""Hokuto Shinken"" style.
+・ Equipped character gains ""Double Attack"". (Can attack the same character twice)
+・ Discard this card after the equipped character finishes attacking.","Atatatatah!!!
+ー Kenshiro",🗑,,
+66,Ganzan Ryozanha,Skill,,義,,,⏺,,"《Req》(St.) Hokuto Shinken
+《FX》Att. +400","・ Can only be equipped to characters with the ""Hokuto Shinken"" style.
+・ Equipped character has +400 Power during attacks.","Zero!!
+ー Kenshiro",,,
+67,Hokuto Juha Zan,Skill,,義,,⏺,義,★,《Req》(St.) Hokuto Shinken,"・ Can only be equipped to characters with the ""Hokuto Shinken"" style.
+・ When the equipped character attacks, disable the [Skill] cards equipped by the opponent.","You are nothing more than a lump of fat! Now die!!
+ー Kenshiro",,,
+68,Nanto Suichoken,Skill,,義,,,義,,"《Req》(St.) Nanto Seiken
+《FX》Wide","・ Can only be equipped to characters with the ""Nanto Seiken"" style.
+・ Equipped character gains ""Wide Attack"". (During an attack can select two characters and perform an attack against each).
+・ Discard this card after the equipped character finishes attacking.",,🗑,,
+69,"Nanto Ultimate Secret Technique
+Hissho Hakurei",Skill,,義,,⏺,義,★★,"《Req》(St.) Nanto Seiken
+《FX》Att. +600","・ Can only be equipped to characters with the ""Nanto Seiken"" style.
+・ Equipped character has +600 Power during attacks.
+・ Discard this card after the equipped character finishes attacking.",,🗑,,
+70,Hokuto Ujō Hagan Ken,Skill,,愛,,,愛,★★,"《Req》(St.) Hokuto Shinken
+《FX》+200","・ Can only be equipped to characters with the ""Hokuto Shinken"" style.
+・ Equipped character has +200 Power.","Aah!! I feel SO GOOD!!
+ー Ken-Oh's Guard",🗑,,
+71,Nanto Hakuro Ken,Skill,,愛,,,愛,★,"《Req》(St.) Nanto Seiken
+《FX》+200","・ Can only be equipped to characters with the ""Nanto Seiken"" style.
+・ Equipped character has +200 Power.",,,,
+72,Bladed Yo-Yos,Skill,,愛,,,⏺,,《FX》Att. +200,・ Equipped character has +200 Power during attacks.,"So far, most guys have been
+hit right in the forehead by that.
+ー Mamiya",,,
+73,Taizan Tenrō Ken,Skill,,流,,,流,★,"《Req》(St.) Taizan Ryu
+《FX》Att. +400","・ Can only be equipped to characters with the ""Taizan Ryu"" style.
+・ Equipped character has +400 Power during attacks.",,,,
+74,Dynamite,Skill,,流,,,⏺,,"《Req》(PWR) <= 800
+《FX》Att. +600","・ Can only be equipped to characters with Power <= 800.
+・ Equipped character has +600 Power during attacks.
+・ After the equipped character finishes attacking, discard it and this card.","It's alright. I have this.
+ー Shiba",🗑,,
+75,Rice seeds,Skill,,流,,,⏺,★★,《Req》(St.) Ordinary Person,"・ Can only be equipped to characters with the ""Ordinary Person"" style.
+・ When the opponent attacks, they must attack the equipped character if possible.","Oh yeah? I wanna eat them even more now!
+ー Spade",,,
+76,Musō Insatsu,Skill,,覇,,,⏺,,"《Req》(St.) Hokuto Shinken
+《FX》Att. +400","・ Can only be equipped to characters with the ""Hokuto Shinken"" style.
+・ Equipped character has +400 Power during attacks.",,,,
+77,Secret Technique Tenshō Honretsu,Skill,,覇,,⏺,覇,★★,"《Req》(St.) Hokuto Shinken
+《FX》Att.+400 | Double","・ Can only be equipped to characters with the ""Hokuto Shinken"" style.
+・ Equipped character has +400 Power during attacks.
+・ Equipped character gains ""Double Attack"". (Can attack the same character twice)
+・ Discard this card after the equipped character finishes attacking.","I will crush you and your Musō Tensei into oblivion!
+ー Raoh",🗑,,
+78,"Nanto Hōō Ken Secret Technique
+Tenshō Jūji Hō",Skill,,覇,,⏺,覇,★,"《Req》(St.) Nanto Seiken
+《FX》Att. +200 | Wide","・ Can only be equipped to characters with the ""Nanto Seiken"" style.
+・ Equipped character has +200 Power during attacks.
+・ Equipped character gains ""Wide Attack"". (During an attack can select two characters and perform an attack against each).
+・ Discard this card after the equipped character finishes attacking.","For all my enemies are beneath me!!
+ー Souther",🗑,,
+79,Amiba Style Hokuto Shinken,Skill,,邪,,,⏺,★★,《FX》Att. +200,・ Equipped character has +200 Power during attacks.,"Flatter me! Suck up to me!! I'm a genius!!
+ー Amiba",,,
+80,Mōko Hakyoku Dō,Skill,,邪,,,邪,,"《Req》(Attr.) 邪
+《FX》Att. +400","・ Can only be equipped to characters with the ""邪"" (red) attribute.
+・ Equipped character has +400 Power during attacks.
+・ Discard this card after the equipped character finishes attacking.",,🗑,,
+81,You don't deserve to live beyond today!!!,Event,,義,,,⏺,,,"・ Choose one of your characters, it has +400 Power while attacking this turn.",,,,
+82,"Anyone else wishing to die, step forward!!",Event,,義,,⏺,義,★★,,"・ On your opponent's next turn, all their characters with Power <= 1000 will attack if able.",,,,
+83,I can see through your every move!,Event,,義,,,⏺,★,,"・ Choose one of your characters. This turn, when it attacks, if another character [Intercepts] the attack, deal damage to the original target.",,,,
+84,I don't want to fight you ...,Event,,義,,,義,,(OK) COUNTER,"・ Counter (you may play this card during the [Intercept] step)
+・ An opponent's character of your choice can't attack until your next turn.",,,,
+85,Listen up people! Prepare for battle!!,Event,,愛,,,愛,,,・ Choose one of your characters. This turn it will ignore effects that prevent it from attacking the deck as long as you control a [General].,,,,
+86,"I've no desire to live as a hostage,
+so just kill me!!",Event,,愛,,,愛,★,(OK) COUNTER,"・ Counter (you may play this card during the [Intercept] step)
+・ Discard one of your characters on the battlefield in order set one of the opponent's character with the same or lesser power to [Resting].",,,,
+87,"Shinreidai channeling point,
+it can extend a person's lifespan by a short time!",Event,,愛,,⏺,愛,★★,,・ Put a [Character] Card from your discard pile on the battlefield. Discard that character at the end of the turn.,,,,
+88,"Become a demon once more
+to protect these innocent lives!!",Event,,愛,,⏺,愛,,,・ Make one of your characters [Ready] at the end of your turn.,,,,
+89,"It's all for the sake of tomorrow, not today ...",Event,,流,,,⏺,★★,,"・ Return two cards of your choice from the discard pile to your deck, then shuffle the deck.",,,,
+90,See? Just when we were talking about food!,Event,,流,,,流,★,,"・ Reveal the top three cards of your deck. Add all the [Character] cards revealed to your hand, and discard the rest.",,,,
+91,"We've finally managed
+to become self-sufficient here...",Event,,流,,,⏺,,,・ Draw two cards from your deck.,,,,
+92,The cries of the demons have been silenced!!,Event,,流,,⏺,流,,(OK) COUNTER,"・ Counter (you may play this card during the [Intercept] step)
+・ Remove all players' [General] Markers. (Characters who have already targeted the deck for attack will end their attack without attacking the deck.)",,,,
+93,The star you see is the death omen star!,Event,,覇,,⏺,覇,,,・ An opponent's character of your choice that is not the [General] becomes [Resting].,,,,
+94,"You and your petty army
+are no more than trash!!",Event,,覇,,覇,覇,★★,,・ Discard all opponent's characters with Power <= 800 .,,,,
+95,You're no match for me!,Event,,覇,,,覇,★,(OK) COUNTER,"・ Counter (you may play this card during the [Intercept] step)
+・ Return an opponent's characters with Power <= 1000 to their hand.",,,,
+96,I have no regrets of the life I've led!!,Event,,覇,,⏺,覇,,,"・ Choose one of your characters, it has +800 Power this turn.
+・ Discard the chosen character at the end of the turn.",,,,
+97,All filth will be sterilized!!,Event,,邪,,,邪,,(OK) COUNTER,"・ Counter (you may play this card during the [Intercept] step)
+・ An opponent's character of your choice with the ""Ordinary Person"" style becomes [Resting].",,,,
+98,I got it! Dahaha!,Event,,邪,,⏺,邪,★★,(OK) COUNTER,"・ Counter (you may play this card during the [Intercept] step)
+・ Return [Skill] cards equipped to an opponent's character to the opponent's hand.",,,,
+99,You've walked straight into my trap!,Event,,邪,,邪,邪,★,,・ Look at the opponent's hand. Choose and discard one of their cards.,,,,

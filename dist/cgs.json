@@ -1,0 +1,246 @@
+{
+  "name": "北斗の拳世紀末カードバトル伝説 - Hokuto no Ken Card Battle",
+  "autoUpdateUrl": "https://drive.google.com/uc?export=download&id=1OpHpIdAvj1oFrPx2_VNi6e2GyknYuJ_L",
+  "autoUpdate": 0,
+  "allCardsUrl": "https://drive.google.com/uc?export=download&id=1qFcL0qpXkyUd-OyqjcrDjdRrP6GftXV_",
+  "bannerImageUrl": "https://drive.google.com/uc?export=download&id=1S-iH8An1fA3pOtkhcaGnd4mQPc_e6ZU8",
+  "cardBackImageUrl": "https://drive.google.com/uc?export=download&id=1ua8iCvhNlPtpaz8vBrTaNvOKiqZGv65I",
+  "playMatImageUrl": "https://drive.google.com/uc?export=download&id=1D99U7Mcq3NV0ts3n00TiiCA8sJSRq1wH",
+  "allDecksUrlDataIdentifier": "",
+  "allDecksUrlPostBodyContent": "",
+  "allDecksUrlTxtRoot": "",
+  "allSetsUrlWrapped": false,
+  "allSetsUrlZipped": false,
+  "bannerImageFileType": "png",
+  "cardBackImageFileType": "png",
+  "cardIdIdentifier": "id",
+  "cardIdStop": "",
+  "cardImageFileType": "png",
+  "cardImageProperty": "image",
+  "cardNameIdentifier": "name",
+  "cardNameIsUnique": false,
+  "cardPrimaryProperty": "description",
+  "cardProperties": [
+    {
+      "name": "id",
+      "type": "string",
+      "display": "Collector Number"
+    },
+    {
+      "name": "code",
+      "type": "string",
+      "display": "Card Reference"
+    },
+    {
+      "name": "name",
+      "type": "string",
+      "display": "Name"
+    },
+    {
+      "name": "image",
+      "type": "string"
+    },
+    {
+      "name": "description",
+      "type": "string",
+      "display": "Description"
+    },
+    {
+      "name": "type",
+      "display": "Type",
+      "type": "stringEnum"
+    },
+    {
+      "name": "attribute",
+      "display": "Attribute",
+      "type": "stringEnum"
+    },
+    {
+      "name": "cost",
+      "type": "string",
+      "display": "Cost"
+    },
+    {
+      "name": "costValue",
+      "type": "integer",
+      "display": "Cost #"
+    },
+    {
+      "name": "school",
+      "display": "School",
+      "type": "stringEnum"
+    },
+    {
+      "name": "attributeCostType",
+      "display": "Cost Attributes",
+      "type": "stringEnumList"
+    },
+    {
+      "name": "deckAttributes",
+      "display": "Deck Attributes",
+      "type": "stringEnumList"
+    },
+    {
+      "name": "power",
+      "display": "Power",
+      "type": "integer"
+    },
+    {
+      "name": "counter",
+      "display": "Is Counter",
+      "type": "boolean"
+    },
+    {
+      "name": "rarity",
+      "display": "Rarity",
+      "type": "stringEnum"
+    },
+    {
+      "name": "rules",
+      "display": "Rules",
+      "type": "string"
+    },
+    {
+      "name": "flavor",
+      "display": "Flavor",
+      "type": "string"
+    }
+  ],
+  "cardPropertyIdentifier": "id",
+  "cardRotationDefault": 0,
+  "cardRotationIdentifier": "",
+  "cardSetIdentifier": "setCode",
+  "cardSetIsObject": false,
+  "cardSetNameIdentifier": "setname",
+  "cardSetsInList": false,
+  "cardSetsInListIsCsv": false,
+  "cardSize": {
+    "x": 2.5,
+    "y": 3.5
+  },
+  "cgsGamesLink": null,
+  "copyright": "",
+  "deckFileAltId": "dbfId",
+  "deckFileTxtId": "id",
+  "deckFileType": "txt",
+  "deckPlayCards": [],
+  "deckSharePreference": "share",
+  "deckUrls": [],
+  "enums": [
+    {
+      "property": "attribute",
+      "values": {
+        "義": "<color=#92E0FF>義 - Righteousness</color>",
+        "愛": "<color=#FFA500>愛 - Love</color>",
+        "流": "<color=#97FF7A>流 - Style</color>",
+        "覇": "<color=#A480FF>覇 - Supremacy</color>",
+        "邪": "<color=#FF6745>邪 - Evil</color>"
+      }
+    },
+    {
+      "property": "attributeCostType",
+      "values": {
+        "義": "<color=#92E0FF>義 - Righteousness</color>",
+        "愛": "<color=#FFA500>愛 - Love</color>",
+        "流": "<color=#97FF7A>流 - Style</color>",
+        "覇": "<color=#A480FF>覇 - Supremacy</color>",
+        "邪": "<color=#FF6745>邪 - Evil</color>"
+      }
+    },
+    {
+      "property": "deckAttributes",
+      "values": {
+        "0": "No Attributes",
+        "R": "<color=#92E0FF>義</color>",
+        "L": "<color=#FFA500>愛</color>",
+        "S": "<color=#97FF7A>流</color>",
+        "U": "<color=#A480FF>覇</color>",
+        "E": "<color=#FF6745>邪</color>",
+        "RL": "<color=#92E0FF>義</color><color=#FFA500>愛</color>",
+        "LS": "<color=#FFA500>愛</color><color=#97FF7A>流</color>",
+        "SU": "<color=#97FF7A>流</color><color=#A480FF>覇</color>",
+        "UE": "<color=#A480FF>覇</color><color=#FF6745>邪</color>",
+        "ER": "<color=#FF6745>邪</color><color=#92E0FF>義</color>",
+        "RS": "<color=#92E0FF>義</color><color=#97FF7A>流</color>",
+        "LU": "<color=#FFA500>愛</color><color=#A480FF>覇</color>",
+        "SE": "<color=#97FF7A>流</color><color=#FF6745>邪</color>",
+        "UR": "<color=#A480FF>覇</color><color=#92E0FF>義</color>",
+        "EL": "<color=#FF6745>邪</color><color=#FFA500>愛</color>",
+        "RLS": "<color=#92E0FF>義</color><color=#FFA500>愛</color><color=#97FF7A>流</color>",
+        "LSU": "<color=#FFA500>愛</color><color=#97FF7A>流</color><color=#A480FF>覇</color>",
+        "SUE": "<color=#97FF7A>流</color><color=#A480FF>覇</color><color=#FF6745>邪</color>",
+        "UER": "<color=#A480FF>覇</color><color=#FF6745>邪</color><color=#92E0FF>義</color>",
+        "ERL": "<color=#FF6745>邪</color><color=#92E0FF>義</color><color=#FFA500>愛</color>",
+        "RSU": "<color=#92E0FF>義</color><color=#97FF7A>流</color><color=#A480FF>覇</color>",
+        "LUE": "<color=#FFA500>愛</color><color=#A480FF>覇</color><color=#FF6745>邪</color>",
+        "SER": "<color=#97FF7A>流</color><color=#FF6745>邪</color><color=#92E0FF>義</color>",
+        "URL": "<color=#A480FF>覇</color><color=#92E0FF>義</color><color=#FFA500>愛</color>",
+        "ELS": "<color=#FF6745>邪</color><color=#FFA500>愛</color><color=#97FF7A>流</color>",
+        "RLSU": "<color=#92E0FF>義</color><color=#FFA500>愛</color><color=#97FF7A>流</color><color=#A480FF>覇</color>",
+        "LSUE": "<color=#FFA500>愛</color><color=#97FF7A>流</color><color=#A480FF>覇</color><color=#FF6745>邪</color>",
+        "SUER": "<color=#97FF7A>流</color><color=#A480FF>覇</color><color=#FF6745>邪</color><color=#92E0FF>義</color>",
+        "UERL": "<color=#A480FF>覇</color><color=#FF6745>邪</color><color=#92E0FF>義</color><color=#FFA500>愛</color>",
+        "ERLS": "<color=#FF6745>邪</color><color=#92E0FF>義</color><color=#FFA500>愛</color><color=#97FF7A>流</color>",
+        "RLSUE": "<color=#92E0FF>義</color><color=#FFA500>愛</color><color=#97FF7A>流</color><color=#A480FF>覇</color><color=#FF6745>邪</color>"
+      }
+    },
+    {
+      "property": "school",
+      "values": {
+        "HokutoShinken": "Hokuto Shinken",
+        "NantoSeiken": "Nanto Seiken",
+        "OrdinaryPerson": "Ordinary Person",
+        "Nothing": "Nothing",
+        "TaizanRyu": "Taizan Ryu",
+        "Horse": "Horse",
+        "KazanRyu": "Kazan Ryu"
+      }
+    },
+    {
+      "property": "type",
+      "values": {
+        "C": "Character",
+        "S": "Skill",
+        "E": "Event"
+      }
+    },
+    {
+      "property": "rarity",
+      "values": {
+        "★★★": "Super Rare - <color=#FFFF00>★★★</color>",
+        "★★": "Rare - <color=#FFFF00>★★</color>",
+        "★": "Uncommon - <color=#FFFF00>★</color>",
+        " ": "Common -  "
+      }
+    }
+  ],
+  "extras": [],
+  "gameBoardImageFileType": "png",
+  "gameBoardCards": [],
+  "gameBoardUrls": [],
+  "gameCardRotationDegrees": 90,
+  "gameDefaultCardAction": "tap",
+  "gamePlayDeckName": "",
+  "gamePlayDeckPositions": [],
+  "gamePlayZones": [],
+  "gameStartDecks": [],
+  "gameStartHandCount": 4,
+  "gameStartPointsCount": 0,
+  "playMatImageFileType": "png",
+  "playMatSize": {
+    "x": 36.0,
+    "y": 36.0
+  },
+  "playMatGridCellSize": {
+    "x": 0.5,
+    "y": 0.5
+  },
+  "rulesUrl": null,
+  "setCardsIdentifier": "cards",
+  "setCardsUrlIdentifier": "cardsUrl",
+  "setCodeDefault": "HnK1",
+  "setCodeIdentifier": "code",
+  "setDataIdentifier": "",
+  "setNameDefault": "_CGSDEFAULT_",
+  "setNameIdentifier": "name"
+}
