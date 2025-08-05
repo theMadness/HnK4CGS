@@ -62,8 +62,8 @@ const getCost = (data) =>
     .join("");
 const getId = (data) => data["Number"]?.padStart(2, "0") || "00";
 const getSetCode = () => "HnK1";
-const getImage = (data) =>
-  `https://cgs.games/api/proxy/drive.google.com/uc?export=download&id=${imageMap[`${getSetCode()}-${getId(data)}.png`]}`;
+// const getImage = (data) =>
+//   `https://cgs.games/api/proxy/drive.google.com/uc?export=download&id=${imageMap[`${getSetCode()}-${getId(data)}.png`]}`;
 const getType = (data) => data["Type"]?.trim().charAt(0) || "";
 const getCostValue = (data) =>
   ["Cost3", "Cost2", "Cost1"].reduce(
@@ -103,7 +103,7 @@ fs.createReadStream(__dirname + "/ImageCatalog.csv")
           deckFileTxtId: `${data["Name"]} (${getSetCode()}-${getId(data)})`,
           setCode: getSetCode(),
           name: data["Name"] || "",
-          image: getImage(data),
+          // image: getImage(data),
           description: description(data),
           attribute: data["Attribute"] || "",
           attributeCostType: getAttributeCostType(data),

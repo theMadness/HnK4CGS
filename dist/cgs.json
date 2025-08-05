@@ -1,11 +1,13 @@
 {
   "name": "北斗の拳世紀末カードバトル伝説 - Hokuto no Ken Card Battle",
-  "autoUpdateUrl": "https://drive.google.com/uc?export=download&id=1OpHpIdAvj1oFrPx2_VNi6e2GyknYuJ_L",
   "autoUpdate": 0,
+  "autoUpdateUrl": "https://drive.google.com/uc?export=download&id=1OpHpIdAvj1oFrPx2_VNi6e2GyknYuJ_L",
   "allCardsUrl": "https://drive.google.com/uc?export=download&id=1qFcL0qpXkyUd-OyqjcrDjdRrP6GftXV_",
   "bannerImageUrl": "https://drive.google.com/uc?export=download&id=1S-iH8An1fA3pOtkhcaGnd4mQPc_e6ZU8",
   "cardBackImageUrl": "https://drive.google.com/uc?export=download&id=1ua8iCvhNlPtpaz8vBrTaNvOKiqZGv65I",
+  "cardImageUrl": "https://media.githubusercontent.com/media/theMadness/HnK4CGS/refs/heads/main/dist/sets/{cardSet}/{cardId}.png",
   "playMatImageUrl": "https://drive.google.com/uc?export=download&id=1D99U7Mcq3NV0ts3n00TiiCA8sJSRq1wH",
+  "rulesUrl": "https://media.githubusercontent.com/media/theMadness/HnK4CGS/refs/heads/main/dist/End%20of%20the%20Century%20Card%20Battle%20Legend%20Rulebook.pdf",
   "allDecksUrlDataIdentifier": "",
   "allDecksUrlPostBodyContent": "",
   "allDecksUrlTxtRoot": "",
@@ -16,7 +18,6 @@
   "cardIdIdentifier": "id",
   "cardIdStop": "",
   "cardImageFileType": "png",
-  "cardImageProperty": "image",
   "cardNameIdentifier": "name",
   "cardNameIsUnique": false,
   "cardPrimaryProperty": "description",
@@ -35,10 +36,6 @@
       "name": "name",
       "type": "string",
       "display": "Name"
-    },
-    {
-      "name": "image",
-      "type": "string"
     },
     {
       "name": "description",
@@ -125,7 +122,48 @@
   "deckFileType": "txt",
   "deckPlayCards": [],
   "deckSharePreference": "share",
-  "deckUrls": [],
+  "deckUrls": [
+    {
+      "name": "Amiba Starter Deck",
+      "url": "https://raw.githubusercontent.com/theMadness/HnK4CGS/refs/heads/main/dist/decks/Amiba%20Starter%20Deck.txt"
+    },
+    {
+      "name": "Juza Starter Deck",
+      "url": "https://raw.githubusercontent.com/theMadness/HnK4CGS/refs/heads/main/dist/decks/Juza%20Starter%20Deck.txt"
+    },
+    {
+      "name": "Kenshiro Starter Deck",
+      "url": "https://raw.githubusercontent.com/theMadness/HnK4CGS/refs/heads/main/dist/decks/Kenshiro%20Starter%20Deck.txt"
+    },
+    {
+      "name": "Raoh Starter Deck",
+      "url": "https://raw.githubusercontent.com/theMadness/HnK4CGS/refs/heads/main/dist/decks/Raoh%20Starter%20Deck.txt"
+    },
+    {
+      "name": "Rei Starter Deck",
+      "url": "https://raw.githubusercontent.com/theMadness/HnK4CGS/refs/heads/main/dist/decks/Rei%20Starter%20Deck.txt"
+    },
+    {
+      "name": "Ryuga Starter Deck",
+      "url": "https://raw.githubusercontent.com/theMadness/HnK4CGS/refs/heads/main/dist/decks/Ryuga%20Starter%20Deck.txt"
+    },
+    {
+      "name": "Shin Starter Deck",
+      "url": "https://raw.githubusercontent.com/theMadness/HnK4CGS/refs/heads/main/dist/decks/Shin%20Starter%20Deck.txt"
+    },
+    {
+      "name": "Shu Starter Deck",
+      "url": "https://raw.githubusercontent.com/theMadness/HnK4CGS/refs/heads/main/dist/decks/Shu%20Starter%20Deck.txt"
+    },
+    {
+      "name": "Souther Starter Deck",
+      "url": "https://raw.githubusercontent.com/theMadness/HnK4CGS/refs/heads/main/dist/decks/Souther%20Starter%20Deck.txt"
+    },
+    {
+      "name": "Yuda Starter Deck",
+      "url": "https://raw.githubusercontent.com/theMadness/HnK4CGS/refs/heads/main/dist/decks/Yuda%20Starter%20Deck.txt"
+    }
+  ],
   "enums": [
     {
       "property": "attribute",
@@ -244,7 +282,6 @@
     "x": 0.5,
     "y": 0.5
   },
-  "rulesUrl": null,
   "setCardsIdentifier": "cards",
   "setCardsUrlIdentifier": "cardsUrl",
   "setCodeDefault": "HnK1",
