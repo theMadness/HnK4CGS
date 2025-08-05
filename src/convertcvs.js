@@ -86,7 +86,7 @@ const getSchool = (data) => data["Style"]?.replace(/\s+/g, "") || "";
 
 const imageMap = {};
 
-fs.createReadStream(__dirname+"/ImageCatalog.csv")
+fs.createReadStream(__dirname + "/ImageCatalog.csv")
   .pipe(csv())
   .on("data", (data) => {
     imageMap[data["Filename"]] = data["DriveId"];
@@ -94,7 +94,7 @@ fs.createReadStream(__dirname+"/ImageCatalog.csv")
   .on("end", () => {
     console.log("Image Map complete.");
     // console.log(JSON.stringify(imageMap));
-    fs.createReadStream(__dirname+"/CardData.csv")
+    fs.createReadStream(__dirname + "/CardData.csv")
       .pipe(csv())
       .on("data", (data) => {
         results.push({
@@ -122,7 +122,7 @@ fs.createReadStream(__dirname+"/ImageCatalog.csv")
       })
       .on("end", () => {
         fs.writeFileSync(
-            __dirname+"/../dist/AllCards.json",
+          __dirname + "/../dist/AllCards.json",
           JSON.stringify(results, null, 2),
         );
         console.log("Conversion complete!");

@@ -8,9 +8,7 @@
     "image": "https://cgs.games/api/proxy/drive.google.com/uc?export=download&id=1qlKQ3HHSC1bfPUuDHix0lof8bXgfwqc_",
     "description": "<size=30>\n<color=#92E0FF>Character — Hokuto Shinken</color>  <color=#D6D0B5><b>Ｏ</b></color><color=#D6D0B5><b>Ｏ</b></color><color=#92E0FF>義</color>\n<b><size=20>PWR</size>                                               <color=#92E0FF><size=20>義 Attribute</size></color>\n【2200】 </b>                                                 \n<color=#666666>————————————————</color>\n・ 将: While this character is the [General], it has +400 Power.\n<color=#666666>————————————————</color>\n<color=#CCCCCC><i>You're already dead\nー Kenshiro</i></color></size>",
     "attribute": "義",
-    "attributeCostType": [
-      "義"
-    ],
+    "attributeCostType": ["義"],
     "deckAttributes": [
       "R",
       "RL",
@@ -47,9 +45,7 @@
     "image": "https://cgs.games/api/proxy/drive.google.com/uc?export=download&id=1DHTVinojAfyU4T7tN0Pc9A2VccDRJpF_",
     "description": "<size=30>\n<color=#92E0FF>Character — Nanto Seiken</color>            <color=#D6D0B5><b>Ｏ</b></color><color=#92E0FF>義</color>\n<b><size=20>PWR</size>                                               <color=#92E0FF><size=20>義 Attribute</size></color>\n【2000】 </b>                                                 \n<color=#666666>————————————————</color>\n・ When this character attacks, if another character [Intercepts] the attack, deal damage to the original target.\n<color=#666666>————————————————</color>\n<color=#CCCCCC><i>I must survive at all costs!\nI cannot rest\nuntil I kill the man with seven scars on his chest!!\nー Rei</i></color></size>",
     "attribute": "義",
-    "attributeCostType": [
-      "義"
-    ],
+    "attributeCostType": ["義"],
     "deckAttributes": [
       "R",
       "RL",
@@ -86,9 +82,7 @@
     "image": "https://cgs.games/api/proxy/drive.google.com/uc?export=download&id=1Fd357WtVFKKfbMpB-JbLAEJLyidWQyy0",
     "description": "<size=30>\n<color=#92E0FF>Character — Nanto Seiken</color>            <color=#D6D0B5><b>Ｏ</b></color><color=#92E0FF>義</color>\n<b><size=20>PWR</size>                                               <color=#92E0FF><size=20>義 Attribute</size></color>\n【1500】 </b>                                                 \n<color=#666666>————————————————</color>\n・ 将: While this character is the [General], all <color=#92E0FF>義</color> attribute characters on the battlefield have +200 Power.\n<color=#666666>————————————————</color>\n<color=#CCCCCC><i>Sure thing!\nJuza of the Clouds' life is yours to command!!\nー Juza</i></color></size>",
     "attribute": "義",
-    "attributeCostType": [
-      "義"
-    ],
+    "attributeCostType": ["義"],
     "deckAttributes": [
       "R",
       "RL",
@@ -178,9 +172,7 @@
     "image": "https://cgs.games/api/proxy/drive.google.com/uc?export=download&id=1E7rBYqN8OkCIpTqB4iJ4zNmMLtQ9o0m1",
     "description": "<size=30>\n<color=#92E0FF>Character — Nanto Seiken</color>                <color=#92E0FF>義</color>\n<b><size=20>PWR</size>                                               <color=#92E0FF><size=20>義 Attribute</size></color>\n【1800】 </b>                                                 \n<color=#666666>————————————————</color>\n・ While attacking, this character has +200 Power.\n<color=#666666>————————————————</color>\n<color=#CCCCCC><i>All who touch me will burst into flames of wrath!!\nー Shuren</i></color></size>",
     "attribute": "義",
-    "attributeCostType": [
-      "義"
-    ],
+    "attributeCostType": ["義"],
     "deckAttributes": [
       "R",
       "RL",
@@ -270,10 +262,7 @@
     "image": "https://cgs.games/api/proxy/drive.google.com/uc?export=download&id=1WoueiwCX2B_kHmRcvXQvQbdI9S1_56AU",
     "description": "<size=30>\n<color=#92E0FF>Character — Hokuto Shinken</color>  <color=#D6D0B5><b>Ｏ</b></color><color=#FFA500>愛</color><color=#92E0FF>義</color>\n<b><size=20>PWR</size>                                               <color=#92E0FF><size=20>義 Attribute</size></color>\n【2500】 </b>                                                 \n<color=#666666>————————————————</color>\n・ 将: While this character is the [General], it has +200 Power for each character with the <color=#FFA500>愛</color> attribute on the battlefield.\n<color=#666666>————————————————</color>\n<color=#CCCCCC><i>The time has come for the violence star to die!!\nー Kenshiro</i></color></size>",
     "attribute": "義",
-    "attributeCostType": [
-      "愛",
-      "義"
-    ],
+    "attributeCostType": ["愛", "義"],
     "deckAttributes": [
       "RL",
       "RLS",
@@ -302,10 +291,7 @@
     "image": "https://cgs.games/api/proxy/drive.google.com/uc?export=download&id=1KIRnQlL9lI8s34CgmZXNembkFVmcu7-3",
     "description": "<size=30>\n<color=#92E0FF>Character — Nanto Seiken</color>        <color=#D6D0B5><b>Ｏ</b></color><color=#FFA500>愛</color><color=#92E0FF>義</color>\n<b><size=20>PWR</size>                                               <color=#92E0FF><size=20>義 Attribute</size></color>\n【2300】 </b>                                                 \n<color=#666666>————————————————</color>\n・ When this character participates in a battle, you may discard it and an opponent's character participating in the battle.\n<color=#666666>————————————————</color>\n<color=#CCCCCC><i>My fist is self-taught, self-taught without forms!!\nHaving no forms means it's impossible to predict it!!\nー Juza</i></color></size>",
     "attribute": "義",
-    "attributeCostType": [
-      "愛",
-      "義"
-    ],
+    "attributeCostType": ["愛", "義"],
     "deckAttributes": [
       "RL",
       "RLS",
@@ -387,9 +373,7 @@
     "image": "https://cgs.games/api/proxy/drive.google.com/uc?export=download&id=1J4HcxcM7yhm_-UfSkXqgXSQV5uLdJNln",
     "description": "<size=30>\n<color=#92E0FF>Character — Hokuto Shinken</color>      <color=#D6D0B5><b>Ｏ</b></color><color=#92E0FF>義</color>\n<b><size=20>PWR</size>                                               <color=#92E0FF><size=20>義 Attribute</size></color>\n【2000】 </b>                                                 \n<color=#666666>————————————————</color>\n<color=#CCCCCC><i>I shan't kill you...\nBut I shall prevent you from ever using those fists again...\nー Ryuken</i></color></size>",
     "attribute": "義",
-    "attributeCostType": [
-      "義"
-    ],
+    "attributeCostType": ["義"],
     "deckAttributes": [
       "R",
       "RL",
@@ -532,9 +516,7 @@
     "image": "https://cgs.games/api/proxy/drive.google.com/uc?export=download&id=1YAf1gVC3NCJ-OyYVbp48ZJzh1ku-Ep5P",
     "description": "<size=30>\n<color=#FFA500>Character — Hokuto Shinken</color>      <color=#D6D0B5><b>Ｏ</b></color><color=#FFA500>愛</color>\n<b><size=20>PWR</size>                                               <color=#FFA500><size=20>愛 Attribute</size></color>\n【2000】 </b>                                                 \n<color=#666666>————————————————</color>\n・ Characters that battle this character become [Resting].\n・ When this character wins a battle, do not discard the opponent's character.\n<color=#666666>————————————————</color>\n<color=#CCCCCC><i>Life is not something to be thrown away!!\nー Toki</i></color></size>",
     "attribute": "愛",
-    "attributeCostType": [
-      "愛"
-    ],
+    "attributeCostType": ["愛"],
     "deckAttributes": [
       "L",
       "RL",
@@ -571,9 +553,7 @@
     "image": "https://cgs.games/api/proxy/drive.google.com/uc?export=download&id=15vSx6gakV4Y_bbdKEiz1QkwUFSn3ZxIW",
     "description": "<size=30>\n<color=#FFA500>Character — Nanto Seiken</color>            <color=#D6D0B5><b>Ｏ</b></color><color=#FFA500>愛</color>\n<b><size=20>PWR</size>                                               <color=#FFA500><size=20>愛 Attribute</size></color>\n【2000】 </b>                                                 \n<color=#666666>————————————————</color>\n・ 将: While this character is the [General], all your characters with the \"Ordinary Person\" style on the battlefield have +100 Power.\n・ While [Intercept]ing an attack, this character has +500 Power.\n<color=#666666>————————————————</color>\n<color=#CCCCCC><i>If I think of this stone as your lives, it's not so heavy.\nー Shu</i></color></size>",
     "attribute": "愛",
-    "attributeCostType": [
-      "愛"
-    ],
+    "attributeCostType": ["愛"],
     "deckAttributes": [
       "L",
       "RL",
@@ -610,9 +590,7 @@
     "image": "https://cgs.games/api/proxy/drive.google.com/uc?export=download&id=1w6jA-Ty4ua-cRTjH4cuv53MlF-lSvKMu",
     "description": "<size=30>\n<color=#FFA500>Character — Nanto Seiken</color>        <color=#D6D0B5><b>Ｏ</b></color><color=#D6D0B5><b>Ｏ</b></color><color=#FFA500>愛</color>\n<b><size=20>PWR</size>                                               <color=#FFA500><size=20>愛 Attribute</size></color>\n【2000】 </b>                                                 \n<color=#666666>————————————————</color>\n・ If your opponent has more characters on the battlefield than you, this character has +1000 Power.\n<color=#666666>————————————————</color>\n<color=#CCCCCC><i>I, Fudo,\nwill become a demon once more to protect these innocent lives!!\nー Fudo</i></color></size>",
     "attribute": "愛",
-    "attributeCostType": [
-      "愛"
-    ],
+    "attributeCostType": ["愛"],
     "deckAttributes": [
       "L",
       "RL",
@@ -861,9 +839,7 @@
     "image": "https://cgs.games/api/proxy/drive.google.com/uc?export=download&id=10WIm5P5Py5gePS7OUlocrOi02U5GUXap",
     "description": "<size=30>\n<color=#FFA500>Character — Ordinary Person</color>     <color=#D6D0B5><b>Ｏ</b></color><color=#FFA500>愛</color>\n<b><size=20>PWR</size>                                               <color=#FFA500><size=20>愛 Attribute</size></color>\n【800】  </b>                                                  \n<color=#666666>————————————————</color>\n・ When this character enters the battlefield, choose a card from your deck and put it in your hand. Then shuffle the deck.\n<color=#666666>————————————————</color>\n<color=#CCCCCC><i>...If you can't accept my love, this is all that's left for me...\nー Toh</i></color></size>",
     "attribute": "愛",
-    "attributeCostType": [
-      "愛"
-    ],
+    "attributeCostType": ["愛"],
     "deckAttributes": [
       "L",
       "RL",
@@ -953,10 +929,7 @@
     "image": "https://cgs.games/api/proxy/drive.google.com/uc?export=download&id=1AJxVo8-J_fXFyDGXfDRxJNafxTByYefC",
     "description": "<size=30>\n<color=#FFA500>Character — Nanto Seiken</color>        <color=#D6D0B5><b>Ｏ</b></color><color=#FFA500>愛</color><color=#92E0FF>義</color>\n<b><size=20>PWR</size>                                               <color=#FFA500><size=20>愛 Attribute</size></color>\n【2400】 </b>                                                 \n<color=#666666>————————————————</color>\n・ When this character attacks a [General], it has +400 Power for that battle.\n・ Discard this character if it attacked a [General] and made it go to the discard pile.\n<color=#666666>————————————————</color>\n<color=#CCCCCC><i>Hehe... all that suffering has turned your hair white!\nー Yuda</i></color></size>",
     "attribute": "愛",
-    "attributeCostType": [
-      "愛",
-      "義"
-    ],
+    "attributeCostType": ["愛", "義"],
     "deckAttributes": [
       "RL",
       "RLS",
@@ -985,9 +958,7 @@
     "image": "https://cgs.games/api/proxy/drive.google.com/uc?export=download&id=18_G5UuT6QqbE6b9p7NxH3pu8NW1Srsi1",
     "description": "<size=30>\n<color=#FFA500>Character — Nanto Seiken</color>                <color=#FFA500>愛</color>\n<b><size=20>PWR</size>                                               <color=#FFA500><size=20>愛 Attribute</size></color>\n【800】  </b>                                                  \n<color=#666666>————————————————</color>\n・ 将: While this character is the [General], you may play a character named \"Souther\" from your hand by discarding this card, without paying its cost.\n<color=#666666>————————————————</color>\n<color=#CCCCCC><i>Master!!\nー Souther</i></color></size>",
     "attribute": "愛",
-    "attributeCostType": [
-      "愛"
-    ],
+    "attributeCostType": ["愛"],
     "deckAttributes": [
       "L",
       "RL",
@@ -1077,9 +1048,7 @@
     "image": "https://cgs.games/api/proxy/drive.google.com/uc?export=download&id=1arWAH00lm2hCwHxp4K65Y-oZxRRa8HUS",
     "description": "<size=30>\n<color=#FFA500>Character — Nanto Seiken</color>            <color=#D6D0B5><b>Ｏ</b></color><color=#FFA500>愛</color>\n<b><size=20>PWR</size>                                               <color=#FFA500><size=20>愛 Attribute</size></color>\n【1800】 </b>                                                 \n<color=#666666>————————————————</color>\n・ While [Intercept]ing an attack, this character has +400 Power.\n<color=#666666>————————————————</color>\n<color=#CCCCCC><i>...it's the destiny of each successor\nto be defeated by the next successor!\nー Ohgai</i></color></size>",
     "attribute": "愛",
-    "attributeCostType": [
-      "愛"
-    ],
+    "attributeCostType": ["愛"],
     "deckAttributes": [
       "L",
       "RL",
@@ -1116,10 +1085,7 @@
     "image": "https://cgs.games/api/proxy/drive.google.com/uc?export=download&id=1_x2CCORDuUu_NxVqQEM3l-iGO8nDjNXW",
     "description": "<size=30>\n<color=#97FF7A>Character — Nanto Seiken</color>        <color=#D6D0B5><b>Ｏ</b></color><color=#FFA500>愛</color><color=#97FF7A>流</color>\n<b><size=20>PWR</size>                                               <color=#97FF7A><size=20>流 Attribute</size></color>\n【2500】 </b>                                                 \n<color=#666666>————————————————</color>\n・ At the end your attack phase, you may make this character [Ready].\n・ When you put another character on the battlefield, return this character to your hand.\n<color=#666666>————————————————</color>\n<color=#CCCCCC><i>I live a free life, just like those clouds.\nー Juza</i></color></size>",
     "attribute": "流",
-    "attributeCostType": [
-      "愛",
-      "流"
-    ],
+    "attributeCostType": ["愛", "流"],
     "deckAttributes": [
       "LS",
       "RLS",
@@ -1254,9 +1220,7 @@
     "image": "https://cgs.games/api/proxy/drive.google.com/uc?export=download&id=1Pxrg-7FI1eidh1MjJfPZfbzaMGnGhCPC",
     "description": "<size=30>\n<color=#97FF7A>Character — Taizan Ryu</color>            <color=#D6D0B5><b>Ｏ</b></color><color=#D6D0B5><b>Ｏ</b></color><color=#97FF7A>流</color>\n<b><size=20>PWR</size>                                               <color=#97FF7A><size=20>流 Attribute</size></color>\n【2000】 </b>                                                 \n<color=#666666>————————————————</color>\n・ When this character attacks, if another character with Power <= 800 [Intercept]s the attack, deal damage to the original target.\n・ If this character attacks, discard it at the end of the turn.\n<color=#666666>————————————————</color>\n<color=#CCCCCC><i>I'll be known as a rabid wolf, for the sake of the next age!!\nー Ryuga</i></color></size>",
     "attribute": "流",
-    "attributeCostType": [
-      "流"
-    ],
+    "attributeCostType": ["流"],
     "deckAttributes": [
       "S",
       "LS",
@@ -1452,9 +1416,7 @@
     "image": "https://cgs.games/api/proxy/drive.google.com/uc?export=download&id=1aT3hzAIPuKbfSzqzln9tv3Y3JHtZnQqo",
     "description": "<size=30>\n<color=#97FF7A>Character — Ordinary Person</color>         <color=#97FF7A>流</color>\n<b><size=20>PWR</size>                                               <color=#97FF7A><size=20>流 Attribute</size></color>\n【500】  </b>                                                  \n<color=#666666>————————————————</color>\n・ While this character is on the battlefield, all characters with the \"Ordinary Person\" style can't attack.\n<color=#666666>————————————————</color>\n<color=#CCCCCC><i>Nonresistance is the only weapon\nthat we have to defend ourselves!\nー Village Chief</i></color></size>",
     "attribute": "流",
-    "attributeCostType": [
-      "流"
-    ],
+    "attributeCostType": ["流"],
     "deckAttributes": [
       "S",
       "LS",
@@ -1491,9 +1453,7 @@
     "image": "https://cgs.games/api/proxy/drive.google.com/uc?export=download&id=1oSKwGCmBcVhE_IaExHodkVyJEEV6psaN",
     "description": "<size=30>\n<color=#97FF7A>Character — Hokuto Shinken</color>      <color=#D6D0B5><b>Ｏ</b></color><color=#97FF7A>流</color>\n<b><size=20>PWR</size>                                               <color=#97FF7A><size=20>流 Attribute</size></color>\n【2200】 </b>                                                 \n<color=#666666>————————————————</color>\n・ This character can't be equipped with a [Skill] card.\n・ While attacking, this character has +300 Power.\n<color=#666666>————————————————</color>\n<color=#CCCCCC><i>And you'll be joining them soon. I'll give you your last rites!!\nー Koryu</i></color></size>",
     "attribute": "流",
-    "attributeCostType": [
-      "流"
-    ],
+    "attributeCostType": ["流"],
     "deckAttributes": [
       "S",
       "LS",
@@ -1530,9 +1490,7 @@
     "image": "https://cgs.games/api/proxy/drive.google.com/uc?export=download&id=1WJFLYFKjsGc38gC_wQBZhRnNTVjUjb07",
     "description": "<size=30>\n<color=#97FF7A>Character — Nanto Seiken</color>                <color=#97FF7A>流</color>\n<b><size=20>PWR</size>                                               <color=#97FF7A><size=20>流 Attribute</size></color>\n【700】  </b>                                                  \n<color=#666666>————————————————</color>\n・ 将: While this character is the [General], you may play a character named \"Juza\" from your hand by discarding this card, without paying its cost.\n<color=#666666>————————————————</color>\n<color=#CCCCCC><i>Me? I'd just eat them.\nー Juza</i></color></size>",
     "attribute": "流",
-    "attributeCostType": [
-      "流"
-    ],
+    "attributeCostType": ["流"],
     "deckAttributes": [
       "S",
       "LS",
@@ -1728,10 +1686,7 @@
     "image": "https://cgs.games/api/proxy/drive.google.com/uc?export=download&id=1_O__7VuWsQ_i7OPTQSpp9_nCxpu9IoG7",
     "description": "<size=30>\n<color=#A480FF>Character — Hokuto Shinken</color>  <color=#D6D0B5><b>Ｏ</b></color><color=#FF6745>邪</color><color=#A480FF>覇</color>\n<b><size=20>PWR</size>                                               <color=#A480FF><size=20>覇 Attribute</size></color>\n【2400】 </b>                                                 \n<color=#666666>————————————————</color>\n・ 将: While this character is the [General], it has +200 Power.\n・ When this character attacks, you may discard any number of cards from your hand, for each discarded card, it has +100 Power.\n<color=#666666>————————————————</color>\n<color=#CCCCCC><i>THEN I SHALL FIGHT THE GODS, TOO!!\nー Raoh</i></color></size>",
     "attribute": "覇",
-    "attributeCostType": [
-      "邪",
-      "覇"
-    ],
+    "attributeCostType": ["邪", "覇"],
     "deckAttributes": [
       "UE",
       "SUE",
@@ -1760,9 +1715,7 @@
     "image": "https://cgs.games/api/proxy/drive.google.com/uc?export=download&id=1j3VJ7NBZ7W0pvViouBcMMr2H81qMyTaG",
     "description": "<size=30>\n<color=#A480FF>Character — Nanto Seiken</color>        <color=#D6D0B5><b>Ｏ</b></color><color=#D6D0B5><b>Ｏ</b></color><color=#FF6745>邪</color>\n<b><size=20>PWR</size>                                               <color=#A480FF><size=20>覇 Attribute</size></color>\n【2000】 </b>                                                 \n<color=#666666>————————————————</color>\n・ 将: While this character is the [General], it has +400 Power.\n・ When this character attacks, if another character [Intercept]s the attack, deal damage to the original target.\n<color=#666666>————————————————</color>\n<color=#CCCCCC><i>I will not die by your fist!!\nー Shin</i></color></size>",
     "attribute": "覇",
-    "attributeCostType": [
-      "邪"
-    ],
+    "attributeCostType": ["邪"],
     "deckAttributes": [
       "E",
       "UE",
@@ -1799,9 +1752,7 @@
     "image": "https://cgs.games/api/proxy/drive.google.com/uc?export=download&id=1tDr5vsjdD2b43IsIW2Mm5944JRPF4pY0",
     "description": "<size=30>\n<color=#A480FF>Character — Nanto Seiken</color>        <color=#D6D0B5><b>Ｏ</b></color><color=#D6D0B5><b>Ｏ</b></color><color=#A480FF>覇</color>\n<b><size=20>PWR</size>                                               <color=#A480FF><size=20>覇 Attribute</size></color>\n【2300】 </b>                                                 \n<color=#666666>————————————————</color>\n・ 将: While this character is the [General], it has +200 Power.\n・ When this character attacks, discard one card from your hand (if you have any).\n<color=#666666>————————————————</color>\n<color=#CCCCCC><i>I was born with the body of an Emperor!\nー Souther</i></color></size>",
     "attribute": "覇",
-    "attributeCostType": [
-      "覇"
-    ],
+    "attributeCostType": ["覇"],
     "deckAttributes": [
       "U",
       "SU",
@@ -1891,9 +1842,7 @@
     "image": "https://cgs.games/api/proxy/drive.google.com/uc?export=download&id=1ZQ9TgSSaoXjYJMWdWHtlcjtWI-MQpNNl",
     "description": "<size=30>\n<color=#A480FF>Character — Hokuto Shinken</color>  <color=#D6D0B5><b>Ｏ</b></color><color=#A480FF>覇</color><color=#A480FF>覇</color>\n<b><size=20>PWR</size>                                               <color=#A480FF><size=20>覇 Attribute</size></color>\n【2500】 </b>                                                 \n<color=#666666>————————————————</color>\n・ 将: While this character is the [General], it has +200 Power.\n・ When this character attacks, discard one of your characters on the battlefield not named \"Raoh\" or \"Kokuoh\".\n<color=#666666>————————————————</color>\n<color=#CCCCCC><i>Ken-Oh's legend of terror begins now!\nー Raoh</i></color></size>",
     "attribute": "覇",
-    "attributeCostType": [
-      "覇"
-    ],
+    "attributeCostType": ["覇"],
     "deckAttributes": [
       "U",
       "SU",
@@ -1930,9 +1879,7 @@
     "image": "https://cgs.games/api/proxy/drive.google.com/uc?export=download&id=1HtuFBc9EtCCQG6PsAt28d6_YEcAHPFqP",
     "description": "<size=30>\n<color=#A480FF>Character — Hokuto Shinken</color>          <color=#A480FF>覇</color>\n<b><size=20>PWR</size>                                               <color=#A480FF><size=20>覇 Attribute</size></color>\n【900】  </b>                                                  \n<color=#666666>————————————————</color>\n・ 将: While this character is the [General], you may play a character named \"Raoh\" from your hand by discarding this card, without paying its cost.\n<color=#666666>————————————————</color>\n<color=#CCCCCC><i>I will become the strongest man of all time!!\nー Raoh</i></color></size>",
     "attribute": "覇",
-    "attributeCostType": [
-      "覇"
-    ],
+    "attributeCostType": ["覇"],
     "deckAttributes": [
       "U",
       "SU",
@@ -1969,9 +1916,7 @@
     "image": "https://cgs.games/api/proxy/drive.google.com/uc?export=download&id=19m1UcP5a1ZKRRJj0Ie2NIEwgCYf86u6b",
     "description": "<size=30>\n<color=#FF6745>Character — Hokuto Shinken</color>      <color=#FF6745>邪</color><color=#FF6745>邪</color>\n<b><size=20>PWR</size>                                               <color=#FF6745><size=20>邪 Attribute</size></color>\n【1500】 </b>                                                 \n<color=#666666>————————————————</color>\n・ 将: While this character is the [General], all <color=#FF6745>邪</color> attribute characters on the battlefield have +200 Power while attacking.\n<color=#666666>————————————————</color>\n<color=#CCCCCC><i>Hyahaha!! Who am I?!\nSay my name!!\nー Jagi</i></color></size>",
     "attribute": "邪",
-    "attributeCostType": [
-      "邪"
-    ],
+    "attributeCostType": ["邪"],
     "deckAttributes": [
       "E",
       "UE",
@@ -2008,9 +1953,7 @@
     "image": "https://cgs.games/api/proxy/drive.google.com/uc?export=download&id=1NGLhWZwehQbaP92R_E4F4Za1HM46aQpY",
     "description": "<size=30>\n<color=#FF6745>Character — Nanto Seiken</color>            <color=#FF6745>邪</color><color=#FF6745>邪</color>\n<b><size=20>PWR</size>                                               <color=#FF6745><size=20>邪 Attribute</size></color>\n【1800】 </b>                                                 \n<color=#666666>————————————————</color>\n・ 将: While this character is the [General], you may use your [Resting] characters to [Intercept] attacks that target it, then discard the chosen character.\n<color=#666666>————————————————</color>\n<color=#CCCCCC><i>No one in this world is stronger than me...\nOr more beautiful!!\nー Yuda</i></color></size>",
     "attribute": "邪",
-    "attributeCostType": [
-      "邪"
-    ],
+    "attributeCostType": ["邪"],
     "deckAttributes": [
       "E",
       "UE",
@@ -2206,9 +2149,7 @@
     "image": "https://cgs.games/api/proxy/drive.google.com/uc?export=download&id=1nZKmNIm_M9So3L7znphAS70t_F394ZdO",
     "description": "<size=30>\n<color=#FF6745>Character — Nothing</color>                         <color=#FF6745>邪</color>\n<b><size=20>PWR</size>                                               <color=#FF6745><size=20>邪 Attribute</size></color>\n【1200】 </b>                                                 \n<color=#666666>————————————————</color>\n<color=#CCCCCC><i>Hey... Keep your filthy peasant hands off me!!\nー Club</i></color></size>",
     "attribute": "邪",
-    "attributeCostType": [
-      "邪"
-    ],
+    "attributeCostType": ["邪"],
     "deckAttributes": [
       "E",
       "UE",
@@ -2245,9 +2186,7 @@
     "image": "https://cgs.games/api/proxy/drive.google.com/uc?export=download&id=1I4wD1b3j5Oik9jxydIfvH1aJ4VHmZhv-",
     "description": "<size=30>\n<color=#FF6745>Character — Nothing</color>                     <color=#D6D0B5><b>Ｏ</b></color><color=#FF6745>邪</color>\n<b><size=20>PWR</size>                                               <color=#FF6745><size=20>邪 Attribute</size></color>\n【1400】 </b>                                                 \n<color=#666666>————————————————</color>\n・ When this character is attacked, you may automatically win the battle by discarding 2 cards from your hand.\n<color=#666666>————————————————</color>\n<color=#CCCCCC><i>So it IS a pig. Pigs belong in a pigsty. Move aside!\nー Kenshiro</i></color></size>",
     "attribute": "邪",
-    "attributeCostType": [
-      "邪"
-    ],
+    "attributeCostType": ["邪"],
     "deckAttributes": [
       "E",
       "UE",
@@ -2337,9 +2276,7 @@
     "image": "https://cgs.games/api/proxy/drive.google.com/uc?export=download&id=1QgCfuvNFHlnNRs0TQjT3rcUe0xC1WscJ",
     "description": "<size=30>\n<color=#FF6745>Character — Nanto Seiken</color>            <color=#D6D0B5><b>Ｏ</b></color><color=#FF6745>邪</color>\n<b><size=20>PWR</size>                                               <color=#FF6745><size=20>邪 Attribute</size></color>\n【1500】 </b>                                                 \n<color=#666666>————————————————</color>\n・ 将: While this character is the [General], at the beginning of the opponent's attack phase, return a [Skill] card from one of their characters to their hand.\n<color=#666666>————————————————</color>\n<color=#CCCCCC><i>He's got supernatural powers!!\nー Mad Sergeant</i></color></size>",
     "attribute": "邪",
-    "attributeCostType": [
-      "邪"
-    ],
+    "attributeCostType": ["邪"],
     "deckAttributes": [
       "E",
       "UE",
@@ -2376,9 +2313,7 @@
     "image": "https://cgs.games/api/proxy/drive.google.com/uc?export=download&id=147HGSrjillH5YoAZ8hNw9c7oeZtSCUiK",
     "description": "<size=30>\n<color=#FF6745>Character — Nothing</color>                     <color=#D6D0B5><b>Ｏ</b></color><color=#FF6745>邪</color>\n<b><size=20>PWR</size>                                               <color=#FF6745><size=20>邪 Attribute</size></color>\n【800】  </b>                                                  \n<color=#666666>————————————————</color>\n・ When one of your other characters is discarded from the battlefield, you may discard one card from your hand to make this character [Ready].\n<color=#666666>————————————————</color>\n<color=#CCCCCC><i>I ain't interested in fighting you.\nー Jackal</i></color></size>",
     "attribute": "邪",
-    "attributeCostType": [
-      "邪"
-    ],
+    "attributeCostType": ["邪"],
     "deckAttributes": [
       "E",
       "UE",
@@ -2468,9 +2403,7 @@
     "image": "https://cgs.games/api/proxy/drive.google.com/uc?export=download&id=1iUDmPjnqAVz2CL_hcvN3G9_PUfPVwY79",
     "description": "<size=30>\n<color=#FF6745>Character — Kazan Ryu</color>                     <color=#FF6745>邪</color>\n<b><size=20>PWR</size>                                               <color=#FF6745><size=20>邪 Attribute</size></color>\n【700】  </b>                                                  \n<color=#666666>————————————————</color>\n・ You may have multiple copies of this character, even if you control other copies with the same name.\n<color=#666666>————————————————</color>\n<color=#CCCCCC><i>You idiots really think I'm the last of the fang clan?!\nー Fang Clan</i></color></size>",
     "attribute": "邪",
-    "attributeCostType": [
-      "邪"
-    ],
+    "attributeCostType": ["邪"],
     "deckAttributes": [
       "E",
       "UE",
@@ -2507,9 +2440,7 @@
     "image": "https://cgs.games/api/proxy/drive.google.com/uc?export=download&id=1asq3iE-cLiYRzjxC-ZNnsbWGqNxWSVen",
     "description": "<size=30>\n<color=#FF6745>Character — Kazan Ryu</color>                 <color=#FF6745>邪</color><color=#FF6745>邪</color>\n<b><size=20>PWR</size>                                               <color=#FF6745><size=20>邪 Attribute</size></color>\n【1500】 </b>                                                 \n<color=#666666>————————————————</color>\n・ 将: While this character is the [General], when a character named \"Fang Clan\" is discarded from the battlefield, return it to your hand instead.\n<color=#666666>————————————————</color>\n<color=#CCCCCC><i>You fool! So long as I live,\nI can replace you easily!!\nー King Fang</i></color></size>",
     "attribute": "邪",
-    "attributeCostType": [
-      "邪"
-    ],
+    "attributeCostType": ["邪"],
     "deckAttributes": [
       "E",
       "UE",
@@ -2546,9 +2477,7 @@
     "image": "https://cgs.games/api/proxy/drive.google.com/uc?export=download&id=1PbR6y9D8o37BBl5zhIfpogZVa5byMuyF",
     "description": "<size=30>\n<color=#FF6745>Character — Nanto Seiken</color>            <color=#FF6745>邪</color><color=#FF6745>邪</color>\n<b><size=20>PWR</size>                                               <color=#FF6745><size=20>邪 Attribute</size></color>\n【1500】 </b>                                                 \n<color=#666666>————————————————</color>\n・ 将: While this character is the [General], when a character with Power <= 1500 attacks, discard the top card of your deck. If you discarded a <color=#FF6745>邪</color> attribute card, the attacking character will have +1000 Power while attacking, otherwise discard the attacker and cancel the battle.\n<color=#666666>————————————————</color>\n<color=#CCCCCC><i>Mm?! Did I get it wrong ...?\nー Amiba</i></color></size>",
     "attribute": "邪",
-    "attributeCostType": [
-      "邪"
-    ],
+    "attributeCostType": ["邪"],
     "deckAttributes": [
       "E",
       "UE",
@@ -2585,9 +2514,7 @@
     "image": "https://cgs.games/api/proxy/drive.google.com/uc?export=download&id=1YhdZ1KQS9WQxDyOaQEgBaOdPjkm48nlK",
     "description": "<size=30>\n<color=#FF6745>Character — Taizan Ryu</color>                <color=#D6D0B5><b>Ｏ</b></color><color=#FF6745>邪</color>\n<b><size=20>PWR</size>                                               <color=#FF6745><size=20>邪 Attribute</size></color>\n【1500】 </b>                                                 \n<color=#666666>————————————————</color>\n・ 将: While this character is the [General], when it attacks, the opponent discards 1 card at random from their hand.\n<color=#666666>————————————————</color>\n<color=#CCCCCC><i>As if a maggot like you\ncould topple the legend that is Cassandra.\nー Uighur, the Warden</i></color></size>",
     "attribute": "邪",
-    "attributeCostType": [
-      "邪"
-    ],
+    "attributeCostType": ["邪"],
     "deckAttributes": [
       "E",
       "UE",
@@ -2624,9 +2551,7 @@
     "image": "https://cgs.games/api/proxy/drive.google.com/uc?export=download&id=1c01Nqe4Z8TlFkczpKHZEz-ybo6O29bAk",
     "description": "<size=30>\n<color=#FF6745>Character — Nothing</color>                         <color=#FF6745>邪</color>\n<b><size=20>PWR</size>                                               <color=#FF6745><size=20>邪 Attribute</size></color>\n【1000】 </b>                                                 \n<color=#666666>————————————————</color>\n・ When this character enters the battlefield, reveal the top card of your deck. If it is a <color=#FF6745>邪</color> attribute card, you may draw it into your hand, and discard one of your opponent's characters with Power <= 800. If it has a different attribute, discard it.\n<color=#666666>————————————————</color>\n<color=#CCCCCC><i>So, Seki, tell me... Is this man innocent or must he die?\nー Galf</i></color></size>",
     "attribute": "邪",
-    "attributeCostType": [
-      "邪"
-    ],
+    "attributeCostType": ["邪"],
     "deckAttributes": [
       "E",
       "UE",
@@ -2663,9 +2588,7 @@
     "image": "https://cgs.games/api/proxy/drive.google.com/uc?export=download&id=16594C-t9IEghNYcxELWYPi_ufUf6rQnx",
     "description": "<size=30>\n<color=#FF6745>Character — Nothing</color>                     <color=#D6D0B5><b>Ｏ</b></color><color=#FF6745>邪</color>\n<b><size=20>PWR</size>                                               <color=#FF6745><size=20>邪 Attribute</size></color>\n【800】  </b>                                                  \n<color=#666666>————————————————</color>\n・ When this character enters the battlefield, the opponent discards 1 card at random from their hand.\n<color=#666666>————————————————</color>\n<color=#CCCCCC><i>Heeheehee... I reckon that the village is under water by now!\nー Komaku</i></color></size>",
     "attribute": "邪",
-    "attributeCostType": [
-      "邪"
-    ],
+    "attributeCostType": ["邪"],
     "deckAttributes": [
       "E",
       "UE",
@@ -2702,9 +2625,7 @@
     "image": "https://cgs.games/api/proxy/drive.google.com/uc?export=download&id=1rM1pnj7vQK6YgWx3HP_KzSW8w18A1zFb",
     "description": "<size=30>\n<color=#FF6745>Character — Nothing</color>                     <color=#D6D0B5><b>Ｏ</b></color><color=#FF6745>邪</color>\n<b><size=20>PWR</size>                                               <color=#FF6745><size=20>邪 Attribute</size></color>\n【600】  </b>                                                  \n<color=#666666>————————————————</color>\n・ While this character is on the battlefield, if the opponent uses an [Event] card, draw one card from your deck.\n<color=#666666>————————————————</color>\n<color=#CCCCCC><i>In fact, I, Usa, would like a piece of the action myself...\nー Usa</i></color></size>",
     "attribute": "邪",
-    "attributeCostType": [
-      "邪"
-    ],
+    "attributeCostType": ["邪"],
     "deckAttributes": [
       "E",
       "UE",
@@ -2741,9 +2662,7 @@
     "image": "https://cgs.games/api/proxy/drive.google.com/uc?export=download&id=1i5is_bsC-H7KldvJ47zxEjzohFMiQhmu",
     "description": "<size=30>\n<color=#FF6745>Character — Hokuto Shinken</color>      <color=#D6D0B5><b>Ｏ</b></color><color=#FF6745>邪</color>\n<b><size=20>PWR</size>                                               <color=#FF6745><size=20>邪 Attribute</size></color>\n【1500】 </b>                                                 \n<color=#666666>————————————————</color>\n・ This character is considered to have both the name \"Toki\" and \"Amiba\".\n・ When this character attacks, you may choose one opponent's character that is able to [Intercept] it and force it to [Intercept].\n<color=#666666>————————————————</color>\n<color=#CCCCCC><i>Kenshiro, violence is good!!\nー Toki?</i></color></size>",
     "attribute": "邪",
-    "attributeCostType": [
-      "邪"
-    ],
+    "attributeCostType": ["邪"],
     "deckAttributes": [
       "E",
       "UE",
@@ -2780,9 +2699,7 @@
     "image": "https://cgs.games/api/proxy/drive.google.com/uc?export=download&id=142z0NDi-yscipPNgs9TxA_dQOYF1W5Uq",
     "description": "<size=30>\n<color=#FF6745>Character — Nothing</color>                     <color=#D6D0B5><b>Ｏ</b></color><color=#FF6745>邪</color>\n<b><size=20>PWR</size>                                               <color=#FF6745><size=20>邪 Attribute</size></color>\n【1000】 </b>                                                 \n<color=#666666>————————————————</color>\n・ When this character enters the battlefield, reveal cards from the top of your deck until you reveal a [Character] card, then add all revealed cards to your hand.\n<color=#666666>————————————————</color>\n<color=#CCCCCC><i>You broke the record, Master Gonzu.\nー Gonzu's Subordinate</i></color></size>",
     "attribute": "邪",
-    "attributeCostType": [
-      "邪"
-    ],
+    "attributeCostType": ["邪"],
     "deckAttributes": [
       "E",
       "UE",
@@ -2819,9 +2736,7 @@
     "image": "https://cgs.games/api/proxy/drive.google.com/uc?export=download&id=1ZBSdL0hIgAjHGVwT9OBNESrLiJabYLY8",
     "description": "<size=30>\n<color=#92E0FF>Skill</color>                                                         <color=#92E0FF>義</color>\n <b>                                                    <color=#92E0FF><size=20>義 Attribute</size></color></b>\n<color=#666666>————————————————</color>\n・ Can only be equipped to characters with the \"Hokuto Shinken\" style.\n・ Equipped character gains \"Double Attack\". (Can attack the same character twice)\n・ Discard this card after the equipped character finishes attacking.\n<color=#666666>————————————————</color>\n<color=#CCCCCC><i>Atatatatah!!!\nー Kenshiro</i></color></size>",
     "attribute": "義",
-    "attributeCostType": [
-      "義"
-    ],
+    "attributeCostType": ["義"],
     "deckAttributes": [
       "R",
       "RL",
@@ -2911,9 +2826,7 @@
     "image": "https://cgs.games/api/proxy/drive.google.com/uc?export=download&id=16HkmSy12De9ePZ5wxiwzOdZUQT_-yrEE",
     "description": "<size=30>\n<color=#92E0FF>Skill</color>                                                     <color=#D6D0B5><b>Ｏ</b></color><color=#92E0FF>義</color>\n <b>                                                    <color=#92E0FF><size=20>義 Attribute</size></color></b>\n<color=#666666>————————————————</color>\n・ Can only be equipped to characters with the \"Hokuto Shinken\" style.\n・ When the equipped character attacks, disable the [Skill] cards equipped by the opponent.\n<color=#666666>————————————————</color>\n<color=#CCCCCC><i>You are nothing more than a lump of fat! Now die!!\nー Kenshiro</i></color></size>",
     "attribute": "義",
-    "attributeCostType": [
-      "義"
-    ],
+    "attributeCostType": ["義"],
     "deckAttributes": [
       "R",
       "RL",
@@ -2950,9 +2863,7 @@
     "image": "https://cgs.games/api/proxy/drive.google.com/uc?export=download&id=1WxySfZ5rj90FS9aTA6oGi5TwkNkTt2QU",
     "description": "<size=30>\n<color=#92E0FF>Skill</color>                                                         <color=#92E0FF>義</color>\n <b>                                                    <color=#92E0FF><size=20>義 Attribute</size></color></b>\n<color=#666666>————————————————</color>\n・ Can only be equipped to characters with the \"Nanto Seiken\" style.\n・ Equipped character gains \"Wide Attack\". (During an attack can select two characters and perform an attack against each).\n・ Discard this card after the equipped character finishes attacking.</size>",
     "attribute": "義",
-    "attributeCostType": [
-      "義"
-    ],
+    "attributeCostType": ["義"],
     "deckAttributes": [
       "R",
       "RL",
@@ -2989,9 +2900,7 @@
     "image": "https://cgs.games/api/proxy/drive.google.com/uc?export=download&id=1wjKg13xGXAropTJRFkWitUJjYY5zX7kX",
     "description": "<size=30>\n<color=#92E0FF>Skill</color>                                                     <color=#D6D0B5><b>Ｏ</b></color><color=#92E0FF>義</color>\n <b>                                                    <color=#92E0FF><size=20>義 Attribute</size></color></b>\n<color=#666666>————————————————</color>\n・ Can only be equipped to characters with the \"Nanto Seiken\" style.\n・ Equipped character has +600 Power during attacks.\n・ Discard this card after the equipped character finishes attacking.</size>",
     "attribute": "義",
-    "attributeCostType": [
-      "義"
-    ],
+    "attributeCostType": ["義"],
     "deckAttributes": [
       "R",
       "RL",
@@ -3028,9 +2937,7 @@
     "image": "https://cgs.games/api/proxy/drive.google.com/uc?export=download&id=1F8CNNbFpX16sl4nGp8gyLOE63NnuOXpf",
     "description": "<size=30>\n<color=#FFA500>Skill</color>                                                         <color=#FFA500>愛</color>\n <b>                                                    <color=#FFA500><size=20>愛 Attribute</size></color></b>\n<color=#666666>————————————————</color>\n・ Can only be equipped to characters with the \"Hokuto Shinken\" style.\n・ Equipped character has +200 Power.\n<color=#666666>————————————————</color>\n<color=#CCCCCC><i>Aah!! I feel SO GOOD!!\nー Ken-Oh's Guard</i></color></size>",
     "attribute": "愛",
-    "attributeCostType": [
-      "愛"
-    ],
+    "attributeCostType": ["愛"],
     "deckAttributes": [
       "L",
       "RL",
@@ -3067,9 +2974,7 @@
     "image": "https://cgs.games/api/proxy/drive.google.com/uc?export=download&id=1zQieiQqdcjKOBhGgQ7FIBf04KMS9Ob_t",
     "description": "<size=30>\n<color=#FFA500>Skill</color>                                                         <color=#FFA500>愛</color>\n <b>                                                    <color=#FFA500><size=20>愛 Attribute</size></color></b>\n<color=#666666>————————————————</color>\n・ Can only be equipped to characters with the \"Nanto Seiken\" style.\n・ Equipped character has +200 Power.</size>",
     "attribute": "愛",
-    "attributeCostType": [
-      "愛"
-    ],
+    "attributeCostType": ["愛"],
     "deckAttributes": [
       "L",
       "RL",
@@ -3159,9 +3064,7 @@
     "image": "https://cgs.games/api/proxy/drive.google.com/uc?export=download&id=1VtvFDIUDCC2Jrjyai143DOagFG88V5Or",
     "description": "<size=30>\n<color=#97FF7A>Skill</color>                                                         <color=#97FF7A>流</color>\n <b>                                                    <color=#97FF7A><size=20>流 Attribute</size></color></b>\n<color=#666666>————————————————</color>\n・ Can only be equipped to characters with the \"Taizan Ryu\" style.\n・ Equipped character has +400 Power during attacks.</size>",
     "attribute": "流",
-    "attributeCostType": [
-      "流"
-    ],
+    "attributeCostType": ["流"],
     "deckAttributes": [
       "S",
       "LS",
@@ -3357,9 +3260,7 @@
     "image": "https://cgs.games/api/proxy/drive.google.com/uc?export=download&id=1sVklGiMbwlUHZ6KhgPpNx30c25wAvo1K",
     "description": "<size=30>\n<color=#A480FF>Skill</color>                                                     <color=#D6D0B5><b>Ｏ</b></color><color=#A480FF>覇</color>\n <b>                                                    <color=#A480FF><size=20>覇 Attribute</size></color></b>\n<color=#666666>————————————————</color>\n・ Can only be equipped to characters with the \"Hokuto Shinken\" style.\n・ Equipped character has +400 Power during attacks.\n・ Equipped character gains \"Double Attack\". (Can attack the same character twice)\n・ Discard this card after the equipped character finishes attacking.\n<color=#666666>————————————————</color>\n<color=#CCCCCC><i>I will crush you and your Musō Tensei into oblivion!\nー Raoh</i></color></size>",
     "attribute": "覇",
-    "attributeCostType": [
-      "覇"
-    ],
+    "attributeCostType": ["覇"],
     "deckAttributes": [
       "U",
       "SU",
@@ -3396,9 +3297,7 @@
     "image": "https://cgs.games/api/proxy/drive.google.com/uc?export=download&id=1mEEeeX0xtGP3CyNv1kcKU5o3BC3YFCy4",
     "description": "<size=30>\n<color=#A480FF>Skill</color>                                                     <color=#D6D0B5><b>Ｏ</b></color><color=#A480FF>覇</color>\n <b>                                                    <color=#A480FF><size=20>覇 Attribute</size></color></b>\n<color=#666666>————————————————</color>\n・ Can only be equipped to characters with the \"Nanto Seiken\" style.\n・ Equipped character has +200 Power during attacks.\n・ Equipped character gains \"Wide Attack\". (During an attack can select two characters and perform an attack against each).\n・ Discard this card after the equipped character finishes attacking.\n<color=#666666>————————————————</color>\n<color=#CCCCCC><i>For all my enemies are beneath me!!\nー Souther</i></color></size>",
     "attribute": "覇",
-    "attributeCostType": [
-      "覇"
-    ],
+    "attributeCostType": ["覇"],
     "deckAttributes": [
       "U",
       "SU",
@@ -3488,9 +3387,7 @@
     "image": "https://cgs.games/api/proxy/drive.google.com/uc?export=download&id=1bQtFCdEOadP_WNKDG7xsG8tVilZ6ljdr",
     "description": "<size=30>\n<color=#FF6745>Skill</color>                                                         <color=#FF6745>邪</color>\n <b>                                                    <color=#FF6745><size=20>邪 Attribute</size></color></b>\n<color=#666666>————————————————</color>\n・ Can only be equipped to characters with the <color=#FF6745>邪</color> attribute.\n・ Equipped character has +400 Power during attacks.\n・ Discard this card after the equipped character finishes attacking.</size>",
     "attribute": "邪",
-    "attributeCostType": [
-      "邪"
-    ],
+    "attributeCostType": ["邪"],
     "deckAttributes": [
       "E",
       "UE",
@@ -3580,9 +3477,7 @@
     "image": "https://cgs.games/api/proxy/drive.google.com/uc?export=download&id=1_fHo3v1AZn99gJfuTsky0LXnw1AMYCQa",
     "description": "<size=30>\n<color=#92E0FF>Event</color>                                                  <color=#D6D0B5><b>Ｏ</b></color><color=#92E0FF>義</color>\n <b>                                                    <color=#92E0FF><size=20>義 Attribute</size></color></b>\n<color=#666666>————————————————</color>\n・ On your opponent's next turn, all their characters with Power <= 1000 will attack if able.</size>",
     "attribute": "義",
-    "attributeCostType": [
-      "義"
-    ],
+    "attributeCostType": ["義"],
     "deckAttributes": [
       "R",
       "RL",
@@ -3672,9 +3567,7 @@
     "image": "https://cgs.games/api/proxy/drive.google.com/uc?export=download&id=1mtRJ82I87wRNFTxyVhh8cysmMI-wVhsn",
     "description": "<size=30>\n<color=#92E0FF>Event</color>                                                      <color=#92E0FF>義</color>\n<b><color=#FF6666>COUNTER</color>                                   <color=#92E0FF><size=20>義 Attribute</size></color></b>\n<color=#666666>————————————————</color>\n・ Counter (you may play this card during the [Intercept] step)\n・ An opponent's character of your choice can't attack until your next turn.</size>",
     "attribute": "義",
-    "attributeCostType": [
-      "義"
-    ],
+    "attributeCostType": ["義"],
     "deckAttributes": [
       "R",
       "RL",
@@ -3711,9 +3604,7 @@
     "image": "https://cgs.games/api/proxy/drive.google.com/uc?export=download&id=16SkFaqUxA9tTJfUBFuiTr2l_ztHnLzAl",
     "description": "<size=30>\n<color=#FFA500>Event</color>                                                      <color=#FFA500>愛</color>\n <b>                                                    <color=#FFA500><size=20>愛 Attribute</size></color></b>\n<color=#666666>————————————————</color>\n・ Choose one of your characters. This turn it will ignore effects that prevent it from attacking the deck as long as you control a [General].</size>",
     "attribute": "愛",
-    "attributeCostType": [
-      "愛"
-    ],
+    "attributeCostType": ["愛"],
     "deckAttributes": [
       "L",
       "RL",
@@ -3750,9 +3641,7 @@
     "image": "https://cgs.games/api/proxy/drive.google.com/uc?export=download&id=1L0niiwfKSe_SCFCOBPtC1cFGvoxjEUQI",
     "description": "<size=30>\n<color=#FFA500>Event</color>                                                      <color=#FFA500>愛</color>\n<b><color=#FF6666>COUNTER</color>                                   <color=#FFA500><size=20>愛 Attribute</size></color></b>\n<color=#666666>————————————————</color>\n・ Counter (you may play this card during the [Intercept] step)\n・ Discard one of your characters on the battlefield in order set one of the opponent's character with the same or lesser power to [Resting].</size>",
     "attribute": "愛",
-    "attributeCostType": [
-      "愛"
-    ],
+    "attributeCostType": ["愛"],
     "deckAttributes": [
       "L",
       "RL",
@@ -3789,9 +3678,7 @@
     "image": "https://cgs.games/api/proxy/drive.google.com/uc?export=download&id=1U2Rmi7IlIvl0j6yASk968GCkJlwbmaJE",
     "description": "<size=30>\n<color=#FFA500>Event</color>                                                  <color=#D6D0B5><b>Ｏ</b></color><color=#FFA500>愛</color>\n <b>                                                    <color=#FFA500><size=20>愛 Attribute</size></color></b>\n<color=#666666>————————————————</color>\n・ Put a [Character] Card from your discard pile on the battlefield. Discard that character at the end of the turn.</size>",
     "attribute": "愛",
-    "attributeCostType": [
-      "愛"
-    ],
+    "attributeCostType": ["愛"],
     "deckAttributes": [
       "L",
       "RL",
@@ -3828,9 +3715,7 @@
     "image": "https://cgs.games/api/proxy/drive.google.com/uc?export=download&id=1qWG_a-YLFzRDeKaYg0Fm4gfBeyeO61T-",
     "description": "<size=30>\n<color=#FFA500>Event</color>                                                  <color=#D6D0B5><b>Ｏ</b></color><color=#FFA500>愛</color>\n <b>                                                    <color=#FFA500><size=20>愛 Attribute</size></color></b>\n<color=#666666>————————————————</color>\n・ Make one of your characters [Ready] at the end of your turn.</size>",
     "attribute": "愛",
-    "attributeCostType": [
-      "愛"
-    ],
+    "attributeCostType": ["愛"],
     "deckAttributes": [
       "L",
       "RL",
@@ -3920,9 +3805,7 @@
     "image": "https://cgs.games/api/proxy/drive.google.com/uc?export=download&id=1Vu9qZFeU-WtOMsMnpSEljO3QqHsGItSt",
     "description": "<size=30>\n<color=#97FF7A>Event</color>                                                      <color=#97FF7A>流</color>\n <b>                                                    <color=#97FF7A><size=20>流 Attribute</size></color></b>\n<color=#666666>————————————————</color>\n・ Reveal the top three cards of your deck. Add all the [Character] cards revealed to your hand, and discard the rest.</size>",
     "attribute": "流",
-    "attributeCostType": [
-      "流"
-    ],
+    "attributeCostType": ["流"],
     "deckAttributes": [
       "S",
       "LS",
@@ -4012,9 +3895,7 @@
     "image": "https://cgs.games/api/proxy/drive.google.com/uc?export=download&id=1jKgtmgx8EJiTsupuEXNm5b1Wer6Au05y",
     "description": "<size=30>\n<color=#97FF7A>Event</color>                                                  <color=#D6D0B5><b>Ｏ</b></color><color=#97FF7A>流</color>\n<b><color=#FF6666>COUNTER</color>                                   <color=#97FF7A><size=20>流 Attribute</size></color></b>\n<color=#666666>————————————————</color>\n・ Counter (you may play this card during the [Intercept] step)\n・ Remove all players' [General] Markers. (Characters who have already targeted the deck for attack will end their attack without attacking the deck.)</size>",
     "attribute": "流",
-    "attributeCostType": [
-      "流"
-    ],
+    "attributeCostType": ["流"],
     "deckAttributes": [
       "S",
       "LS",
@@ -4051,9 +3932,7 @@
     "image": "https://cgs.games/api/proxy/drive.google.com/uc?export=download&id=1KpCq6RMpZcWqnZ0LjFLYg531pScUNhD1",
     "description": "<size=30>\n<color=#A480FF>Event</color>                                                  <color=#D6D0B5><b>Ｏ</b></color><color=#A480FF>覇</color>\n <b>                                                    <color=#A480FF><size=20>覇 Attribute</size></color></b>\n<color=#666666>————————————————</color>\n・ An opponent's character of your choice that is not the [General] becomes [Resting].</size>",
     "attribute": "覇",
-    "attributeCostType": [
-      "覇"
-    ],
+    "attributeCostType": ["覇"],
     "deckAttributes": [
       "U",
       "SU",
@@ -4090,9 +3969,7 @@
     "image": "https://cgs.games/api/proxy/drive.google.com/uc?export=download&id=1OW0jeRkB2tNBxshlAOQqGxyq5PRVbItc",
     "description": "<size=30>\n<color=#A480FF>Event</color>                                                  <color=#A480FF>覇</color><color=#A480FF>覇</color>\n <b>                                                    <color=#A480FF><size=20>覇 Attribute</size></color></b>\n<color=#666666>————————————————</color>\n・ Discard all opponent's characters with Power <= 800 .</size>",
     "attribute": "覇",
-    "attributeCostType": [
-      "覇"
-    ],
+    "attributeCostType": ["覇"],
     "deckAttributes": [
       "U",
       "SU",
@@ -4129,9 +4006,7 @@
     "image": "https://cgs.games/api/proxy/drive.google.com/uc?export=download&id=1mnMK7Otvf1xEVo8SvlgUTqrM8cibKcME",
     "description": "<size=30>\n<color=#A480FF>Event</color>                                                      <color=#A480FF>覇</color>\n<b><color=#FF6666>COUNTER</color>                                   <color=#A480FF><size=20>覇 Attribute</size></color></b>\n<color=#666666>————————————————</color>\n・ Counter (you may play this card during the [Intercept] step)\n・ Return an opponent's characters with Power <= 1000 to their hand.</size>",
     "attribute": "覇",
-    "attributeCostType": [
-      "覇"
-    ],
+    "attributeCostType": ["覇"],
     "deckAttributes": [
       "U",
       "SU",
@@ -4168,9 +4043,7 @@
     "image": "https://cgs.games/api/proxy/drive.google.com/uc?export=download&id=1om_dWK2tFMJNDKC1SkhzfqOpMVtCXlau",
     "description": "<size=30>\n<color=#A480FF>Event</color>                                                  <color=#D6D0B5><b>Ｏ</b></color><color=#A480FF>覇</color>\n <b>                                                    <color=#A480FF><size=20>覇 Attribute</size></color></b>\n<color=#666666>————————————————</color>\n・ Choose one of your characters, it has +800 Power this turn.\n・ Discard the chosen character at the end of the turn.</size>",
     "attribute": "覇",
-    "attributeCostType": [
-      "覇"
-    ],
+    "attributeCostType": ["覇"],
     "deckAttributes": [
       "U",
       "SU",
@@ -4207,9 +4080,7 @@
     "image": "https://cgs.games/api/proxy/drive.google.com/uc?export=download&id=1S1XAm1byhcZpQjzrh-rgNB5u3pS9r44m",
     "description": "<size=30>\n<color=#FF6745>Event</color>                                                      <color=#FF6745>邪</color>\n<b><color=#FF6666>COUNTER</color>                                   <color=#FF6745><size=20>邪 Attribute</size></color></b>\n<color=#666666>————————————————</color>\n・ Counter (you may play this card during the [Intercept] step)\n・ An opponent's character of your choice with the \"Ordinary Person\" style becomes [Resting].</size>",
     "attribute": "邪",
-    "attributeCostType": [
-      "邪"
-    ],
+    "attributeCostType": ["邪"],
     "deckAttributes": [
       "E",
       "UE",
@@ -4246,9 +4117,7 @@
     "image": "https://cgs.games/api/proxy/drive.google.com/uc?export=download&id=1qIoV-DfclIBBvn1e9k8k_9DlnnXXAoLa",
     "description": "<size=30>\n<color=#FF6745>Event</color>                                                  <color=#D6D0B5><b>Ｏ</b></color><color=#FF6745>邪</color>\n<b><color=#FF6666>COUNTER</color>                                   <color=#FF6745><size=20>邪 Attribute</size></color></b>\n<color=#666666>————————————————</color>\n・ Counter (you may play this card during the [Intercept] step)\n・ Return [Skill] cards equipped to an opponent's character to the opponent's hand.</size>",
     "attribute": "邪",
-    "attributeCostType": [
-      "邪"
-    ],
+    "attributeCostType": ["邪"],
     "deckAttributes": [
       "E",
       "UE",
@@ -4285,9 +4154,7 @@
     "image": "https://cgs.games/api/proxy/drive.google.com/uc?export=download&id=1qFDD4rHVe8jECdLobkdAUvTJ4h3bLBb_",
     "description": "<size=30>\n<color=#FF6745>Event</color>                                                  <color=#FF6745>邪</color><color=#FF6745>邪</color>\n <b>                                                    <color=#FF6745><size=20>邪 Attribute</size></color></b>\n<color=#666666>————————————————</color>\n・ Look at the opponent's hand. Choose and discard one of their cards.</size>",
     "attribute": "邪",
-    "attributeCostType": [
-      "邪"
-    ],
+    "attributeCostType": ["邪"],
     "deckAttributes": [
       "E",
       "UE",
