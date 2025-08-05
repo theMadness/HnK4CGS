@@ -1,8 +1,8 @@
 {
   "name": "北斗の拳世紀末カードバトル伝説 - Hokuto no Ken Card Battle",
   "autoUpdate": 10,
-  "autoUpdateUrl": "https://raw.githubusercontent.com/theMadness/HnK4CGS/refs/heads/main/dist/decks/cgs.json",
-  "allCardsUrl": "https://raw.githubusercontent.com/theMadness/HnK4CGS/refs/heads/main/dist/decks/AllCards.json",
+  "autoUpdateUrl": "https://raw.githubusercontent.com/theMadness/HnK4CGS/refs/heads/main/dist/cgs.json",
+  "allCardsUrl": "https://raw.githubusercontent.com/theMadness/HnK4CGS/refs/heads/main/dist/AllCards.json",
   "bannerImageUrl": "https://media.githubusercontent.com/media/theMadness/HnK4CGS/refs/heads/main/dist/Banner.png",
   "cardBackImageUrl": "https://media.githubusercontent.com/media/theMadness/HnK4CGS/refs/heads/main/dist/CardBack.png",
   "cardImageUrl": "https://media.githubusercontent.com/media/theMadness/HnK4CGS/refs/heads/main/dist/sets/{cardSet}/{cardId}.png",
