@@ -138,8 +138,40 @@ fs.createReadStream(__dirname + "/ImageCatalog.csv")
       .on("end", () => {
         fs.writeFileSync(
           __dirname + "/../dist/AllCards.json",
-          JSON.stringify(results, null, 2),
+          JSON.stringify(
+            [
+              ...results,
+              {
+                id: "HnK1-100",
+                collector: "100",
+                deckFileTxtId: "Test! (HnK1-100)",
+                setCode: "HnK1",
+                name: "You've walked straight into my trap!",
+                description: `<size=100>${testContent()}</size>`,
+                italian: "",
+                attribute: "邪",
+                attributeCostType: ["邪"],
+                deckAttributes: [],
+                cost: "EE",
+                costValue: 2,
+                type: "E",
+                group: "",
+                rules: "",
+                flavor: "",
+                power: null,
+                rarity: "",
+              },
+            ],
+            null,
+            2,
+          ),
         );
         console.log("Conversion complete!");
       });
   });
+
+const testContent = () =>
+  "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz義⏺"
+    .split("")
+    .map((char) => `|${char}|`)
+    .join("\n");

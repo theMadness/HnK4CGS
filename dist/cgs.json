@@ -60,8 +60,8 @@
       "display": "Cost #"
     },
     {
-      "name": "school",
-      "display": "School",
+      "name": "group",
+      "display": "Group",
       "type": "stringEnum"
     },
     {
@@ -220,12 +220,12 @@
       }
     },
     {
-      "property": "school",
+      "property": "group",
       "values": {
         "HokutoShinken": "Hokuto Shinken",
         "NantoSeiken": "Nanto Seiken",
-        "OrdinaryPerson": "Ordinary Person",
-        "Nothing": "Nothing",
+        "OrdinaryPerson": "Commoner",
+        "Nothing": "None",
         "TaizanRyu": "Taizan Ryu",
         "Horse": "Horse",
         "KazanRyu": "Kazan Ryu"

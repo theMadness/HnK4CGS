@@ -52,11 +52,11 @@ const refineText = (text) =>
     .replace('"義" (blue)', `<color=${colorMap["義"]}>義</color>`)
     .replace('"愛" (orange)', `<color=${colorMap["愛"]}>愛</color>`)
     .replace('"邪" (red)', `<color=${colorMap["邪"]}>邪</color>`)
-    .replace("⚔️", `††`)
-    .replace("➰", `↷`)
-    .replace("˟✊", `☮`)
-    .replace("˟🎴", `˟▤`)
-    .replace(/^・ (.{1,20}): /gm, `・ <b>$1: </b>`)
+    .replace("⚔️", `2⚔`)
+    .replace("➰", `↻⚔`)
+    .replace("˟✊", `˟A`)
+    .replace("˟🎴", `˟D`)
+    .replace(/^・ (.{1,20}): /gm, `・ <b><i>[$1]</i></b> — `)
     .replace("🗑", `✘`);
 
 const renderRules = ({ rules }) =>
