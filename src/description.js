@@ -1,9 +1,10 @@
+// prettier-ignore
 const colorMap = {
-  義: "#92E0FF", // Righteousness
-  愛: "#FFA500", // Love
-  流: "#97FF7A", // Style
-  覇: "#A480FF", // Supremacy
-  邪: "#FF6745", // Evil
+  "義": "#92E0FF", // Righteousness
+  "愛": "#FFA500", // Love
+  "流": "#97FF7A", // Style
+  "覇": "#A480FF", // Supremacy
+  "邪": "#FF6745", // Evil
 };
 
 const spaceCorrection = -11;
@@ -51,9 +52,11 @@ const refineText = (text) =>
     .replace('"義" (blue)', `<color=${colorMap["義"]}>義</color>`)
     .replace('"愛" (orange)', `<color=${colorMap["愛"]}>愛</color>`)
     .replace('"邪" (red)', `<color=${colorMap["邪"]}>邪</color>`)
-    .replace('⚔️', `††`)
-    .replace('˟✊', `☮`)
-    .replace('🗑', `✘`);
+    .replace("⚔️", `††`)
+    .replace("˟✊", `☮`)
+    .replace("˟🎴", `˟▤`)
+    .replace(/^・ (.{1,20}):/gm, `・ <b>$1:</b>`)
+    .replace("🗑", `✘`);
 
 const renderRules = ({ rules }) =>
   rules && rules !== ""
