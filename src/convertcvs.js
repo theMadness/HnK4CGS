@@ -81,8 +81,6 @@ const getPower = (data) =>
   getType(data) === "C" ? parseInt(data["Power/Summary"], 10) || null : null;
 const getRarity = (data) =>
   data["Rarity"]?.trim() === "" ? " " : data["Rarity"];
-const getRules = (data) => data["Text"] || "";
-const getSchool = (data) => data["Style"]?.replace(/\s+/g, "") || "";
 
 const imageMap = {};
 
@@ -100,11 +98,28 @@ fs.createReadStream(__dirname + "/ImageCatalog.csv")
         results.push({
           id: `${getSetCode()}-${getId(data)}`,
           collector: getId(data),
-          deckFileTxtId: `${data["Name"]} (${getSetCode()}-${getId(data)})`,
+          deckFileTxtId: `${data["Name_EN"]} (${getSetCode()}-${getId(data)})`,
           setCode: getSetCode(),
-          name: data["Name"] || "",
+          name: data["Name_EN"] || "",
           // image: getImage(data),
-          description: description(data),
+          description: description({
+            type: data["Type"],
+            group: data["Group_EN"],
+            attribute: data["Attribute"],
+            cost: [data["Cost3"], data["Cost2"], data["Cost1"]].filter(Boolean),
+            powerOrSummary: data["Power/Summary"],
+            rules: data["Text_EN"],
+            flavor: data["Flavor_EN"],
+          }),
+          italian: description({
+            type: data["Type"],
+            group: data["Group_IT"],
+            attribute: data["Attribute"],
+            cost: [data["Cost3"], data["Cost2"], data["Cost1"]].filter(Boolean),
+            powerOrSummary: data["Power/Summary"],
+            rules: data["Text_IT"],
+            flavor: data["Flavor_IT"],
+          }),
           attribute: data["Attribute"] || "",
           attributeCostType: getAttributeCostType(data),
           deckAttributes: getDeckAttributes(
@@ -113,9 +128,9 @@ fs.createReadStream(__dirname + "/ImageCatalog.csv")
           cost: getCost(data),
           costValue: getCostValue(data),
           type: getType(data),
-          school: getSchool(data),
-          rules: getRules(data),
-          flavor: data["Flavor"] || "",
+          group: data["Group_EN"],
+          rules: data["Text_EN"],
+          flavor: data["Flavor_EN"] || "",
           power: getPower(data),
           rarity: getRarity(data),
         });

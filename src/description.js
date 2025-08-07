@@ -8,12 +8,10 @@ const colorMap = {
 
 const spaceCorrection = -11;
 
-const renderTypeCost = ({ Type, Style, Attribute, Cost1, Cost2, Cost3 }) => {
-  const labelText = Style ? `${Type} — ${Style}` : Type;
-  const costParts = [Cost3, Cost2, Cost1].filter(Boolean);
-  const costPadding = (3 - costParts.length) * 4;
-  const labelMarkup = `<color=${colorMap[Attribute]}>${labelText}</color>`;
-  const costMarkup = costParts
+const renderTypeCost = ({ type, group, attribute, cost }) => {
+  const costPadding = (3 - cost.length) * 4;
+  const labelMarkup = `<color=${colorMap[attribute]}>${group ? `${type} — ${group}` : type}</color>`;
+  const costMarkup = cost
     .map((c) =>
       c === "⏺"
         ? "<color=#D6D0B5><b>Ｏ</b></color>"
@@ -32,19 +30,19 @@ const renderTypeCost = ({ Type, Style, Attribute, Cost1, Cost2, Cost3 }) => {
     Skill: 60,
   };
 
-  return `${labelMarkup}${" ".repeat(typePadding[Type + (Style || "")] + costPadding + spaceCorrection)}${costMarkup}`;
+  return `${labelMarkup}${" ".repeat(typePadding[type + (group || "")] + costPadding + spaceCorrection)}${costMarkup}`;
 };
 
-const renderAttributeRow = (data) => {
+const renderAttributeRow = ({ type, powerOrSummary, attribute }) => {
   switch (true) {
-    case data.Type === "Character" && data["Power/Summary"] >= 1000:
-      return `<b><size=20>PWR</size>${" ".repeat(58 + spaceCorrection)}<color=${colorMap[data.Attribute]}><size=20>${data.Attribute} Attribute</size></color>\n【${data["Power/Summary"]}】 </b>${" ".repeat(60 + spaceCorrection)}`;
-    case data.Type === "Character":
-      return `<b><size=20>PWR</size>${" ".repeat(58 + spaceCorrection)}<color=${colorMap[data.Attribute]}><size=20>${data.Attribute} Attribute</size></color>\n【${data["Power/Summary"]}】  </b>${" ".repeat(61 + spaceCorrection)}`;
-    case data["Power/Summary"].includes("COUNTER"):
-      return `<b><color=#FF6666>COUNTER</color>${" ".repeat(46 + spaceCorrection)}<color=${colorMap[data.Attribute]}><size=20>${data.Attribute} Attribute</size></color></b>`;
+    case type === "Character" && powerOrSummary >= 1000:
+      return `<b><size=20>PWR</size>${" ".repeat(58 + spaceCorrection)}<color=${colorMap[attribute]}><size=20>${attribute} attribute</size></color>\n【${powerOrSummary}】 </b>${" ".repeat(60 + spaceCorrection)}`;
+    case type === "Character":
+      return `<b><size=20>PWR</size>${" ".repeat(58 + spaceCorrection)}<color=${colorMap[attribute]}><size=20>${attribute} attribute</size></color>\n【${powerOrSummary}】  </b>${" ".repeat(61 + spaceCorrection)}`;
+    case powerOrSummary.includes("COUNTER"):
+      return `<b><color=#FF6666>COUNTER</color>${" ".repeat(46 + spaceCorrection)}<color=${colorMap[attribute]}><size=20>${attribute} Attribute</size></color></b>`;
     default:
-      return ` <b>${" ".repeat(63 + spaceCorrection)}<color=${colorMap[data.Attribute]}><size=20>${data.Attribute} Attribute</size></color></b>`;
+      return ` <b>${" ".repeat(63 + spaceCorrection)}<color=${colorMap[attribute]}><size=20>${attribute} Attribute</size></color></b>`;
   }
 };
 
@@ -54,18 +52,26 @@ const refineText = (text) =>
     .replace('"愛" (orange)', `<color=${colorMap["愛"]}>愛</color>`)
     .replace('"邪" (red)', `<color=${colorMap["邪"]}>邪</color>`);
 
-const renderRules = ({ Text }) =>
-  Text && Text !== ""
-    ? `\n<color=#666666>————————————————</color>\n${refineText(Text)}`
+const renderRules = ({ rules }) =>
+  rules && rules !== ""
+    ? `\n<color=#666666>————————————————</color>\n${refineText(rules)}`
     : "";
 
-const renderFlavor = ({ Flavor }) =>
-  Flavor && Flavor !== ""
-    ? `\n<color=#666666>————————————————</color>\n<color=#CCCCCC><i>${Flavor}</i></color>`
+const renderFlavor = ({ flavor }) =>
+  flavor && flavor !== ""
+    ? `\n<color=#666666>————————————————</color>\n<color=#CCCCCC><i>${flavor}</i></color>`
     : "";
 
-const description = (data) => `<size=30>
-${renderTypeCost(data)}
-${renderAttributeRow(data)}${renderRules(data)}${renderFlavor(data)}</size>`;
+const description = ({
+  type,
+  group,
+  attribute,
+  cost,
+  powerOrSummary,
+  rules,
+  flavor,
+}) => `<size=30>
+${renderTypeCost({ type, group, attribute, cost })}
+${renderAttributeRow({ type, powerOrSummary, attribute })}${renderRules({ rules })}${renderFlavor({ flavor })}</size>`;
 
-module.exports = { description, renderFirstRow: renderTypeCost };
+module.exports = { description, renderTypeCost };

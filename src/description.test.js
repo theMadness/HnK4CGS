@@ -1,7 +1,6 @@
-const { renderFirstRow } = require("./description");
+const { renderTypeCost } = require("./description");
 
 describe("First Row", () => {
-  const { renderFirstRow } = require("./description");
   describe("First Row — Cost and Style Alignment", () => {
     test.each([
       {
@@ -123,7 +122,7 @@ describe("First Row", () => {
           "<color=#92E0FF>Skill</color>                                                            <color=#D6D0B5><b>Ｏ</b></color><color=#D6D0B5><b>Ｏ</b></color><color=#92E0FF>義</color>",
       },
     ])("renders $Type — $Style with cost $Cost3 $Cost2 $Cost1", (testCase) => {
-      const rendered = renderFirstRow(testCase);
+      const rendered = renderTypeCost(testCase);
       expect(rendered).toHaveLength(testCase.expected.length);
       expect(rendered).toBe(testCase.expected);
     });

@@ -1,260 +1,691 @@
-Number,Name,Type,Style,Attribute,Cost3,Cost2,Cost1,Rarity,Power/Summary,Text,Flavor,sym1,sym2,sym3
-1,Kenshiro,Character,Hokuto Shinken,義,⏺,⏺,義,,2200,"・ 将: While this character is the [General], it has +400 Power.","You're already dead
-ー Kenshiro",将,↑UP,
-2,Rei,Character,Nanto Seiken,義,,⏺,義,★,2000,"・ When this character attacks, if another character [Intercepts] the attack, deal damage to the original target.","I must survive at all costs!
+Icon1,Icon2,Icon3,Name_EN,Name_IT,Name_JP,Number,Type,Group_JP,Group_EN,Group_IT,Attribute,Cost3,Cost2,Cost1,Rarity,Power/Summary,Text_JP,Text_EN,Text_IT,Flavor_JP,Flavor_EN,eOneBook,Viz,Flavor_IT,Chapter,
+将,↑UP,,Kenshiro,Kenshiro,ケンシロウ,1,Character,北斗神拳,Hokuto Shinken,,義,⏺,⏺,義,,2200,"・このキャラクターが 【大将】 である間、
+   このキャラクターのパワーは+400される。","・ 将-UP: While this character is the [General], it has +400 Power.","・ 将-UP: Finché questo personaggio è il [Generale], ha +400 Power.","お前はもう死んでいる
+ーケンシロウー","You are already dead
+ー Kenshiro",You are already dead.,,"Tu sei già morto
+ー Kenshiro",1+,1
+🗲,,,Rei,Rei,レイ,2,Character,南斗聖拳,Nanto Seiken,,義,,⏺,義,★,2000,"・このキャラクターがキャラクターを攻撃するとき、
+   相手が『身代わり』を行っても、攻撃対象のキャラクターとバトルする。","・ 🗲: When this character attacks another character even if [Intercept]ed, fight the original target.","・ 🗲: Quando questo personaggio attacca, se un altro personaggio [Intercetta] l'attacco, combatti col bersaglio originale.","おれは生きねばならん！
+胸に七つの傷をもつ男を殺すまでは！！
+ーレイー","I must survive at all costs!
 I cannot rest
 until I kill the man with seven scars on his chest!!
-ー Rei",🗲,,
-3,Yuria (Last General of Nanto),Character,Nanto Seiken,義,,⏺,義,★★,1500,"・ 将: While this character is the [General], all ""義"" (blue) attribute characters on the battlefield have +200 Power.","Sure thing!
+ー Rei",I must survive at all costs! I cannot rest until I kill the man with seven scars on his chest!!,I cannot die! Not until I kill the man with sever scars on his chest!,"Perché io devo sopravvivere,
+almeno fin quando non avrò ucciso l'uomo dalle sette cicatrici sul petto!
+ー Rei",27+,27
+将,↑UP,,Yuria (Last General of Nanto),Yuria (Ultimo Generale di Nanto),ユリア(南斗最後の),3,Character,南斗聖拳,Nanto Seiken,,義,,⏺,義,★★,1500,"・このキャラクターが 【大将】 である間、
+   バトルフィールドにいる属性 『義』のキャラクターのパワーは+200される。","・ 将-UP: While this character is the [General], all ""義"" (blue) attribute characters on the battlefield have +200 Power.","・ 将-UP: Finché questo personaggio è il [Generale], tutti i personaggi con attributo ""義"" (blu) sul battlefield hanno +200 Power.","よかろう！
+この雲のジュウザの命あんたにくれてやる！！
+ージュウザー","Sure thing!
 Juza of the Clouds' life is yours to command!!
-ー Juza",将,↑UP,
-4,Hyui,Character,Nanto Seiken,義,,,⏺,,1500,,"Now, the wind must move as well!!
-ー Hyui",,,
-5,Shuren,Character,Nanto Seiken,義,,,義,,1800,"・ While attacking, this character has +200 Power.","All who touch me will burst into flames of wrath!!
-ー Shuren",↑UP,,
-6,Rihaku,Character,Nanto Seiken,義,,⏺,⏺,★★,1500,"・ When this character enters the battlefield, look at the top three cards of the opponent’s deck, then put them back in any order.","Rihaku of the Ocean!
+ー Juza",Sure thing! Juza of the Clouds' life is yours to command!!,I will! The life of Juza of the Clouds is yours to command!!,"Certo!
+La vita di Juza delle Nuvole è al tuo comando!!
+ー Juza",114,114
+,,,Hyui,Hyui,ヒューイ,4,Character,南斗聖拳,Nanto Seiken,,義,,,⏺,,1500,,,,"ならば、この風も動かねばなるまい！！
+―ヒューイ―","Now, the wind must move as well!!
+ー Hyui","Now, the wind must move as well!!","Then, so too must the wind!","Ora, anche il vento deve muoversi!!
+ー Hyui",110,110
+↑UP,,,Shuren,Shuren,シュレン,5,Character,南斗聖拳,Nanto Seiken,,義,,,義,,1800,・攻撃中、このキャラクターのパワーは+200される,"・ UP: While attacking, this character has +200 Power.","・ UP: Mentre attacca, questo personaggio ha +200 Power.","わが身に触れるものは怒りの炎に包まれる！！
+ーシュレンー","All who touch me will burst into flames of wrath!!
+ー Shuren",All who touch me will burst into flames of wrath!!,Those who touch my body will be engulfed in flames of fury!,"Chiunque mi tocchi esploderà in fiamme d'ira!!
+ー Shuren",112,112
+,,,Rihaku,Rihaku,リハク,6,Character,南斗聖拳,Nanto Seiken,,義,,⏺,⏺,★★,1500,"・このキャラクターをバトルフィールドに出したとき、
+   相手の山札の上からカードを3枚を見て好きな順番で元に戻す。","・ When this character enters the battlefield, privately look at the top three cards of the opponent’s deck, then put them back in any order.","・ Quando questo personaggio entra nel battlefield, guarda privatamente le prime tre carte del mazzo dell'avversario, poi rimettile a posto nell'ordine che preferisci.","海のリハクか！
+世が世なら万の軍勢を縦横に操る天才軍師よ
+ーラオウー","Rihaku of the Ocean!
 In another time, you would have been a master tactician who commanded great armies!!
-ー Raoh",,,
-7,Kenshiro,Character,Hokuto Shinken,義,⏺,愛,義,★★★,2500,"・ 将: While this character is the [General], it has +200 Power for each character with the ""愛"" (orange) attribute on the battlefield.","The time has come for the violence star to die!!
-ー Kenshiro",将,↑UP,
-8,Juza,Character,Nanto Seiken,義,⏺,愛,義,★,2300,"・ When this character participates in a battle, you may discard it and an opponent's character participating in the battle.","My fist is self-taught, self-taught without forms!!
+ー Raoh","Rihaku of the Ocean! In another time, you would have been a master tactician who commanded great armies!!","Rihaku of the Ocean! A master strategist! In a different world, you would have been the brilliant commander of a grand army!","Rihaku dell'Oceano!
+In un'altra epoca, saresti stato un maestro di strategia che comandava grandi eserciti!!
+ー Raoh",123,123
+将,↑UP,,Kenshiro,Kenshiro,ケンシロウ,7,Character,北斗神拳,Hokuto Shinken,,義,⏺,愛,義,★★★,2500,"・このキャラクターが【大将】である間、このキャラクターが攻撃するとき、
+   攻撃中、このキャラクターのパワーはバトルフィールドにいる属性『愛』の
+   キャラクター1体につき、+200される。","・ 将-UP: While this character is the [General], it has +200 Power for each character with the ""愛"" (orange) attribute on the battlefield.","・ 将-UP: Finché questo personaggio è il [Generale], ha +200 Power per ogni personaggio con l'attributo ""愛"" (arancione) sul battlefield.","狂える暴狂星死すべき時はきた！！
+ーケンシロウー","The time has come for the violence star to die!!
+ー Kenshiro","It's time for you to die, you mad tyrant!!",The time has come for the mad star of terror to fall!,"È giunto il momento per la stella della violenza di morire!!
+ー Kenshiro",123,123
+,,,Juza,Juza,ジュウザ,8,Character,南斗聖拳,Nanto Seiken,,義,⏺,愛,義,★,2300,"・このキャラクターがバトルしたとき、このキャラクターを捨札にしてもよい。
+   そうした場合、バトルした相手のキャラクターを捨札にする。","・ When this character participates in a battle, you may discard it and an opponent's character participating in the battle.","・ Quando questo personaggio partecipa a una battaglia, puoi scartarlo insieme a un personaggio dell'avversario che partecipa alla battaglia.","我が拳は我流 我流は無型！！
+無型ゆえにだれにも読めぬ！！
+ージュウザー","My fist is self-taught, self-taught without forms!!
 Having no forms means it's impossible to predict it!!
-ー Juza",,,
-9,Kenshiro (Child),Character,Hokuto Shinken,義,,,⏺,★,800,"・ 将: While this character is the [General], you may play a character named ""Kenshiro"" from your hand by discarding this card, without paying its cost.","This boy has the potential to shine brighter than anyone else.
-ー Shu",将,,
-10,Ryuken,Character,Hokuto Shinken,義,,⏺,義,★,2000,,"I shan't kill you...
+ー Juza","My fist's self-taught! It's got no forms!!
+And that makes it unpredictable!","My fist is my own creation. And a self-taught fist is form-less!
+And because it's formless, it can't be anticipated!","Il mio pugno è autodidatta, autodidatta senza forme!!
+Non avere forme significa che è impossibile prevederlo!!
+ー Juza",114,114
+将,,,Kenshiro (Child),Kenshiro (Giovane),ケンシロウ(幼少時代),9,Character,北斗神拳,Hokuto Shinken,,義,,,⏺,★,800,"・このキャラクターが 【大将】 である間、
+   自分の『ケンシロウ』 と同名キャラクターを、
+   コストを支払わずにバトルフィールドに出してもよい。
+   そうした場合、このカードを捨札にする。","・ 将: While this character is the [General], you may play a character named ""Kenshiro"" from your hand by discarding this card, without paying its cost.","・ 将: Finché questo personaggio è il [Generale], puoi giocare un personaggio di nome ""Kenshiro"" dalla tua mano scartando questa carta, senza pagarne il costo.","この少年はだれよりも
+強く激しく光る可能性を秘めている
+ーシュウー","This boy has the potential to shine brighter than anyone else.
+ー Shu",This boy has the potential to shine brighter than anyone else.,This boy may have the potential to shine brighter and more fiercely than anyone!,"Questo ragazzo ha il potenziale per brillare più di chiunque altro.
+ー Shu",85,85
+,,,Ryuken,Ryuken,リュウケン,10,Character,北斗神拳,Hokuto Shinken,,義,,⏺,義,★,2000,,,,"殺しはせぬ
+その挙だけ二度と使えぬようにするだけだ
+ーリュウケンー","I shan't kill you...
 But I shall prevent you from ever using those fists again...
-ー Ryuken",,,
-11,Rizo,Character,Nanto Seiken,義,,,,,1200,・ This character can't attack.,"Your Majesty!
+ー Ryuken",I shan't kill you... But I shall prevent you from ever using those fists again...,But I won't kill you. I will only prevent you from ever using those fists again.,"Non lo farò  ucciderti ...
+Ma ti impedirò di usare più quei pugni ...
+ー Ryuken ",69,69
+˟✊,,,Rizo,Rizo,リゾ,11,Character,南斗聖拳,Nanto Seiken,,義,,,,,1200,・このキャラクターは攻撃することができない。,・ ˟✊: This character can't attack.,・ ˟✊: Questo personaggio non può attaccare.,"聖帝様！！ せめて せめてシュウの傷に包帯を！！
+ーリゾー","Your Majesty!
 At least let someone bandage Shew's wounds!
-ー Rizo\",˟✊,,
-12,Fudo,Character,Nanto Seiken,義,,⏺,⏺,,1400,"・ While it is attacking a ""邪"" (red) attribute character, this character has +1000 Power.","You'll pay for this!
-ー Fudo",↑UP,,
-13,Toki,Character,Hokuto Shinken,愛,,⏺,愛,★,2000,"・ Characters that battle this character become [Resting].
-・ When this character wins a battle, do not discard the opponent's character.","Life is not something to be thrown away!!
-ー Toki",,,
-14,Shu,Character,Nanto Seiken,愛,,⏺,愛,★,2000,"・ 将: While this character is the [General], all your characters with the ""Ordinary Person"" style on the battlefield have +100 Power.
-・ While [Intercept]ing an attack, this character has +500 Power.","If I think of this stone as your lives, it's not so heavy.
-ー Shu",将,↑UP,
-15,Fudo,Character,Nanto Seiken,愛,⏺,⏺,愛,★★,2000,"・ If your opponent has more characters on the battlefield than you, this character has +1000 Power.","I, Fudo,
+ー Rizo\",Your Majesty! At least let Shew bandage his wounds!,Your Majesty! Allow me to at least dress his wounds!,"Tua maestà!
+Almeno lascia che qualcuno bandage mostri le ferite!
+ー Rizo \ ",92,92
+↑UP,,,Fudo,Fudo,フドウ,12,Character,南斗聖拳,Nanto Seiken,,義,,⏺,⏺,,1400,"・属性『邪』のキャラクターを攻撃するとき、
+   攻撃中、このキャラクターのパワーは+1000される。","・ UP: While it is attacking a ""邪"" (red) attribute character, this character has +1000 Power.","・ UP: Mentre attacca un personaggio con attributo ""邪"" (rosso), questo personaggio ha +1000 Power.","きさま～ゆるさん！
+ーフドゥー","You'll pay for this!
+ー Fudo",You'll pay for this!,You son of a ...!,"Pagherai per questo!
+ー Fudo ",111,111
+,,,Toki,Toki,トキ,13,Character,北斗神拳,Hokuto Shinken,,愛,,⏺,愛,★,2000,"・このキャラクターがバトルした相手のキャラクターは
+   必ず『行動完了』状態になる。
+・このキャラクターがバトルに勝った場合
+   バトルした相手のキャラクターは捨札にならず、バトルフィールドにとどまる。","・ Characters that battle this character become [Spent].
+・ When this character wins a battle, do not discard the opponent's character.","・ I personaggi che combattono contro questo personaggio sono resi [Esausti].
+・ Quando questo personaggio vince una battaglia, non scartare il personaggio dell'avversario.","はげすてるものではない！！
+ートキー","Life is not something to be thrown away!!
+ー Toki",Life is not something to be thrown away!!,A life is not to be wasted!,"La vita non è qualcosa da buttare via !!
+ー toki ",68,68
+将,↑UP,,Shu,Shu,シュウ,14,Character,南斗聖拳,Nanto Seiken,,愛,,⏺,愛,★,2000,"・このキャラクターが【大将】である間、
+   自分の流派『一般人』を持つキャラクターのパワーは+100される。
+・このキャラクターが『身代わり』を行った場合。 
+   バトル中のみ、このキャラクターのパワーは+500される。","・ 将-UP: While this character is the [General], all your characters in the ""Commoner"" group on the battlefield have +100 Power.
+・ UP: While [Intercept]ing an attack, this character has +500 Power.","・ 大将: Finché questo personaggio è il [Generale], tutti i tuoi personaggi del gruppo ""Civile"" sul battlefield hanno +100 Power.
+・ Mentre [Intercetta] un attacco, questo personaggio ha +500 Power.""","この岩をおまえたちの命と思えば重くはない
+ーシュウー","If I think of this stone as your lives, it's not so heavy.
+ー Shu",This stone isn't nearly as heavy to me as your lives!,This stone is not as heavy as your lives,"Se penso a questa pietra come alla tua vita, non è così pesante.
+ー shu ",92,92
+↑UP,,,Fudo,Fudo,フドウ,15,Character,南斗聖拳,Nanto Seiken,,愛,⏺,⏺,愛,★★,2000,"・バトルフィールドにいる相手のキャラクターが自分のキャラクターより多い場合、
+   このキャラクターのパワーは+1000される。","・ UP: If your opponent has more characters on the battlefield than you, this character has +1000 Power.","・ Se il tuo avversario ha più personaggi sul battlefield di te, questo personaggio ha +1000 Power","このフドウ、
+汚れなき命のために鬼神となって戦おう！！
+ーフドウー","I, Fudo,
 will become a demon once more to protect these innocent lives!!
-ー Fudo",↑UP,,
-16,Shiba,Character,Ordinary Person,愛,,,⏺,★★,500,"・ When this character is discarded from the battlefield, you may choose an opponent's character with Power <=1000 and make it [Resting].","I'm going to distract them.
-ー Shiba",,,
-17,Lin,Character,Ordinary Person,愛,,,,,300,"・ When this character enters the battlefield, draw 1 card from your deck.
-・ This character can't attack.","I could never pledge my allegiance to demons like you!
-ー Lin",˟✊,,
-18,Mamiya,Character,Ordinary Person,愛,,,⏺,,1500,,"It's what you get for not taking a woman seriously.
-ー Mamiya",,,
-19,Airi,Character,Ordinary Person,愛,,,,,300,"・ When this character enters the battlefield, return an [Event] card from the discard pile to your hand.
-・ This character can't attack.","I will fight!! I'm not running anymore!
-ー Airi",˟✊,,
-20,Toh,Character,Ordinary Person,愛,,⏺,愛,,800,"・ When this character enters the battlefield, choose a card from your deck and put it in your hand. Then shuffle the deck.","...If you can't accept my love, this is all that's left for me...
-ー Toh",,,
-21,Yuria,Character,Ordinary Person,愛,,⏺,⏺,,800,"・ When this character enters the battlefield, choose a [Character] card from your deck, reveal it to the opponent, and put it in your hand. Then shuffle the deck.","Are you still going to fight him? You've settled your score already.
-ー Yuria",,,
-22,Rei,Character,Nanto Seiken,愛,⏺,愛,義,★★★,2400,"・ When this character attacks a [General], it has +400 Power for that battle.
-・ Discard this character if it attacked a [General] and made it go to the discard pile.","Hehe... all that suffering has turned your hair white!
-ー Yuda",↑UP,,
-23,Souther (Child),Character,Nanto Seiken,愛,,,愛,★,800,"・ 将: While this character is the [General], you may play a character named ""Souther"" from your hand by discarding this card, without paying its cost.","Master!!
-ー Souther",将,,
-24,Toki (Child),Character,Hokuto Shinken,愛,,,⏺,★,700,"・ 将: While this character is the [General], you may play a character named ""Toki"" from your hand by discarding this card, without paying its cost.","I want to surpass my brother!!
-ー Toki",将,,
-25,Ohgai,Character,Nanto Seiken,愛,,⏺,愛,,1800,"・ While [Intercept]ing an attack, this character has +400 Power.","...it's the destiny of each successor
+ー Fudo","I, Fudo, will become a demon once more to protect these innocent lives!!",I must fight as the devil once again to protect the innocent!,"Io, Fudo,
+diventerà ancora una volta un demone per proteggere queste vite innocenti !!
+ー Fudo ",127,127
+,,,Shiba,Shiba,シバ ,16,Character,一般人,Commoner,,愛,,,⏺,★★,500,"・このキャラクターがバトルフィールドから捨札に置かれるとき、
+   相手のパワー1000以下のキャラクター1体を 『行動完了』状態にしてもよい。","・ When this character is discarded from the battlefield, you may choose an opponent's character with Power <=1000 and make it [Spent].",".・ Quando questo personaggio viene scartato dal battlefield, puoi scegliere un personaggio dell'avversario con Power <=1000 e renderlo [Esausto].","わたしがおとりになります
+ーンバー","I'm going to distract them.
+ー Shiba",I'm going to distract them.,I'll draw their attention.,"Li distraggerò.
+ー Shiba ",88,88
+˟✊,,,Lin,Lin,リン,17,Character,一般人,Commoner,,愛,,,,,300,"・このキャラクターをバトルフィールドに出したとき、
+   自分の山札からカードを1枚引く。
+・このキャラクターは攻撃することができない。","・ When this character enters the battlefield, draw 1 card from your deck.
+・ ˟✊: This character can't attack.","・ Quando questo personaggio entra nel battlefield, pesca 1 carta dal tuo mazzo.
+・ ˟✊: Questo personaggio non può attaccare.","あなたたちのような悪魔には絶対に従いません
+ーリンー","I could never pledge my allegiance to demons like you!
+ー Lin",I could never pledge my allegiance to demons like you!,I will not pledge my allegiance to monsters like you!,"Non potrei mai impegnare la mia fedeltà ai demoni come te!
+ー Lin ",63,63
+,,,Mamiya,Mamiya,マミヤ,18,Character,一般人,Commoner,,愛,,,⏺,,1500,,,,"女だと思ってあまくみたのが あなたの不運だったわね
+ーマミヤー","It's what you get for not taking a woman seriously.
+ー Mamiya",It's misfortunate that you didn't take a woman seriously.,It's what you get for not taking a woman seriously.,"È quello che ottieni per non prendere sul serio una donna.
+ー Mamiya ",33,33
+˟✊,,,Airi,Airi,アイリ,19,Character,一般人,Commoner,,愛,,,,,300,"・このキャラクターをバトルフィールドに出したとき、
+   自分の捨札から『イベントカード』を1枚選び、自分の手札に戻してもよい。
+・このキャラクターは攻撃することができない。","・ When this character enters the battlefield, return an [Event] card from the discard pile to your hand.
+・ ˟✊: This character can't attack.","・ Quando questo personaggio entra nel battlefield, riprendi in mano una carta [Event] dagli scarti.
+・ ˟✊: Questo personaggio non può attaccare.","わたしは戦う！！もう逃げたりしない
+ーアイリー","I will fight!! I'm not running anymore!
+ー Airi",I will fight!! I'm not running anymore!,I'm going to fight! I won't hide anymore!,"Combatterò !! Non corro più!
+ー airi ",64,64
+,,,Toh,Toh,トウ,20,Character,一般人,Commoner,,愛,,⏺,愛,,800,"・このキャラクターをバトルフィールドに出したとき、自分の山札を見る。
+   そして山札からカードを1枚選び、自分の手札に加えてもよい。
+   その後、山札をシャッフルする。","・ When this character enters the battlefield, choose a card from your deck and put it in your hand. Then shuffle the deck.","・ Quando questo personaggio entra nel battlefield, scegli una carta dal tuo mazzo e aggiungila alla tua mano. Poi mescola il mazzo.","･･･想いが届かぬわたしにはこうするしか･･･
+ートウー","...If you can't accept my love, this is all that's left for me...
+ー Toh","...If you can't accept my love, this is all that's left for me...","If I cannot make you mine, this is all that's left for me to do...","... se non puoi accettare il mio amore, questo è tutto ciò che resta  Io ...
+ー toh ",122,122
+,,,Yuria,Yuria,ユリア,21,Character,一般人,Commoner,,愛,,⏺,⏺,,800,"・このキャラクターをバトルフィールドに出したとき、自分の山札を見る。
+   そして山札から『キャラクターカード』を1枚選び、
+   相手に見せた後、自分の手札に加えてもよい。
+   その後、山札をシャッフルする。","・ When this character enters the battlefield, choose a [Character] card from your deck, reveal it to the opponent, and put it in your hand. Then shuffle the deck.","・ Quando questo personaggio entra nel battlefield, scegli una carta [Character] dal tuo mazzo, rivelala all'avversario e aggiungila alla tua mano. Poi mescola il mazzo.","まだ戦おうというのですか もう勝負はついたはず
+ーユリアー","Are you still going to fight him? You've settled your score already.
+ー Yuria",Are you still going to fight him? You've settled your score already.,Do you still intend to fight Ken? Hasn't it been settled?,"Hai ancora intenzione di combatterlo? Hai già sistemato il tuo punteggio.
+ー Yuria ",126,126
+↑UP,,,Rei,Rei,レイ,22,Character,南斗聖拳,Nanto Seiken,,愛,⏺,愛,義,★★★,2400,"・このキャラクターが【大将】を攻撃するとき、
+   攻撃中、このキャラクターのパワーは+400される。
+・このキャラクターは、相手の【大将】を攻撃して、
+   相手の 【大将】 を捨札にした場合、攻撃終了後に捨札にする。","・ UP: When this character attacks a [General], it has +400 Power for that battle.
+・ Discard this character if it attacked a [General] and made it go to the discard pile.","・ UP: Quando questo personaggio attacca un [Generale], ha +400 Power per quella battaglia.
+・ Scarta questo personaggio se ha attaccato un [Generale] e lo ha fatto finire negli scarti.","フフ･･････あまりの苦痛に白髪と化したか！！
+ーユダー","Hehe... all that suffering has turned your hair white!
+ー Yuda",Hehe... all that suffering has turned your hair white!,Heh heh... did all that pain turn your hair white?,"Hehe ... tutta quella sofferenza ha trasformato i capelli bianchi!
+ー Yuda ",79,79
+将,,,Souther (Child),Souther (Giovane),サウザー(幼少時代),23,Character,南斗聖拳,Nanto Seiken,,愛,,,愛,★,800,"・このキャラクターが【大将】である間、
+   自分の『サウザー』と同名キャラクターを、
+   コストを支払わずにバトルフィールドに出してもよい。
+   そうした場合、このカードを捨札にする。","・ 将: While this character is the [General], you may play a character named ""Souther"" from your hand by discarding this card, without paying its cost.","・ 将: Mentre questo personaggio è il [Generale], puoi giocare un personaggio di nome ""Souther"" dalla tua mano scartando questa carta, senza pagarne il costo.","お師さん!!
+ーサウザーー","Master!!
+ー Souther",Master!,Master!,"Maestro !!
+ー Souther ",94,94
+将,,,Toki (Child),Toki (Giovane),トキ(幼少時代),24,Character,北斗神拳,Hokuto Shinken,,愛,,,⏺,★,700,"・このキャラクターが 【大将】である間、自分の『トキ』と同名キャラクターを、
+   コストを支払わずにバトルフィールドに出してもよい。
+   そうした場合、このカードを捨札にする。","・ 将: While this character is the [General], you may play a character named ""Toki"" from your hand by discarding this card, without paying its cost.","・ 将: Mentre questo personaggio è il [Generale], puoi giocare un personaggio di nome ""Toki"" dalla tua mano scartando questa carta, senza pagarne il costo.","兄ちゃんを超えたいから!!
+ートキー","I want to surpass my brother!!
+ー Toki",Because I want to overcome you!!,I want to be stronger than you!,"Voglio superare mio fratello !!
+ー toki ",101,101
+↑UP,,,Ohgai,Ohgai,オウガイ,25,Character,南斗聖拳,Nanto Seiken,,愛,,⏺,愛,,1800,"・このキャラクターが『身代わり』を行った場合、
+   バトル中のみ、このキャラクターのパワーは+400される。","・ UP: While [Intercept]ing an attack, this character has +400 Power.","・ UP: Mentre [Intercetta] un attacco, questo personaggio ha +400 Power.","伝承者が新たなる伝承者に
+倒されていくのもわれらが宿命！
+ーオウガイー","...it's the destiny of each successor
 to be defeated by the next successor!
-ー Ohgai",↑UP,,
-26,Juza,Character,Nanto Seiken,流,⏺,愛,流,★★★,2500,"・ At the end your attack phase, you may make this character [Ready].
-・ When you put another character on the battlefield, return this character to your hand.","I live a free life, just like those clouds.
-ー Juza",,,
-27,Raiga,Character,Nothing,流,,⏺,⏺,,1500,"・ While you have a character named ""Fuga"" on the battlefield, this character has +600 Power.","Those who attempt to open the gate ... find only death!!
-ー Raiga & Fuga",↑UP,,
-28,Fuga,Character,Nothing,流,,⏺,⏺,,1500,"・ While you have a character named ""Raiga"" on the battlefield, this character has +600 Power.","Go forth and wait for us in hell!
+ー Ohgai",...it's the destiny of each successor to be defeated by the next successor!,It is our fate that our lives end at the hands of our successors.,"... è il destino di ogni successore
+essere sconfitto dal prossimo successore!
+ー ohgai ",94,94
+,,,Juza,Juza,ジュウザ,26,Character,南斗聖拳,Nanto Seiken,,流,⏺,愛,流,★★★,2500,"・このキャラクターは、自分のアタックフェイズ終了時に『回復』してもよい。
+・自分の他のキャラクターをバトルフィールドに出したとき、
+   このキャラクターを自分の手札に戻す。","・ At the end your attack phase, you may make this character [Ready].
+・ When you put another character on the battlefield, return this character to your hand.","・ Alla fine della tua fase di attacco, puoi rendere questo personaggio [Pronto].
+・ Quando metti un altro personaggio sul battlefield, riprendi questo personaggio dalla tua mano.","おれはあの雲の様に自由きままに生ぎる
+ージュウザー","I live a free life, just like those clouds.
+ー Juza","I live a free life, just like those clouds.",I'm like those clouds. I live free.,"Vivo una vita libera, proprio come quelle nuvole.
+ー Juza ",113,113
+↑UP,,,Raiga,Raiga,ライガ,27,Character,無,None,,流,,⏺,⏺,,1500,"・バトルフィールドに自分の『フウガ』がいれば、
+   このキャラクターのパワーは+600される。","・ UP: While you have a character named ""Fuga"" on the battlefield, this character has +600 Power.","・ UP: Finché hai un personaggio di nome ""Fuga"" sul battlefield, questo personaggio ha +600 Power.","この門をあけようとすろ者には･･･死あるのみ!!
+ーライガ・フガー","Those who attempt to open the gate ... find only death!!
+ー Raiga & Fuga",Those who attempt to open the gate ... find only death!!,For all who try to open this gates ... only death awaits!,"Coloro che tentano di aprire il cancello ... trovano solo la morte !!
+ー Raiga e Fuga ",54,54
+↑UP,,,Fuga,Fuga,フウガ,28,Character,無,None,,流,,⏺,⏺,,1500,"・バトルフィールドに自分の『ライガ』 がいれば、
+   このキャラクターのパワーは+600される。","・ UP: While you have a character named ""Raiga"" on the battlefield, this character has +600 Power.","・ UP: Finché hai un personaggio di nome ""Raiga"" sul battlefield, questo personaggio ha +600 Power.","先に地獄でまっている!!
+おれたちもじきにゆく!!
+ーライガ・フウガー","Go forth and wait for us in hell!
 We'll join you soon enough!!
-ー Raiga & Fuga",↑UP,,
-29,Ryuga,Character,Taizan Ryu,流,⏺,⏺,流,★,2000,"・ When this character attacks, if another character with Power <= 800 [Intercept]s the attack, deal damage to the original target.
-・ If this character attacks, discard it at the end of the turn.","I'll be known as a rabid wolf, for the sake of the next age!!
-ー Ryuga",🗲,,
-30,Bat,Character,Ordinary Person,流,,,⏺,,600,"・ When this character enters the battlefield, if you have a [General], you may choose a new [General].","Oh well.
+ー Raiga & Fuga","Go forth and wait for us in hell!
+We'll join you soon enough!!","Wait for us in hell!
+We'll be there soon!","Vai avanti e aspettaci all'inferno!
+Ci uniremo a te abbastanza presto !!
+ー Raiga e Fuga ",55,55
+🗲,,,Ryuga,Ryuga,リュウガ,29,Character,泰山流,Taizan Ryu,,流,⏺,⏺,流,★,2000,"・このキャラクターが攻撃するとき、
+   相手がパワー800以下のキャラクターで『身代わり』を行った場合、
+   そのキャラクターとはバトルせずに攻撃対象とバトルする。
+・このキャラクターが攻撃した場合、
+   ターンの終了時に、このキャラクターを捨札にする。","・ 🗲: When this character attacks another character, if [Intercept]ed by a character with Power <= 800, fight the original target.
+・ If this character attacks, discard it at the end of the turn.","・ 🗲: Quando questo personaggio attacca un altro personaggio, se [Intercettato] da un personaggio con Power <= 800, combatti contro il bersaglio originale.
+・ Se questo personaggio attacca, scartalo alla fine del turno.","あえて時代のために魔狼の悪名をかぶろう!!
+ーリュウガー","I'll be known as a rabid wolf, for the sake of the next age!!
+ー Ryuga","I'll accept infamy, for the sake of the next age!!",I will become the rabid wolf these times call for!,"Sarò conosciuto come un lupo rabbioso, per il bene della prossima età !!
+ー Ryuga ",108,108
+,,,Bat,Bat,バット,30,Character,一般人,Commoner,,流,,,⏺,,600,"・このキャラクターをバトルフィールドに出したとき、
+   自分の『大将マーカー』を別の自分のキャラクターにつけかえてもよい。
+   自分の【大将】 がいない場合には
+   『大将マーカー』をつけかえることはできない。","・ When this character enters the battlefield, if you have a [General], you may choose a new [General].","・ Quando questo personaggio entra nel battlefield, se hai un [Generale], puoi scegliere un nuovo [Generale].","まいいか あいつについていきゃ
+食いっぱぐれはあるまい
+ーバットー","Oh well.
 I'm sure I won't go hungry if I tag along!
-ー Bat",,,
-31,Misumi,Character,Ordinary Person,流,,,,★,400,"・ When this character is discarded from the battlefield, make one of your characters [Ready].
-・ This character can't attack the deck.","Hey, I'm back!!! With seeds! I've got seeds!!
-ー Misumi",˟🎴,,
-32,Toyo,Character,Ordinary Person,流,,,,,400,"・ When this character is discarded from the battlefield, you may return a character with Power <= 1000 to its owner's hand.
-・ This character can't attack the deck.","Damn hyenas! They've already sniffed us out!
-ー Toyo",˟🎴,,
-33,Non-resistance village chief,Character,Ordinary Person,流,,,流,★★,500,"・ While this character is on the battlefield, all characters with the ""Ordinary Person"" style can't attack.","Nonresistance is the only weapon
+ー Bat",Oh well. I'm sure I won't go hungry if I tag along!,"Oh well. If I stick with him, I'll never go hungry.","Fa nulla. Mi basterà stare con lui
+ed il cibo non mi mancherà di certo!
+ー  Bat",1,1
+˟🎴,,,Misumi,Misumi,ミスミ,31,Character,一般人,Commoner,,流,,,,★,400,"・このキャラクターがバトルフィールドから捨札に置かれるとき、
+   自分のキャラクター1体を『回復』する。
+・このキャラクターは山札を攻撃することができない。","・ When this character is discarded from the battlefield, make one of your characters [Ready].
+・ ˟🎴: This character can't attack the deck.","・ Quando questo personaggio viene scartato dal battlefield, rendi [Pronto] uno dei tuoi personaggi.
+・ ˟🎴: Questo personaggio non può attaccare il mazzo.","おお〜〜〜い種モミじゃ〜〜種モミしゃ〜〜
+ーミスミー","Hey, I'm back!!! With seeds! I've got seeds!!
+ー Misumi","Hey, I'm back!!! With seeds! I've got seeds!!",Hey! Seeds! Seeds!,"Ehi, sono tornato!! E ho portato con me i semi! I semi di risooo!
+ー Misumi ",2,2
+˟🎴,,,Toyo,Toyo,トヨ,32,Character,一般人,Commoner,,流,,,,,400,"・このキャラクターがバトルフィールドから捨札に置かれるとき、
+   パワー1000以下のキャラクター1体を持ち主の手札に戻してもよい。
+・このキャラクターは山札を攻撃することができない。","・ When this character is discarded from the battlefield, you may return a character with Power <= 1000 to its owner's hand.
+・ ˟🎴: This character can't attack the deck.","・ Quando questo personaggio viene scartato dal battlefield, puoi far tornare un personaggio con Power <= 1000 in mano al suo proprietario.
+・ ˟🎴: Questo personaggio non può attaccare il mazzo.","ハイエナども もう水の匂いをかぎつけてきたか
+―トヨ―","Damn hyenas! They've already sniffed us out!
+ー Toyo",Damn hyenas! They've already sniffed us out!,Damn hyenas! They've already picked up the scent of water!,"Accidenti iene! Ci hanno già annusato!
+ー Toyo ",19,19
+˟✊,,,Non-resistance village chief,Capovillaggio pacifista,無抵抗主義の村長,33,Character,一般人,Commoner,,流,,,流,★★,500,"・このキャラクターがバトルフィールドにいる間、
+   流派『一般人』を持つ全てのキャラクターは攻撃することができない。","・ ˟✊: While this character is on the battlefield, all characters in the ""Commoner"" group can't attack.","・ ˟✊: Finché questo personaggio è sul battlefield, tutti i personaggi del gruppo ""Civile"" non possono attaccare.","無抵抗はわれわれ弱者の
+自分を守るべき唯一の武器なのです
+―村長―","Nonresistance is the only weapon
 that we have to defend ourselves!
-ー Village Chief",˟✊,,
-34,Koryu,Character,Hokuto Shinken,流,,⏺,流,★,2200,"・ This character can't be equipped with a [Skill] card.
-・ While attacking, this character has +300 Power.","And you'll be joining them soon. I'll give you your last rites!!
-ー Koryu",↑UP,,
-35,Juza (Child),Character,Nanto Seiken,流,,,流,★,700,"・ 将: While this character is the [General], you may play a character named ""Juza"" from your hand by discarding this card, without paying its cost.","Me? I'd just eat them.
-ー Juza",将,,
-36,Johnny,Character,Ordinary Person,流,,,,,800,"・ When this character enters the battlefield, discard one of your characters with the ""Ordinary Person"" style from the battlefield.
-・ This character can't attack the deck.","Oh...?!
+ー Village Chief",Nonresistance is the only weapon that we have to defend ourselves!,Pacifism is the only weapon the weak have to protect ourselves.,"La non resistenza è l'unica arma
+Che dobbiamo difenderci!
+ー Capo del villaggio ",107,107
+↑UP,,,Koryu,Koryu,コウリュウ,34,Character,北斗神拳,Hokuto Shinken,,流,,⏺,流,★,2200,"・このキャラクターはスキルカードを装備することができない。
+・攻撃中、このキャラクターのパワーは+300される。","・ This character can't be equipped with a [Skill] card.
+・ UP: While attacking, this character has +300 Power.","・ Questo personaggio non può essere equipaggiato con una carta [Skill].
+・ Mentre attacca, questo personaggio ha +300 Power.""","おまえもその男たち同様ここで供養してやろう!!
+ーコウリュウー","And you'll be joining them soon. I'll give you your last rites!!
+ー Koryu",And you'll be joining them soon. I'll give you your last rites!!,I will lay your sould to rest!,"E presto ti unirai a loro. Ti darò i tuoi ultimi riti !!
+ー koryu ",98,98
+将,,,Juza (Child),Juza (Giovane),ジュウザ(幼少時代),35,Character,南斗聖拳,Nanto Seiken,,流,,,流,★,700,"・このキャラクターが【大将】である間、
+   自分の『ジュウザ』と同名キャラクターを、
+   コストを支払わずにバトルフィールドに出してもよい。
+   そうした場合、このカードを捨札にする。","・ 将: While this character is the [General], you may play a character named ""Juza"" from your hand by discarding this card, without paying its cost.","・ 将: Finché questo personaggio è il [Generale], puoi giocare un personaggio di nome ""Juza"" dalla tua mano scartando questa carta, senza pagarne il costo.","オレか！? オレは喰うだけ
+ージュウザー","Me? I'd just eat them.
+ー Juza","Who, me? I'd just eat them.",Me? I just eat it.,"Io? Li mangerò.
+ー Juza ",116,116
+˟🎴,,,Johnny,Johnny,マスター,36,Character,一般人,Commoner,,流,,,,,800,"・このキャラクターをバトルフィールドに出したとき、
+   流派『一般人』を持つ自分のキャラクター1体を捨札にする。
+・このキャラクターは山札を攻撃することができない。","・ When this character enters the battlefield, discard one of your characters in the ""Commoner"" group from the battlefield.
+・ ˟🎴:This character can't attack the deck.","・ Quando questo personaggio entra nel battlefield, scarta uno dei tuoi personaggi del gruppo ""Civile"" dal battlefield.
+・ ˟🎴: Questo personaggio non può attaccare il mazzo.","ありゃ･･･!?
+メチルアルコールって飲めねえのか･･････
+ーマスターー","Oh...?!
 I guess methyl alchohol isn't meant to be drunk...
-ー Johnny",˟🎴,,
-37,Taki,Character,Ordinary Person,流,,,,★★,300,"・ When this character enters the battlefield, you may draw one card from your deck.
-・ This character can't attack the deck.","It's my village! My auntie and everyone else need you help!!
-ー Taki",˟🎴,,
-38,Mitsu,Character,Ordinary Person,流,,,,,500,・ This character can't attack the deck.,"Forgive us! You must die
+ー Johnny","Oh...?!
+I guess methyl alchohol isn't meant to be drunk...","Oh...?
+Methanol's not drinkable...?","Ops!
+Mi sa che l'alcol metilico non lo si può dare da bere, allora.
+ー Johnny ",11,11
+˟🎴,,,Taki,Taki,タキ,37,Character,一般人,Commoner,,流,,,,★★,300,"・このキャラクターがバトルフィールドから捨札に置かれるとき、
+   自分の山札からカードを1枚引いてもよい。
+・このキャラクターは山札を攻撃することができない。","・ When this character enters the battlefield, you may draw one card from your deck.
+・ ˟🎴: This character can't attack the deck.","・ Quando questo personaggio entra nel battlefield, puoi pescare una carta dal tuo mazzo.
+・ ˟🎴: Questo personaggio non può attaccare il mazzo.","ぼくの村を！！おばちゃんやみんなを助けてください
+ータキー","It's my village! My auntie and everyone else need you help!!
+ー Taki",It's my village! My auntie and everyone else need you help!!,My village! My auntie and the kids! They need help!!,"È il mio villaggio! Mia zia e tutti gli altri hanno bisogno di aiuto !!
+ー Taki ",17,17
+˟🎴,,,Mitsu,Mitsu,ミツ,38,Character,一般人,Commoner,,流,,,,,500,・このキャラクターは山札を攻撃することができない。,・ ˟🎴: This character can't attack the deck.,・ ˟🎴: Questo personaggio non può attaccare il mazzo.,"許せ このカサンドラの住人に
+再び生をあたえるためだ 死んでくれ!!
+ーライガ・フウガー","Forgive us! You must die
 in order to save the people of Cassandra!!
-ー Raiga & Fuga",˟🎴,,
-39,Raoh,Character,Hokuto Shinken,覇,⏺,邪,覇,★★★,2400,"・ 将: While this character is the [General], it has +200 Power.
-・ When this character attacks, you may discard any number of cards from your hand, for each discarded card, it has +100 Power.","THEN I SHALL FIGHT THE GODS, TOO!!
-ー Raoh",将,↑UP,
-40,Shin,Character,Nanto Seiken,覇,⏺,⏺,邪,,2000,"・ 将: While this character is the [General], it has +400 Power.
-・ When this character attacks, if another character [Intercept]s the attack, deal damage to the original target.","I will not die by your fist!!
-ー Shin",将,↑UP,🗲
-41,Souther,Character,Nanto Seiken,覇,⏺,⏺,覇,★★,2300,"・ 将: While this character is the [General], it has +200 Power.
-・ When this character attacks, discard one card from your hand (if you have any).","I was born with the body of an Emperor!
-ー Souther",将,↑UP,
-42,Kokuoh,Character,Horse,覇,,,⏺,,1500,,"I will ride nothing but Kokuoh!
-ー Raoh",,,
-43,Raoh,Character,Hokuto Shinken,覇,⏺,覇,覇,★,2500,"・ 将: While this character is the [General], it has +200 Power.
-・ When this character attacks, discard one of your characters on the battlefield not named ""Raoh"" or ""Kokuoh"".","Ken-Oh's legend of terror begins now!
-ー Raoh",将,↑UP,
-44,Raoh (Child),Character,Hokuto Shinken,覇,,,覇,★,900,"・ 将: While this character is the [General], you may play a character named ""Raoh"" from your hand by discarding this card, without paying its cost.","I will become the strongest man of all time!!
-ー Raoh",将,,
-45,Jagi,Character,Hokuto Shinken,邪,,邪,邪,★,1500,"・ 将: While this character is the [General], all ""邪"" (red) attribute characters on the battlefield have +200 Power while attacking.","Hyahaha!! Who am I?!
+ー Raiga & Fuga",Forgive us! you must die in order to save the people of Cassandra!!,"Forgive us... to give the people of Cassandra back their lives, we need to sacrifice yours!","Perdonaci! Devi morire
+Per salvare il popolo di Cassandra !!
+ー Raiga e Fuga ",55,55
+将,↑UP,,Raoh,Raoh,ラオウ,39,Character,北斗神拳,Hokuto Shinken,,覇,⏺,邪,覇,★★★,2400,"・このキャラクターが【大将】である間、
+   このキャラクターのパワーは+200される。
+・このキャラクターが攻撃するとき、
+   自分の手札を好きな枚数捨札にしてもよい。
+   そうした場合、攻撃中、このキャラクターのパワーは
+   捨札にした手札1枚につき、+100される。","・ 将-UP: While this character is the [General], it has +200 Power.
+・ UP: When this character attacks, you may discard any number of cards from your hand, for each discarded card, it has +100 Power.","・ 将-UP: Finché questo personaggio è il [Generale], ha +200 Power.
+・ UP: Quando questo personaggio attacca, puoi scartare un qualsiasi numero di carte dalla tua mano; per ogni carta scartata, ha +100 Power.""","ならば神とも戦うまで！！
+―ラオウ―","THEN I SHALL FIGHT THE GODS, TOO!!
+ー Raoh","THEN I SHALL FIGHT THEM, TOO!!",THEN I WILL FIGHT GOD HIMSELF!,"Allora combatterò anche gli dei !!
+ー raoh ",61,61
+将,↑UP,🗲,Shin,Shin,シン,40,Character,南斗聖拳,Nanto Seiken,,覇,⏺,⏺,邪,,2000,"・このキャラクターが【大将】である間、
+   このキャラクターのパワーは+200される.
+・このキャラクターがキャラクターを攻撃するとき、
+   相手が『身代わり』を行っても、攻撃対象のキャラクターとバトルする。","・ 将-UP: While this character is the [General], it has +400 Power.
+・ 🗲: When this character attacks another character, even if [Intercept]ed, fight the original target.","・ 将-UP: Finché questo personaggio è il [Generale], ha +400 Power.
+・ 🗲: Quando questo personaggio attacca un altro personaggio, anche se [Intercettato], combatti contro il bersaglio originale.","おれはお前の拳法では死なん！！
+ーシンー","I will not die by your fist!!
+ー Shin",I will not die by your fist!!,I will not die by your hands!!,"Non sarà il tuo pugno ad uccidermi!
+ー Shin",10,10
+将,↑UP,,Souther,Souther,サウザー,41,Character,南斗聖拳,Nanto Seiken,,覇,⏺,⏺,覇,★★,2300,"・このキャラクターが【大将】である間、
+   このキャラクターのパワーは+200される。
+・このキャラクターが攻撃するとき、自分の手札が1枚でもあれば、
+   自分の手札から1枚を選んで捨札にする。","・ 将-UP: While this character is the [General], it has +200 Power.
+・ When this character attacks, discard one card from your hand (if you have any).","・ 将-UP: Finché questo personaggio è il [Generale], ha +200 Power.
+・ Quando questo personaggio attacca, scarta una carta dalla tua mano (se possibile).","おれの体は生まれついての帝王の体!
+ーサウザー","I was born with the body of an Emperor!
+ー Souther",I was born with the body of an emperor!,I was born with the body of an emperor!,"Sono nato con il corpo di un imperatore!
+ー Souther ",87,87
+,,,Kokuoh,Kokuoh,黒王,42,Character,馬,Horse,,覇,,,⏺,,1500,,,,"おれが体をあずけるのは黒王号のみ
+ーラオウー","I will ride nothing but Kokuoh!
+ー Raoh",I will ride nothing but Kokuoh.,I only trust Kokuoh.,"Non cavalcherò altro che Kokuoh!
+ー raoh ",117,117
+将,↑UP,,Raoh,Raoh,ラオウ,43,Character,北斗神拳,Hokuto Shinken,,覇,⏺,覇,覇,★,2500,"・このキャラクターが【大将】である間、
+   このキャラクターのパワーは+200される。
+・このキャラクターが攻撃するとき、
+   バトルフィールドにいる自分の『ラオウ』『黒王』以外の
+   キャラクター1体を捨札にする。","・ 将-UP: While this character is the [General], it has +200 Power.
+・ When this character attacks, discard one of your characters on the battlefield not named ""Raoh"" or ""Kokuoh"".","・ 将-UP: Finché questo personaggio è il [Generale], ha +200 Power.
+・ Quando questo personaggio attacca, scarta uno dei tuoi personaggi sul battlefield che non si chiami ""Raoh"" o ""Kokuoh"".","拳王恐怖の伝説は今より始まる
+―ラオウ―","Ken-Oh's legend of terror begins now!
+ー Raoh",Ken-Oh's reign of terror will begin anew!,Ken-Oh's legend of terror begins now!,"La leggenda del terrore di Ken-Oh inizia ora!
+ー raoh ",104,104
+将,,,Raoh (Child),Raoh (Giovane),ラオウ(幼少時代),44,Character,北斗神拳,Hokuto Shinken,,覇,,,覇,★,900,"・このキャラクターが 【大将】 である間、自分の『ラオウ』と同名キャラクターを、
+   コストを支払わずにバトルフィールドに出してもよい。
+   そうした場合、このカードを捨札にする。","・ 将: While this character is the [General], you may play a character named ""Raoh"" from your hand by discarding this card, without paying its cost.","・ 将-UP: Finché questo personaggio è il [Generale], puoi giocare un personaggio di nome ""Raoh"" dalla tua mano scartando questa carta, senza pagarne il costo.","オレは必ずこの世で一番強い男になる！！
+ーレシー","I will become the strongest man of all time!!
+ー Raoh",I'll become the strongest man of all time!!,I will be the most powerful man in this world!,"Diventerò l'uomo più forte di tutti i tempi !!
+ー raoh ",101,101
+将,↑UP,,Jagi,Jagi,ジャギ,45,Character,北斗神拳,Hokuto Shinken,,邪,,邪,邪,★,1500,"・このキャラクターが 【大将】である間、
+   バトルフィールドにいる属性 『邪』のキャラクターは
+   攻撃中、パワーが+200される。","・ 将-UP: While this character is the [General], all ""邪"" (red) attribute characters on the battlefield have +200 Power while attacking.","・ 将-UP: Finché questo personaggio è il [Generale], tutti i personaggi con attributo ""邪"" (rosso) sul battlefield hanno +200 Power mentre attaccano.","ウァッハハ!! おれさまはだれだ!
+名をいってみろ!!
+ージャギー","Hyahaha!! Who am I?!
 Say my name!!
-ー Jagi",将,↑UP,
-46,Yuda,Character,Nanto Seiken,邪,,邪,邪,★,1800,"・ 将: While this character is the [General], you may use your [Resting] characters to [Intercept] attacks that target it, then discard the chosen character.","No one in this world is stronger than me...
+ー Jagi",Hyahaha!! Who am I?! Say my name!!,Wah ha ha! Who am I?! Say my name!,"Hyahaha !! Chi sono io?!
+Dì il mio nome !!
+ー Jagi ",43,43
+将,,,Yuda,Yuda,ユダ,46,Character,南斗聖拳,Nanto Seiken,,邪,,邪,邪,★,1800,"・このキャラクターが 【大将】 である間、
+   このキャラクターが攻撃されたときに『行動完了』状態のキャラクターを
+   1体選んで『身代わり』を行ってもよい。
+   『身代わり』を行ったキャラクターは必ず捨札にする。","・ 将: While this character is the [General], you may use your [Spent] characters to [Intercept] attacks that target it, then discard the chosen character.","・ 将-UP: Finché questo personaggio è il [Generale], puoi usare i tuoi personaggi [Esausti] per [Intercettare] gli attacchi che lo bersagliano, poi scarta il personaggio scelto.","おれはこの世でだれよりも強く･･････
+そして美しい!!
+ーユダー","No one in this world is stronger than me...
 Or more beautiful!!
-ー Yuda",将,,
-47,Zeed,Character,Nothing,邪,,,,,600,・ This character can't attack on the turn it enters the battlefield.,"Food! Bring me every scrap of your food!
-ー Zeed",,,
-48,Spade,Character,Nothing,邪,,,⏺,,800,"・ While attacking, this character has +300 Power.","PFFT! I'll smash your brains out! DIE, ASSHOLE!!
-ー Spade",↑UP,,
-49,Diamond,Character,Nothing,邪,,,⏺,,1000,,"And I, DIAMOND, am nothing like Spade!!
-ー Diamond",,,
-50,Club,Character,Nothing,邪,,,邪,,1200,,"Hey... Keep your filthy peasant hands off me!!
-ー Club",,,
-51,Heart,Character,Nothing,邪,,⏺,邪,★,1400,"・ When this character is attacked, you may automatically win the battle by discarding 2 cards from your hand.","So it IS a pig. Pigs belong in a pigsty. Move aside!
-ー Kenshiro",,,
-52,Mad Sergeant,Character,Nothing,邪,,,⏺,,1200,・ This character can't attack on the turn it enters the battlefield.,"I'll show you what real guerrilla warfare can do!
-ー Mad Sergeant",,,
-53,Colonel,Character,Nanto Seiken,邪,,⏺,邪,,1500,"・ 将: While this character is the [General], at the beginning of the opponent's attack phase, return a [Skill] card from one of their characters to their hand.","He's got supernatural powers!!
-ー Mad Sergeant",将,,
-54,Jackal,Character,Nothing,邪,,⏺,邪,,800,"・ When one of your other characters is discarded from the battlefield, you may discard one card from your hand to make this character [Ready].","I ain't interested in fighting you.
-ー Jackal",,,
-55,Devil Rebirth,Character,Nothing,邪,,⏺,⏺,,1000,"・ While attacking, this character has +1000 Power.
-・ While [Intercept]ing an attack, this character has +1000 Power.","I missed you, my dear little brother! Have you forgotten the face of your older brother?!
-ー Jackal",↑UP,,
-56,Fang Clan,Character,Kazan Ryu,邪,,,邪,,700,"・ You may have multiple copies of this character, even if you control other copies with the same name.","You idiots really think I'm the last of the fang clan?!
-ー Fang Clan",,,
-57,King Fang,Character,Kazan Ryu,邪,,邪,邪,★★,1500,"・ 将: While this character is the [General], when a character named ""Fang Clan"" is discarded from the battlefield, return it to your hand instead.","You fool! So long as I live,
+ー Yuda","No one in this world is stronger than me...
+Or more beautiful!!","No one in this world is stronger...
+Or more beautiful than me!","Nessuno in questo mondo è più forte di me ...
+O più bello !!
+ー Yuda ",75,75
+,,,Zeed,Zeed,ジード,47,Character,無,None,,邪,,,,,600,"・このキャラクターはバトルフィールドに出したターンには、
+   攻撃することができない。",・ This character can't attack on the turn it enters the battlefield.,・ Questo personaggio non può attaccare nel turno in cui entra nel battlefield.,"食料だ! ありったけの食料をもってこい!
+ージードー","Food! Bring me every scrap of your food!
+ー Zeed",Food! Bring me every scrap of your food!,Food! Bring me all the food you got!,"Vogliamo da mangiare! Portateci tutto il cibo che avete!
+ー Zeed ",1,1
+↑UP,,,Spade,Spade,スペード,48,Character,無,None,,邪,,,⏺,,800,・攻撃中、このキャラクターのパワーは+300される。,"・ UP: While attacking, this character has +300 Power.","・ UP: Mentre attacca, questo personaggio ha +300 Power.","ケッ! 脳みそふちまいて死にやがれ
+ースペードー","PFFT! I'll smash your brains out! DIE, ASSHOLE!!
+ー Spade","PFFT! I'll smash your brains out! DIE, ASSHOLE!!",Keh! I'll splatter your brains all over the place!,"Puah! Ti spaccherò la testa in due! Muori!
+ー Spade ",3,3
+,,,Diamond,Diamond,ダイヤ,49,Character,無,None,,邪,,,⏺,,1000,,,,"このダイヤ様はスペードなどとは格がちがう！！
+―ダイヤ―","And I, DIAMOND, am nothing like Spade!!
+ー Diamond","And I, DIAMOND, am nothing like Spade!!","I'm Diamond, and I'm nothing like that fool Spade!!","Ora capirai che io, Diamond, sono un avversario di tutt'altro livello rispetto a Spade!
+ー Diamond",4,4
+,,,Club,Club,クラブ,50,Character,無,None,,邪,,,邪,,1200,,,,"きさま〜〜〜
+家畜の分際でおれの体にさわりやがったな〜〜
+ークラブー","Hey... Keep your filthy peasant hands off me!!
+ー Club",Hey... Keep your filthy peasant hands off me!!,You piece of... How dare a sheep like you touch me...,"Pezzente...
+hai osato toccarmi con le tue luride zampe.
+ー Club ",5,5
+,,,Heart,Heart,ハート,51,Character,無,None,,邪,,⏺,邪,★,1400,"・このキャラクターが攻撃されたとき、自分の手札を2枚捨札にしてもよい。
+   そうした場合、このキャラクターはバトルに勝利する。","・ When this character is attacked, you may automatically win the battle by discarding 2 cards from your hand.","・ Quando questo personaggio viene attaccato, puoi vincere automaticamente la battaglia scartando 2 carte dalla tua mano.","やっぱりブタか・・・ブタはブター小屋へ行け!
+ーケンシロウー","So it IS a pig. Pigs belong in a pigsty. Move aside!
+ー Kenshiro",So it IS a pig. Pigs belong in a pigsty. Move aside!,"Yep, that's definitely a pig. Go back to your pigpen!","Non mi sbagliavo. C'è davvero un maiale. Fila nel tuo porcile!
+ー Kenshiro",7,7
+,,,Mad Sergeant,Sergente Mad,マッド軍曹,52,Character,無,None,,邪,,,⏺,,1200,"・このキャラクターはバトルフィールドに出したターンには、
+   攻撃することができない。",・ This character can't attack on the turn it enters the battlefield.,・ Questo personaggio non può attaccare nel turno in cui entra nel battlefield.,"きさまにゲリラ戦の真髄を見せてやろう
+ーマッド軍曹ー","I'll show you what real guerrilla warfare can do!
+ー Mad Sergeant",I'll show you what real guerrilla warfare can do!,I'll show you what true guerrilla warfare is!,"Ora avrai l'onore di ammirare ... le mie tecniche di guerrigliero!
+ー Sergente Mad",13,13
+将,,,Colonel,Colonel,カーネル,53,Character,南斗聖拳,Nanto Seiken,,邪,,⏺,邪,,1500,"・このキャラクターが【大将】である間、相手のアタックフェイズのはじめに、
+   相手のキャラクターから1枚スキルカードを取り外し、持ち主の手札に戻す。","・ 将: While this character is the [General], at the beginning of the opponent's attack phase, return a [Skill] card from one of their characters to their hand.","・ 将: Finché questo personaggio è il [Generale], all'inizio della fase di attacco dell'avversario, fai tornare una carta [Skill] da uno dei suoi personaggi alla sua mano.","あのお方は超能力者だ！！
+―マッド軍曹―","He's got supernatural powers!!
+ー Mad Sergeant",He's got supernatural powers!!,He has supernatural powers!!,"Ha poteri soprannaturali!!
+ー Sergente Pazzo",14,14
+,,,Jackal,Jackal,ジャッカル,54,Character,無,None,,邪,,⏺,邪,,800,"・自分の他のキャラクターがバトルフィールドから捨札に置かれたときに、
+   自分の手札を1枚捨札にしてもよい。
+   そうした場合、このキャラクターを『回復』する。","・ When one of your other characters is discarded from the battlefield, you may discard one card from your hand to make this character [Ready].","・ Quando uno dei tuoi altri personaggi viene scartato dal campo di battaglia, puoi scartare una carta dalla tua mano per rendere questo personaggio [Pronto].","俺はあんたと争う気はないんでね
+―ジャッカル―","I ain't interested in fighting you.
+ー Jackal",I ain't interested in fighting you.,I ain't gonna fight you.,"Non mi interessa combattere contro di te.
+ー Sciacallo",20,20
+↑UP,,,Devil Rebirth,Devil Rebirth,デビルリバース,55,Character,無,None,,邪,,⏺,⏺,,1000,"・このキャラクターは攻撃中、パワーが+1000される。
+・このキャラクターが『身代わり』を行った場合、
+   バトル中のみ、このキャラクターのパワーは+1000される。","・ UP: While attacking, this character has +1000 Power.
+・ UP: While [Intercept]ing an attack, this character has +1000 Power.","・ UP: Mentre attacca, questo personaggio ha +1000 Power.
+・ UP: Mentre [Intercetta] un attacco, questo personaggio ha +1000 Power.","会いたかったぞわが弟よ! 忘れたか兄の顔を!!
+ージャッカルー","I missed you, my dear little brother! Have you forgotten the face of your older brother?!
+ー Jackal","I missed you, my dear little brother! Have you forgotten the face of your older brother?!","I missed you, my little brother! Have you forgotten your own brother's face?!","Mi sei mancato, mio caro fratellino! Hai dimenticato la faccia di tuo fratello maggiore?!
+ー Sciacallo",24,24
+,,,Fang Clan,Fang Clan,牙一族,56,Character,華山流,Kazan Ryu,,邪,,,邪,,700,・このキャラクターは、同じ名前でも複数バトルフィールドに出してもよい。,"・ You may have multiple copies of this character, even if you control other copies with the same name.","・ Puoi avere più copie di questo personaggio, anche se controlli altre copie con lo stesso nome.","バカめ牙一族はおれが最後だと思うなよ!!
+一牙一族一","You idiots really think I'm the last of the fang clan?!
+ー Fang Clan",You morons really think I'm the last of the fang clan?!,I-I'm not the last of the fangs! There's a lot more of us!!,"Idioti, pensate davvero che io sia l'ultimo del clan delle zanne?!
+ー Clan delle Zanne",29,29
+将,,,King Fang,King Fang,牙大王,57,Character,華山流,Kazan Ryu,,邪,,邪,邪,★★,1500,"・このキャラクターが【大将】である間、
+   バトルフィールドにいる自分の『牙一族』が捨札になるとき、
+   捨札にせずに自分の手札に戻す。","・ 将: While this character is the [General], when a character named ""Fang Clan"" is discarded from the battlefield, return it to your hand instead.","・ 将: Finché questo personaggio è il [Generale], quando un personaggio di nome ""Clan della Zanna"" viene scartato dal campo di battaglia, fai tornare quel personaggio alla tua mano.","バカモノ! わしが生きておれば
+きさまのかわりはなんぼでもつくれるわ!!
+一牙大王一","You fool! So long as I live,
 I can replace you easily!!
-ー King Fang",将,,
-58,Amiba,Character,Nanto Seiken,邪,,邪,邪,★,1500,"・ 将: While this character is the [General], when a character with Power <= 1500 attacks, discard the top card of your deck. If you discarded a ""邪"" (red) attribute card, the attacking character will have +1000 Power while attacking, otherwise discard the attacker and cancel the battle.","Mm?! Did I get it wrong ...?
-ー Amiba",将,,
-59,"Uighur, the Warden",Character,Taizan Ryu,邪,,⏺,邪,★★,1500,"・ 将: While this character is the [General], when it attacks, the opponent discards 1 card at random from their hand.","As if a maggot like you
+ー King Fang","You fool! So long as I live, I can replace you easily!!","Shut up, you half-wit! I can beget a thousand of you as long as I stay alive!","Sciocco! Finché vivo,
+posso sostituirti facilmente!!
+ー Re Zanna",37,37
+将,,,Amiba,Amiba,アミバ,58,Character,南斗聖拳,Nanto Seiken,,邪,,邪,邪,★,1500,"・このキャラクターが 【大将】である間、パワー1500以下のキャラクターが
+   攻撃するときに、自分の山札の上からカードを1枚表にして捨札にする。
+   捨札にしたカードの属性が『邪』であれば、
+   攻撃するキャラクターのパワーは、攻撃中、+1000される。
+   捨札にしたカードがそれ以外の属性であれば
+   攻撃するキャラクターを捨札に置き、バトルは行われない。","・ 将: While this character is the [General], when a character with Power <= 1500 attacks, discard the top card of your deck. If you discarded a ""邪"" (red) attribute card, the attacking character will have +1000 Power while attacking, otherwise discard the attacker and cancel the battle.","・ 将: Finché questo personaggio è il [Generale], quando un personaggio con Power <= 1500 attacca, scarta la prima carta del tuo mazzo. Se hai scartato una carta con attributo ""邪"" (rossa), il personaggio attaccante avrà +1000 Power durante l'attacco, altrimenti scarta l'attaccante e annulla la battaglia.","ん！? まちがったかな･･･
+ーアミバー","Mm?! Did I get it wrong ...?
+ー Amiba",Hm?! I've struck the wrong one ... ?,Mm?! Did I get it wrong ... ?,"Mm?! Ho capito male...?
+ー Amiba",51,51
+将,,,"Uighur, the Warden","Uighur, il Guardiano",ウイグル獄長,59,Character,泰山流,Taizan Ryu,,邪,,⏺,邪,★★,1500,"・このキャラクターが 【大将】である間、
+   このキャラクターが攻撃するとき、相手の手札を見ないで1枚捨札にする。","・ 将: When this character attacks, if it is the [General], the opponent discards 1 card at random from their hand.","・ 将: Quando questo personaggio attacca, se è il [Generale], l'avversario scarta 1 carta a caso dalla sua mano.","おまえごときが
+カサンドラの伝説を破ることはできんわ
+ーウイグル獄長一","As if a maggot like you
 could topple the legend that is Cassandra.
-ー Uighur, the Warden",将,,
-60,Galf,Character,Nothing,邪,,,邪,★,1000,"・ When this character enters the battlefield, reveal the top card of your deck. If it is a ""邪"" (red) attribute card, you may draw it into your hand, and discard one of your opponent's characters with Power <= 800. If it has a different attribute, discard it.","So, Seki, tell me... Is this man innocent or must he die?
-ー Galf",,,
-61,Komaku,Character,Nothing,邪,,⏺,邪,★,800,"・ When this character enters the battlefield, the opponent discards 1 card at random from their hand.","Heeheehee... I reckon that the village is under water by now!
-ー Komaku",,,
-62,Usa,Character,Nothing,邪,,⏺,邪,,600,"・ While this character is on the battlefield, if the opponent uses an [Event] card, draw one card from your deck.","In fact, I, Usa, would like a piece of the action myself...
-ー Usa",,,
-63,Toki (Amiba),Character,Hokuto Shinken,邪,,⏺,邪,★★★,1500,"・ This character is considered to have both the name ""Toki"" and ""Amiba"".
-・ When this character attacks, you may choose one opponent's character that is able to [Intercept] it and force it to [Intercept].","Kenshiro, violence is good!!
-ー Toki?",,,
-64,Gonzu,Character,Nothing,邪,,⏺,邪,★★,1000,"・ When this character enters the battlefield, reveal cards from the top of your deck until you reveal a [Character] card, then add all revealed cards to your hand.","You broke the record, Master Gonzu.
-ー Gonzu's Subordinate",,,
-65,Hokuto Hyakuretsu Ken,Skill,,義,,,義,★,"《Req》(St.) Hokuto Shinken
-《FX》Double","・ Can only be equipped to characters with the ""Hokuto Shinken"" style.
-・ Equipped character gains ""Double Attack"". (Can attack the same character twice)
-・ Discard this card after the equipped character finishes attacking.","Atatatatah!!!
-ー Kenshiro",🗑,,
-66,Ganzan Ryozanha,Skill,,義,,,⏺,,"《Req》(St.) Hokuto Shinken
-《FX》Att. +400","・ Can only be equipped to characters with the ""Hokuto Shinken"" style.
-・ Equipped character has +400 Power during attacks.","Zero!!
-ー Kenshiro",,,
-67,Hokuto Juha Zan,Skill,,義,,⏺,義,★,《Req》(St.) Hokuto Shinken,"・ Can only be equipped to characters with the ""Hokuto Shinken"" style.
-・ When the equipped character attacks, disable the [Skill] cards equipped by the opponent.","You are nothing more than a lump of fat! Now die!!
-ー Kenshiro",,,
-68,Nanto Suichoken,Skill,,義,,,義,,"《Req》(St.) Nanto Seiken
-《FX》Wide","・ Can only be equipped to characters with the ""Nanto Seiken"" style.
-・ Equipped character gains ""Wide Attack"". (During an attack can select two characters and perform an attack against each).
-・ Discard this card after the equipped character finishes attacking.",,🗑,,
-69,"Nanto Ultimate Secret Technique
-Hissho Hakurei",Skill,,義,,⏺,義,★★,"《Req》(St.) Nanto Seiken
-《FX》Att. +600","・ Can only be equipped to characters with the ""Nanto Seiken"" style.
-・ Equipped character has +600 Power during attacks.
-・ Discard this card after the equipped character finishes attacking.",,🗑,,
-70,Hokuto Ujō Hagan Ken,Skill,,愛,,,愛,★★,"《Req》(St.) Hokuto Shinken
-《FX》+200","・ Can only be equipped to characters with the ""Hokuto Shinken"" style.
-・ Equipped character has +200 Power.","Aah!! I feel SO GOOD!!
-ー Ken-Oh's Guard",🗑,,
-71,Nanto Hakuro Ken,Skill,,愛,,,愛,★,"《Req》(St.) Nanto Seiken
-《FX》+200","・ Can only be equipped to characters with the ""Nanto Seiken"" style.
-・ Equipped character has +200 Power.",,,,
-72,Bladed Yo-Yos,Skill,,愛,,,⏺,,《FX》Att. +200,・ Equipped character has +200 Power during attacks.,"So far, most guys have been
+ー Uighur, the Warden",As if a maggot like you could topple the legend that is Cassandra!!,The likes of you cannot break the legend of Cassandra!,"Come se un verme come te
+potesse rovesciare la leggenda di Cassandra.
+ー Uighur, il Guardiano",53,53
+,,,Galf,Galf,ガルフ,60,Character,無,None,,邪,,,邪,★,1000,"・このキャラクターをバトルフィールドに出したとき、
+   自分の山札の上からカードを1枚表にする。
+   そのカードが属性『邪』のカードであれば自分の手札に加え、
+   相手のパワー800以下のキャラクターを1体選んで捨札にしてもよい。
+   それ以外のカードなら表にしたカードを捨札にする。","・ When this character enters the battlefield, reveal the top card of your deck. If it is a ""邪"" (red) attribute card, you may draw it into your hand, and discard one of your opponent's characters with Power <= 800. If it has a different attribute, discard it.","・ Quando questo personaggio entra nel campo di battaglia, rivela la prima carta del tuo mazzo. Se è una carta con attributo ""邪"" (rossa), puoi pescarla nella tua mano e scartare uno dei personaggi del tuo avversario con Power <= 800. Se ha un attributo diverso, scartala.","のうセキよ・・・この男、無罪か死刑か？
+―ガルフ―","So, Seki, tell me... Is this man innocent or must he die?
+ー Galf","So, Seki, tell me... Is this woman innocent or must she die?","Whaddaya say, Seki? Is she innocent or do we execute her?","Allora, Seki, dimmi... Quest'uomo è innocente o deve morire?
+ーGalf",73+74,73
+,,,Komaku,Komaku,コマク,61,Character,無,None,,邪,,⏺,邪,★,800,"・このキャラクターをバトルフィールドに出したとき、
+   相手の手札を1枚見ないで捨札にする。","・ When this character enters the battlefield, the opponent discards 1 card at random from their hand.","・ Quando questo personaggio entra nel campo di battaglia, l'avversario scarta 1 carta a caso dalla sua mano.","フヒヒ 今ごろはあの村も水びたし
+一コマクー","Heeheehee... I reckon that the village is under water by now!
+ー Komaku",Heeheehee... I reckon that the village is under water by now!,Ee Hee Hee! The village must be all flooded by now.,"Heeheehee... credo che il villaggio sia ormai sott'acqua!
+ー Komaku",81,81
+,,,Usa,Usa,ウサ,62,Character,無,None,,邪,,⏺,邪,,600,"・このキャラクターがバトルフィールドにいる間、
+   相手がイベントカードを使用したならば自分の山札からカードを1枚引く。","・ While this character is on the battlefield, if the opponent uses an [Event] card, draw one card from your deck.","・ Mentre questo personaggio è sul campo di battaglia, se l'avversario usa una carta [Event], pesca una carta dal tuo mazzo.","このウサもあやかりたいもんですな
+ーウサー","In fact, I, Usa, would like a piece of the action myself...
+ー Usa","In fact, I, Usa, would like a piece of the action myself...",I too would like a little taste of her...,"In effetti, io, Usa, vorrei partecipare anch'io...
+ー Usa",126,126
+,,,Toki (Amiba),Toki (Amiba),トキ(アミバ),63,Character,北斗神拳,Hokuto Shinken,,邪,,⏺,邪,★★★,1500,"・このキャラクターは、『トキ』、『アミバ』と同名キャラクターとしても扱う。
+・このキャラクターが攻撃するとき、
+   相手の『身代わり』を行うことができるキャラクターを1体選んでもよい。
+   選ばれたキャラクターは必ず『身代わり』を行う。","・ This character is considered to have both the name ""Toki"" and ""Amiba"".
+・ When this character attacks, you may choose one opponent's character that is able to [Intercept] it and force it to [Intercept].","・ Questo personaggio è considerato avere sia il nome ""Toki"" che ""Amiba"".
+・ Quando questo personaggio attacca, puoi scegliere un personaggio dell'avversario in grado di [Intercettarlo] e costringerlo a [Intercettare].""","ケンシロウ暴力はいいぞ！！
+―トキ？―","Kenshiro, violence is good!!
+ー Toki?","Kenshiro, violence is good!!","Violence is good, Kenshiro!!","Kenshiro, la violenza è una cosa bella!!
+ー Toki?",48,48
+,,,Gonzu,Gonzu,ゴンズ,64,Character,無,None,,邪,,⏺,邪,★★,1000,"・このキャラクターをバトルフィールドに出したとき、
+   自分の山札を上から1枚ずつ『キャラクターカード』が出るまで表にしていく。
+   表にしたカードをすべて自分の手札に加える。","・ When this character enters the battlefield, reveal cards from the top of your deck until you reveal a [Character] card, then add all revealed cards to your hand.","・ Quando questo personaggio entra nel campo di battaglia, rivela carte dalla cima del tuo mazzo finché non riveli una carta [Character], quindi aggiungi tutte le carte rivelate alla tua mano.","ゴンズ様新記録~
+一部下A一","You broke the record, Master Gonzu.
+ー Gonzu's Subordinate","You broke the record, Master Gonzu!!",Master Gonzu! It's a new record!,"Hai battuto il record, Maestro Gonzu.
+ー Subordinato di Gonzu",105,105
+🗑,,,Hokuto Hyakuretsu Ken,Hokuto Hyakuretsu Ken,北斗百裂拳,65,Skill,,,,義,,,義,★,"《Req》(St.) Hokuto Shinken
+《FX》Double","・流派『北斗神拳』を持つキャラクターに装備可能。
+・『2連続アタック』を得る。(『2連続アタック』を得たキャラクターは、
+   同じキャラクターに2回攻撃する)
+・装備しているキャラクターが攻撃終了後にこのカードを捨札にする。","・ 北斗神拳: Can only be equipped to characters in the ""Hokuto Shinken"" group.
+・ ⚔️ Double Attack: Equipped character can attack the same character twice.
+・ 🗑: Discard this card after the equipped character finishes attacking.","・ 北斗神拳: Può essere equipaggiato solo su personaggi del gruppo ""Hokuto Shinken"".
+・ ⚔️ Doppio Attacco: il personaggio equipaggiato può attaccare lo stesso personaggio due volte.
+・ 🗑: Scarta questa carta dopo che il personaggio equipaggiato ha finito di attaccare.","あたたたた一つ！
+ ーケンシロウー","Atatatatah!!!
+ー Kenshiro",Atatatatah!!!!!,Atatatataa!!!!,"Atatatataaaa!!!
+ー Kenshiro",1,1
+,,,Ganzan Ryozanha,Ganzan Ryozanha,岩山両斬波,66,Skill,,,,義,,,⏺,,"《Req》(St.) Hokuto Shinken
+《FX》Att. +400","・流派『北斗神拳』を持つキャラクターに装備可能。
+・攻撃中、パワーが+400される。","・ 北斗神拳: Can only be equipped to characters in the ""Hokuto Shinken"" group.
+・ UP: Equipped character has +400 Power during attacks.","・ 北斗神拳: Può essere equipaggiato solo su personaggi del gruppo ""Hokuto Shinken"".
+・ UP: Il personaggio equipaggiato ha +400 Power durante gli attacchi.","ゼロだ！！
+ーケンシロウー","Zero!!
+ー Kenshiro",Zero!!,Zero!,"Zero!!
+ー Kenshiro",37,37
+,,,Hokuto Juha Zan,Hokuto Juha Zan,北斗柔破斬,67,Skill,,,,義,,⏺,義,★,《Req》(St.) Hokuto Shinken,"・流派『北斗神拳』を持つキャラクターに装備可能。
+・攻撃時にバトルする相手の『スキルカード』を無効にする。","・ 北斗神拳: Can only be equipped to characters in the ""Hokuto Shinken"" group.
+・ When the equipped character attacks, disable the [Skill] cards equipped by the opponent.","・ 北斗神拳: Può essere equipaggiato solo su personaggi del gruppo ""Hokuto Shinken"".
+・ Quando il personaggio equipaggiato attacca, disattiva le carte [Skill] equipaggiate dall'avversario.","おまえはただの脂肪のかたまりにすぎん！死ね！！
+―ケンシロウ―","You are nothing more than a lump of fat! Now die!!
+ー Kenshiro",You are nothing more than a lump of fat! Now die!!,You are nothing but a bucket of lard! DIE!!,"... tu non sei altro che un agglomerato di grasso! Muori!!
+ー Kenshiro",7,7
+🗑,,,Nanto Suichoken,Nanto Suichoken,南斗水鳥拳,68,Skill,,,,義,,,義,,"《Req》(St.) Nanto Seiken
+《FX》Wide","・流派『南斗聖拳』を持つキャラクターに装備可能。
+・『Wアタック』を得る。(『Wアタック』を得たキャラクターは、
+   キャラクターを攻撃するときに2体のキャラクターを選び、それぞれに攻撃する)
+・装備しているキャラクターが攻撃終了時にこのカードを捨札にする。","・ 南斗聖拳: Can only be equipped to characters in the ""Nanto Seiken"" group.
+・ ➰ Wide Attack: During an attack the equipped character can select two characters and perform an attack against each
+・ 🗑: Discard this card after the equipped character finishes attacking.","・ 南斗聖拳: Può essere equipaggiato solo su personaggi del gruppo ""Nanto Seiken"".
+・ ➰ Attacco Ampio: Durante un attacco, il personaggio equipaggiato può selezionare due personaggi ed eseguire un attacco contro ciascuno.
+・ 🗑: Scarta questa carta dopo che il personaggio equipaggiato ha terminato l'attacco.",,,,,,26+,26
+🗑,,,"Nanto Ultimate Secret Technique
+Hissho Hakurei","Nanto Ultimate Secret Technique
+Hissho Hakurei",南斗究極奥義 飛翔白麗,69,Skill,,,,義,,⏺,義,★★,"《Req》(St.) Nanto Seiken
+《FX》Att. +600","・流派『南斗聖拳』を持つキャラクターに装備可能。
+・攻撃中、パワーが+600される。
+・装備しているキャラクターが攻撃終了後にこのカードを捨札にする。","・ 南斗聖拳: Can only be equipped to characters in the ""Nanto Seiken"" group.
+・ UP: Equipped character has +600 Power during attacks.
+・ 🗑: Discard this card after the equipped character finishes attacking.","・ 南斗聖拳: Può essere equipaggiato solo su personaggi del gruppo ""Nanto Seiken"".
+・ UP: Il personaggio equipaggiato ha +600 Power durante gli attacchi.
+・ 🗑: Scarta questa carta dopo che il personaggio equipaggiato ha terminato l'attacco.",,,,,,81,81
+🗑,,,Hokuto Ujō Hagan Ken,Hokuto Ujō Hagan Ken,北斗有情破顔拳,70,Skill,,,,愛,,,愛,★★,"《Req》(St.) Hokuto Shinken
+《FX》+200","・流派『北斗神拳』を持つキャラクターに装備可能。
+・随時パワーが+200される。","・ 北斗神拳: Can only be equipped to characters in the ""Hokuto Shinken"" group.
+・ UP: Equipped character has +200 Power.","・ 北斗神拳: Può essere equipaggiato solo su personaggi del gruppo ""Hokuto Shinken"".
+・ UP: Il personaggio equipaggiato ha +200 Power.","あは〜いい気持ちだ〜〜
+一拳王親衛隊一","Aah!! I feel SO GOOD!!
+ー Ken-Oh's Guard",Aah!! I feel SO GOOD!!,Ahhh... I feel so gooood...,"Aah!! Mi sento COSÌ BENE!!
+ー Guardia di Ken-Oh",60,60
+,,,Nanto Hakuro Ken,Nanto Hakuro Ken,南斗白鷺拳,71,Skill,,,,愛,,,愛,★,"《Req》(St.) Nanto Seiken
+《FX》+200","・流派『南斗聖拳』を持つキャラクターに装備可能。
+・随時パワーが+200される。","・ 南斗聖拳: Can only be equipped to characters in the ""Nanto Seiken"" group.
+・ UP: Equipped character has +200 Power.","・ 南斗聖拳: Può essere equipaggiato solo su personaggi del gruppo ""Nanto Seiken"".
+・ UP: Il personaggio equipaggiato ha +200 di Power.""",,,,,,84,84
+,,,Bladed Yo-Yos,Bladed Yo-Yos,手裏剣ヨーヨー,72,Skill,,,,愛,,,⏺,,《FX》Att. +200,・攻撃中、パワーが+200される。,・ UP: Equipped character has +200 Power during attacks.,・ UP: Il personaggio equipaggiato ha +200 di Power durante gli attacchi.,"今までほとんどの男が
+これで額を割られているわ
+―マミヤ―","So far, most guys have been
 hit right in the forehead by that.
-ー Mamiya",,,
-73,Taizan Tenrō Ken,Skill,,流,,,流,★,"《Req》(St.) Taizan Ryu
-《FX》Att. +400","・ Can only be equipped to characters with the ""Taizan Ryu"" style.
-・ Equipped character has +400 Power during attacks.",,,,
-74,Dynamite,Skill,,流,,,⏺,,"《Req》(PWR) <= 800
-《FX》Att. +600","・ Can only be equipped to characters with Power <= 800.
-・ Equipped character has +600 Power during attacks.
-・ After the equipped character finishes attacking, discard it and this card.","It's alright. I have this.
-ー Shiba",🗑,,
-75,Rice seeds,Skill,,流,,,⏺,★★,《Req》(St.) Ordinary Person,"・ Can only be equipped to characters with the ""Ordinary Person"" style.
-・ When the opponent attacks, they must attack the equipped character if possible.","Oh yeah? I wanna eat them even more now!
-ー Spade",,,
-76,Musō Insatsu,Skill,,覇,,,⏺,,"《Req》(St.) Hokuto Shinken
-《FX》Att. +400","・ Can only be equipped to characters with the ""Hokuto Shinken"" style.
-・ Equipped character has +400 Power during attacks.",,,,
-77,Secret Technique Tenshō Honretsu,Skill,,覇,,⏺,覇,★★,"《Req》(St.) Hokuto Shinken
-《FX》Att.+400 | Double","・ Can only be equipped to characters with the ""Hokuto Shinken"" style.
-・ Equipped character has +400 Power during attacks.
-・ Equipped character gains ""Double Attack"". (Can attack the same character twice)
-・ Discard this card after the equipped character finishes attacking.","I will crush you and your Musō Tensei into oblivion!
-ー Raoh",🗑,,
-78,"Nanto Hōō Ken Secret Technique
-Tenshō Jūji Hō",Skill,,覇,,⏺,覇,★,"《Req》(St.) Nanto Seiken
-《FX》Att. +200 | Wide","・ Can only be equipped to characters with the ""Nanto Seiken"" style.
-・ Equipped character has +200 Power during attacks.
-・ Equipped character gains ""Wide Attack"". (During an attack can select two characters and perform an attack against each).
-・ Discard this card after the equipped character finishes attacking.","For all my enemies are beneath me!!
-ー Souther",🗑,,
-79,Amiba Style Hokuto Shinken,Skill,,邪,,,⏺,★★,《FX》Att. +200,・ Equipped character has +200 Power during attacks.,"Flatter me! Suck up to me!! I'm a genius!!
-ー Amiba",,,
-80,Mōko Hakyoku Dō,Skill,,邪,,,邪,,"《Req》(Attr.) 邪
-《FX》Att. +400","・ Can only be equipped to characters with the ""邪"" (red) attribute.
-・ Equipped character has +400 Power during attacks.
-・ Discard this card after the equipped character finishes attacking.",,🗑,,
-81,You don't deserve to live beyond today!!!,Event,,義,,,⏺,,,"・ Choose one of your characters, it has +400 Power while attacking this turn.",,,,
-82,"Anyone else wishing to die, step forward!!",Event,,義,,⏺,義,★★,,"・ On your opponent's next turn, all their characters with Power <= 1000 will attack if able.",,,,
-83,I can see through your every move!,Event,,義,,,⏺,★,,"・ Choose one of your characters. This turn, when it attacks, if another character [Intercepts] the attack, deal damage to the original target.",,,,
-84,I don't want to fight you ...,Event,,義,,,義,,(OK) COUNTER,"・ Counter (you may play this card during the [Intercept] step)
-・ An opponent's character of your choice can't attack until your next turn.",,,,
-85,Listen up people! Prepare for battle!!,Event,,愛,,,愛,,,・ Choose one of your characters. This turn it will ignore effects that prevent it from attacking the deck as long as you control a [General].,,,,
-86,"I've no desire to live as a hostage,
-so just kill me!!",Event,,愛,,,愛,★,(OK) COUNTER,"・ Counter (you may play this card during the [Intercept] step)
-・ Discard one of your characters on the battlefield in order set one of the opponent's character with the same or lesser power to [Resting].",,,,
-87,"Shinreidai channeling point,
-it can extend a person's lifespan by a short time!",Event,,愛,,⏺,愛,★★,,・ Put a [Character] Card from your discard pile on the battlefield. Discard that character at the end of the turn.,,,,
-88,"Become a demon once more
-to protect these innocent lives!!",Event,,愛,,⏺,愛,,,・ Make one of your characters [Ready] at the end of your turn.,,,,
-89,"It's all for the sake of tomorrow, not today ...",Event,,流,,,⏺,★★,,"・ Return two cards of your choice from the discard pile to your deck, then shuffle the deck.",,,,
-90,See? Just when we were talking about food!,Event,,流,,,流,★,,"・ Reveal the top three cards of your deck. Add all the [Character] cards revealed to your hand, and discard the rest.",,,,
-91,"We've finally managed
-to become self-sufficient here...",Event,,流,,,⏺,,,・ Draw two cards from your deck.,,,,
-92,The cries of the demons have been silenced!!,Event,,流,,⏺,流,,(OK) COUNTER,"・ Counter (you may play this card during the [Intercept] step)
-・ Remove all players' [General] Markers. (Characters who have already targeted the deck for attack will end their attack without attacking the deck.)",,,,
-93,The star you see is the death omen star!,Event,,覇,,⏺,覇,,,・ An opponent's character of your choice that is not the [General] becomes [Resting].,,,,
-94,"You and your petty army
-are no more than trash!!",Event,,覇,,覇,覇,★★,,・ Discard all opponent's characters with Power <= 800 .,,,,
-95,You're no match for me!,Event,,覇,,,覇,★,(OK) COUNTER,"・ Counter (you may play this card during the [Intercept] step)
-・ Return an opponent's characters with Power <= 1000 to their hand.",,,,
-96,I have no regrets of the life I've led!!,Event,,覇,,⏺,覇,,,"・ Choose one of your characters, it has +800 Power this turn.
-・ Discard the chosen character at the end of the turn.",,,,
-97,All filth will be sterilized!!,Event,,邪,,,邪,,(OK) COUNTER,"・ Counter (you may play this card during the [Intercept] step)
-・ An opponent's character of your choice with the ""Ordinary Person"" style becomes [Resting].",,,,
-98,I got it! Dahaha!,Event,,邪,,⏺,邪,★★,(OK) COUNTER,"・ Counter (you may play this card during the [Intercept] step)
-・ Return [Skill] cards equipped to an opponent's character to the opponent's hand.",,,,
-99,You've walked straight into my trap!,Event,,邪,,邪,邪,★,,・ Look at the opponent's hand. Choose and discard one of their cards.,,,,
+ー Mamiya","So far, most guys have been
+hit right in the forehead by that.","Most of the others
+let their heads get cracked open.","Finora, la maggior parte dei ragazzi è stata
+colpita in fronte da quello.
+ー Mamiya",27,27
+,,,Taizan Tenrō Ken,Taizan Tenrō Ken,泰山天狼拳,73,Skill,,,,流,,,流,★,"《Req》(St.) Taizan Ryu
+《FX》Att. +400","・流派『泰山流』を持つキャラクターに装備可能。
+・攻撃中、パワーが+400される。","・ 泰山流: Can only be equipped to characters in the ""Taizan Ryu"" group.
+・ UP: Equipped character has +400 Power during attacks.","・ 泰山流: Può essere equipaggiato solo su personaggi del gruppo ""Taizan Ryu"".
+・ UP: Il personaggio equipaggiato ha +400 di Power durante gli attacchi.""",,,,,,105,105
+🗑,,,Dynamite,Dynamite,ダイナマイト,74,Skill,,,,流,,,⏺,,"《Req》(PWR) <= 800
+《FX》Att. +600","・パワー800以下のキャラクターに装備可能。
+・攻撃中、パワーが+600される。
+・装備しているキャラクターが攻撃終了後に、
+   このカードと装備していたキャラクターを捨札にする。","・ PWR <=800: Can only be equipped to characters with Power <= 800.
+・ UP: Equipped character has +600 Power during attacks.
+・ 🗑: After the equipped character finishes attacking, discard it and this card.","・ PWR <=800: Può essere equipaggiato solo su personaggi con Power <= 800.
+・ UP: Il personaggio equipaggiato ha +600 di Power durante gli attacchi.
+・ 🗑: Dopo che il personaggio equipaggiato ha terminato di attaccare, scartalo insieme a questa carta.","わたしにはこれがあります
+ーンバー","It's alright. I have this.
+ー Shiba",It's alright. I have this.,I have this.,"Va bene. Ce l'ho io.
+ー Shiba",88,88
+,,,Rice seeds,Semi di riso,種モミ,75,Skill,,,,流,,,⏺,★★,《Req》(St.) Ordinary Person,"・流派『一般人』を持つキャラクターに装備可能。
+・相手が攻撃するとき、相手は可能な限りこのキャラクターを攻撃対象にする。","・ 一般人: Can only be equipped to characters in the ""Commoner"" group.
+・ When the opponent attacks, they must attack the equipped character if possible.","・ 一般人: Può essere equipaggiato solo su personaggi del gruppo ""Civile"".
+・ Quando l'avversario attacca, deve attaccare il personaggio equipaggiato, se possibile.","なおさらその種モミを食いたくなったぜ
+ースペードー","Oh yeah? I wanna eat them even more now!
+ー Spade",Oh yeah? I wanna eat them even more now!,Makes me want to eat 'em even more.,"Se sono così preziosi, mi è venuta ancora più voglia di mangiarli!
+ー Spade",2,2
+,,,Musō Insatsu,Musō Insatsu,無想陰殺,76,Skill,,,,覇,,,⏺,,"《Req》(St.) Hokuto Shinken
+《FX》Att. +400","・流派『北斗神拳』を持つキャラクターに装備可能。
+・攻撃されたとき、バトル中のみ、パワーが+400される。","・ 北斗神拳: Can only be equipped to characters in the ""Hokuto Shinken"" group.
+・ UP: Equipped character has +400 Power during attacks.","・ 北斗神拳: Può essere equipaggiato solo su personaggi del gruppo ""Hokuto Shinken"".
+・ UP: Il personaggio equipaggiato ha +400 di Power durante gli attacchi.""",,,,,,102,102
+🗑,,,Secret Technique Tenshō Honretsu,Secret Technique Tenshō Honretsu,奥義 天将奔烈,77,Skill,,,,覇,,⏺,覇,★★,"《Req》(St.) Hokuto Shinken
+《FX》Att.+400 | Double","・流派『北斗神拳』 を持つキャラクターに装備可能。
+・攻撃中、パワーが+400される。
+・『2連続アタック』を得る。
+   (『2連続アタック』を得たキャラクターは、同じキャラクターに2回攻撃する)
+・装備しているキャラクターが攻撃終了後にこのカードを捨札にする。","・ 北斗神拳: Can only be equipped to characters in the ""Hokuto Shinken"" group.
+・ UP: Equipped character has +400 Power during attacks.
+・ ⚔️ Double Attack: Equipped character can attack the same character twice.
+・ 🗑: Discard this card after the equipped character finishes attacking.","・ 北斗神拳: Può essere equipaggiato solo su personaggi del gruppo ""Hokuto Shinken"".
+・ UP: Il personaggio equipaggiato ha +400 di Power durante gli attacchi.
+・ ⚔️ Doppio Attacco: il personaggio equipaggiato può attaccare lo stesso personaggio due volte.
+・ 🗑: Scarta questa carta dopo che il personaggio equipaggiato ha terminato l'attacco.","無想転生など微に砕いてやるわ
+ーラオウー","I will crush you and your Musō Tensei into oblivion!
+ー Raoh",I will crush you and your Musō Tensei into oblivion!,I shall crush Musō Tensei to Dust!,"Ti schiaccerò e il tuo Musō Tensei fino all'oblio!
+ー Raoh",125,125
+🗑,,,"Nanto Hōō Ken Secret Technique
+Tenshō Jūji Hō","Nanto Hōō Ken Secret Technique
+Tenshō Jūji Hō",南斗鳳凰拳奥義 天翔十字鳳,78,Skill,,,,覇,,⏺,覇,★,"《Req》(St.) Nanto Seiken
+《FX》Att. +200 | Wide","・流派『南斗聖拳』を持つキャラクターに装備可能。
+・攻撃中、パワーが+200される。
+・『Wアタック』を得る。(『Wアタック』を得たキャラクターは、
+   キャラクターを攻撃するときに2体のキャラクターを選び、それぞれに攻撃する)
+・装備しているキャラクターが攻撃終了後にこのカードを捨札にする。","・ 南斗聖拳: Can only be equipped to characters in the ""Nanto Seiken"" group.
+・ UP: Equipped character has +200 Power during attacks.
+・ ➰Wide Attack: During an attack the equipped character can select two characters and perform an attack against each
+・ 🗑: Discard this card after the equipped character finishes attacking.","・ 南斗聖拳: Può essere equipaggiato solo su personaggi del gruppo ""Nanto Seiken"".
+・ UP: Il personaggio equipaggiato ha +200 di Power durante gli attacchi.
+・ ➰ Attacco Ampio: Durante un attacco, il personaggio equipaggiato può selezionare due personaggi ed eseguire un attacco contro ciascuno.
+・ 🗑: Scarta questa carta dopo che il personaggio equipaggiato ha terminato l'attacco.","敵はすべて下部！！
+ーサウザーー","For all my enemies are beneath me!!
+ー Souther",For all my enemies are beneath me!!,None can stand against it!,"Perché tutti i miei nemici sono inferiori a me!!
+ー Souther",96,96
+,,,Amiba Style Hokuto Shinken,Amiba Style Hokuto Shinken,アミバ流北斗神拳,79,Skill,,,,邪,,,⏺,★★,《FX》Att. +200,・攻撃中、パワーが+200される。,・ UP: Equipped character has +200 Power during attacks.,・ UP: Il personaggio equipaggiato ha +200 di Power durante gli attacchi.,"媚びろ～！！ 媚びろ～！！ おれは天才だ！！
+ーアミバー","Flatter me! Suck up to me!! I'm a genius!!
+ー Amiba",Flatter me! Suck up to me!! I'm a genius!!,Praise me! Praise me! Say that I'm a genius!,"Lusingami! Leccami il culo!! Sono un genio!!
+ー Amiba",50,50
+🗑,,,Mōko Hakyoku Dō,Mōko Hakyoku Dō,蒙古覇極道,80,Skill,,,,邪,,,邪,,"《Req》(Attr.) 邪
+《FX》Att. +400","・属性 『邪』を持つキャラクターに装備可能。
+・攻撃中、パワーが+400される。
+・装備しているキャラクターが攻撃終了後にこのカードを捨札にする。","・ 邪: Can only be equipped to characters with the ""邪"" (red) attribute.
+・ UP: Equipped character has +400 Power during attacks.
+・ 🗑: Discard this card after the equipped character finishes attacking.","・ 邪: Può essere equipaggiato solo su personaggi con l'attributo ""邪"" (rosso).
+・ UP: Il personaggio equipaggiato ha +400 di Power durante gli attacchi.
+・ 🗑: Scarta questa carta dopo che il personaggio equipaggiato ha terminato l'attacco.",,,,,,56+,56
+,,,You don't deserve to live beyond today!!!,Non meritate di vedere l'alba di domani!,"てめえらに
+今日を生きる資格はねぇ!!",81,Event,,,,義,,,⏺,,,"・自分のキャラクター1体を選ぶ。
+   選んだキャラクターはこのターンのみ、攻撃中、パワーが+400される。","・ UP: Choose one of your characters, it has +400 Power while attacking this turn.","・ UP: Scegli uno dei tuoi personaggi, ha +400 Power mentre attacca in questo turno.",,,You don't deserve to live beyond today!!!,You don't deserve to live beyond today!,,2+,2
+,,,"Anyone else wishing to die, step forward!!","Anyone else wishing to die, step forward!!",次に死にたいヤツ前に出ろ！！,82,Event,,,,義,,⏺,義,★★,,"・次の相手のターン、相手のパワー1000以下のキャラクターは
+   可能な限り攻撃する。","・ On your opponent's next turn, all their characters with Power <= 1000 will attack if able.","・ Nel prossimo turno del tuo avversario, tutti i suoi personaggi con Power <= 1000 attaccheranno se possibile.",,,"Anyone else wishing to die, step forward!!","Whoever wants to die next, step forward!!",,27+,27
+,,,I can see through your every move!,Sono in grado di prevedere ogni tua singola mossa!,きさまの攻撃、すでに見切った！,83,Event,,,,義,,,⏺,★,,"・自分のキャラクター1体を選ぶ。
+   このターンのみ、選んだキャラクターがキャラクターを攻撃するとき、
+   相手が『身代わり』を行っても、攻撃対象のキャラクターとバトルする。","・ 🗲: Choose one of your characters. This turn, when it attacks another character, even if [Intercept]ed, fight the original target.","・ 🗲: Scegli uno dei tuoi personaggi. In questo turno, quando attacca un altro personaggio, anche se [Intercetta], combatti contro il bersaglio originale.",,,"Shin, I can see through your every move. It's over. You lose!","Shin, I see your every move! You cannot beat me!",,9+,9
+,,,I don't want to fight you ...,I don't want to fight you ...,"おまえとは
+闘いたくないだけだ･･･",84,Event,,,,義,,,義,,,"・カウンター(『身代わり』を行わずにコストを支払って、
+   この『イベントカード』を使用してもよい)
+・相手のキャラクター1体を選ぶ。
+   次の自分のターンまで、そのキャラクターは攻撃することができない。","・ Counter (you may play this card during the [Intercept] step)
+・ An opponent's character of your choice can't attack until your next turn.","・ Counter (puoi giocare questa carta durante la fase [Intercettazione])
+・ Un personaggio avversario a tua scelta non può attaccare fino al tuo prossimo turno.",,,I don't want to fight you ...,I don't want to fight you ...,,35,35
+,,,Listen up people! Prepare for battle!!,Listen up people! Prepare for battle!!,さあみんな戦いの準備よ！！,85,Event,,,,愛,,,愛,,,"・自分のキャラクター1体を選ぶ。
+   そのキャラクターはこのターン中のみ、
+   山札に攻撃ができない効果は打ち消され、山札に攻撃できるようになる。
+   ただし、このカードを使用しても
+   自分の【大将】となるキャラクターがいない場合は、
+   山札を攻撃することはできない。",・ Choose one of your characters. This turn it will ignore effects that prevent it from attacking the deck as long as you control a [General].,・ Scegli uno dei tuoi personaggi. In questo turno ignorerà gli effetti che gli impediscono di attaccare il mazzo finché controlli un [Generale].,,,Listen up people! Prepare for battle!!,C'mon people! Prepare to battle!!,,30,30
+,,,"I've no desire to live as a hostage,
+so just kill me!!","I've no desire to live as a hostage,
+so just kill me!!","このまま人質となって
+生きのびようとは思わない！！",86,Event,,,,愛,,,愛,★,,"・カウンター(『身代わり』を行わずにコストを支払って、
+   この『イベントカード』を使用してもよい)
+・バトルフィールドにいる自分のキャラクター1体を選んで捨札にする。
+   そうした場合、そのキャラクターとパワーが同じか
+   それ以下の相手のキャラクターを1体選んで『行動完了』状態にする。","・ Counter (you may play this card during the [Intercept] step)
+・ Discard one of your characters on the battlefield, choose an opponent's character with the same or lesser power, and set it to [Spent].","・ Counter (puoi giocare questa carta durante la fase [Intercettazione])
+・ Scarta uno dei tuoi personaggi sul campo di battaglia, scegli un personaggio dell'avversario con Power uguale or inferiore e rendilo [Esausto].",,,"I've no desire to live as a hostage, so just kill me!!",I will not remain a hostage just so I can live!,,35,35
+,,,"Shinreidai channeling point,
+it can extend a person's lifespan by a short time!","Shinreidai channeling point,
+it can extend a person's lifespan by a short time!","少しだけ命をのばすことができる
+秘孔心霊台！！",87,Event,,,,愛,,⏺,愛,★★,,"・自分の捨札から『キャラクターカード』を1枚選びバトルフィールドに出す。
+   そのキャラクターはターン終了時に捨札にする。",・ Put a [Character] Card from your discard pile on the battlefield. Discard that character at the end of the turn.,・ Metti una carta [Character] dai tuoi scarti sul campo di battaglia. Scarta quel personaggio alla fine del turno.,,,Can extend a person's lifespan by a short time + Shinreidai!!! + channeling point,Can prolong your life + Shineidai!! The pedestal of the heart! + channeling point,,78+79,78
+,,,"Become a demon once more
+to protect these innocent lives!!","Become a demon once more
+to protect these innocent lives!!","汚れなき命のために
+鬼神となって戦おう！！",88,Event,,,,愛,,⏺,愛,,,"・自分のキャラクター1体を選ぶ。
+   自分のターン終了時にそのキャラクターを『回復』する。",・ Make one of your characters [Ready] at the end of your turn.,・ Rendi [Pronto] uno dei tuoi personaggi alla fine del tuo turno.,,,"I, Fudo, will become a demon once more to protect these innocent lives!!",I must fight as the devil once again to protect the innocent!,,127,127
+,,,"It's all for the sake of tomorrow, not today ...",Il domani è più importante del presente,今日より明日なんじゃ,89,Event,,,,流,,,⏺,★★,,"・自分の捨札からカードを2枚選んで自分の山札に加え、
+   その後、山札をシャッフルする。","・ Return two cards of your choice from the discard pile to your deck, then shuffle the deck.","・ Rimetti due carte a tua scelta tra i tuoi scarti nel tuo mazzo, poi mescola il mazzo.",,,"It's all for the sake of tomorrow, not today ...",Those seeds aren't for today. They're for tomorrow.,,2+,2
+,,,See? Just when we were talking about food!,Visto? Ci è capitata subito un'occasione per riempirci la pancia.,"ほ～～ら さっそく飯のたねが
+ころがってきた",90,Event,,,,流,,,流,★,,"・自分の山札を上から3枚を表にする。
+   その中から『キャラクターカード』だけを自分の手札に加え、
+   残りは捨札にする。","・ Reveal the top three cards of your deck. Add all the [Character] cards revealed to your hand, and discard the rest.",・ Rivela le prime tre carte del tuo mazzo. Aggiungi tutte le carte [Character] rivelate alla tua mano e scarta le restanti.,,,See? Just when we were talking about food!,This looks like our meal ticket!,,11,11
+,,,"We've finally managed
+to become self-sufficient here...","We've finally managed
+to become self-sufficient here...",ようやく自給自足ができるようになりましての-,91,Event,,,,流,,,⏺,,,・自分の山札からカードを2枚引く。,・ Draw two cards from your deck.,・ Pesca due carte dal tuo mazzo.,,,We've finally managed to become self-sufficient here...,We've finally become self-sufficient...,,26,26
+,,,The cries of the demons have been silenced!!,The cries of the demons have been silenced!!,鬼たちの哭き声が止んだ！！,92,Event,,,,流,,⏺,流,,,"・カウンター(『身代わり』を行わずにコストを支払って、
+   この『イベントカード』を使用してもよい)
+・すべてのプレイヤーの『大将マーカー』を取り除く。
+   (すでに山札を攻撃対象にしていたキャラクターは、
+   山札を攻撃せずに攻撃終了になる)","・ Counter (you may play this card during the [Intercept] step)
+・ Remove all players' [General] Markers. (Characters who have already targeted the deck for attack will end their attack without attacking the deck.)","・ Counter (puoi giocare questa carta durante la fase [Intercettazione])
+・ Rimuovi i segnalini [Generale] di tutti i giocatori. (I personaggi che hanno già bersagliato il mazzo per un attacco termineranno il loro attacco senza attaccare il mazzo.)",,,The cries of the demons have been silenced!!,The demons wail no longer!,,57,57
+,,,The star you see is the death omen star!,The star you see is the death omen star!,きさまがみた星は死兆星！,93,Event,,,,覇,,⏺,覇,,,・相手の【大将】ではないキャラクター1体を『行動完了』状態にする。,・ An opponent's character of your choice that is not the [General] becomes [Spent].,・ Rendi [Esausto] un personaggio dell'avversario a tua scelta che non sia il suo [Generale].,,,The star you see is the death omen star!,The star you saw was Shichosei!,,65,65
+,,,"You and your petty army
+are no more than trash!!","You and your petty army
+are no more than trash!!","きさまらのようなちっぽけな
+集団などゴミ同然！！",94,Event,,,,覇,,覇,覇,★★,,"・バトルフィールドにいる相手のパワー800以下のキャラクターを
+   すべて捨札にする。",・ Discard all opponent's characters with Power <= 800 .,・ Scarta tutti i personaggi dell'avversario con Power <= 800.,,,You and your petty army are no more than trash!! You'd best step aside!!,You and your petty litte army are nothing but trash! Get out of my way!,,112,112
+,,,You're no match for me!,You're no match for me!,フッ、きさまの腕では無理だ,95,Event,,,,覇,,,覇,★,,"・カウンター(『身代わり』を行わずにコストを支払って、
+   この『イベントカード』 を使用してもよい)
+・相手のパワー1000以下のキャラクター1体を選び、相手の手札に戻す。","・ Counter (you may play this card during the [Intercept] step)
+・ Return an opponent's characters with Power <= 1000 to their hand.","・ Counter (puoi giocare questa carta durante la fase [Intercettazione])
+・ Rimetti in mano i personaggi dell'avversario con Power <= 1000.",,,"Heh, you're no match for me!!","Heh, you're not ready yet.",,67,67
+,,,I have no regrets of the life I've led!!,I have no regrets of the life I've led!!,わが生涯に一片の悔いなし！！,96,Event,,,,覇,,⏺,覇,,,"・自分のキャラクター1体を選ぶ。
+   そのキャラクターはこのターンのみパワーが+800される。
+・ターン終了時に選んだキャラクターを捨札にする。","・ UP: Choose one of your characters, it has +800 Power this turn.
+・ Discard the chosen character at the end of the turn.","・ UP: Scegli uno dei tuoi personaggi, ha +800 Power in questo turno.
+・ Scarta il personaggio scelto alla fine del turno.",,,I have no regrets of the life I've led!!,I have no regrets for the life I've led!!,,136,136
+,,,All filth will be sterilized!!,All filth will be sterilized!!,汚物は消毒だ〜〜！,97,Event,,,,邪,,,邪,,,"・カウンター(『身代わり』を行わずにコストを支払って、
+   この『イベントカード』を使用してもよい)
+・相手の流派『一般人』を持つキャラクター1体を『行動完了』状態にする。","・ Counter (you may play this card during the [Intercept] step)
+・ An opponent's character of your choice in the ""Commoner"" group becomes [Spent].","・ Counter (puoi giocare questa carta durante la fase [Intercettazione])
+・ Un personaggio dell'avversario a tua scelta nel gruppo ""Civile"" diventa [Esausto].",,,All filth will be sterilized!!,All you filth will be sterilized!,,86,86
+,,,I got it! Dahaha!,I got it! Dahaha!,とったあ！ だはは！,98,Event,,,,邪,,⏺,邪,★★,,"・カウンター(『身代わり』を行わずにコストを支払って、
+   この『イベントカード』を使用してもよい)
+・相手のキャラクター1体を選ぶ。
+   そのキャラクターが装備している 『スキルカード』を相手の手札に戻す。","・ Counter (you may play this card during the [Intercept] step)
+・ Return [Skill] cards equipped to an opponent's character to the opponent's hand.","・ Counter (puoi giocare questa carta durante la fase [Intercettazione])
+・ Rimetti le carte [Skill] equipaggiate a un personaggio dell'avversario nella sua mano.",,,I got it! Dahaha!,I got it! Dah hah!,,59,59
+,,,You've walked straight into my trap!,You've walked straight into my trap!,まんまとワナにはまりましたな,99,Event,,,,邪,,邪,邪,★,,・相手の手札を見る。その中から1枚を選び、捨札にする,・ Look at the opponent's hand. Choose and discard one of their cards.,・ Guarda la mano dell'avversario. Scegli e scarta una delle sue carte.,,,You've walked straight into my trap!,You fell right into the trap.,,77,77
