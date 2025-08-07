@@ -15,7 +15,7 @@ const renderTypeCost = ({ type, group, attribute, cost }) => {
   const costMarkup = cost
     .map((c) =>
       c === "⏺"
-        ? "<color=#D6D0B5><b>Ｏ</b></color>"
+        ? "<color=#D6D0B5>Ｏ</color>"
         : `<color=${colorMap[c]}>${c}</color>`,
     )
     .join("");
@@ -31,7 +31,7 @@ const renderTypeCost = ({ type, group, attribute, cost }) => {
     Skill: 60,
   };
 
-  return `${labelMarkup}${" ".repeat(typePadding[type + (group || "")] + costPadding + spaceCorrection)}${costMarkup}`;
+  return `${labelMarkup}${" ".repeat(typePadding[type + (group || "")] + costPadding + spaceCorrection)}<b>${costMarkup}</b>`;
 };
 
 const renderAttributeRow = ({ type, powerOrSummary, attribute }) => {
@@ -53,9 +53,10 @@ const refineText = (text) =>
     .replace('"愛" (orange)', `<color=${colorMap["愛"]}>愛</color>`)
     .replace('"邪" (red)', `<color=${colorMap["邪"]}>邪</color>`)
     .replace("⚔️", `††`)
+    .replace("➰", `↷`)
     .replace("˟✊", `☮`)
     .replace("˟🎴", `˟▤`)
-    .replace(/^・ (.{1,20}):/gm, `・ <b>$1:</b>`)
+    .replace(/^・ (.{1,20}): /gm, `・ <b>$1: </b>`)
     .replace("🗑", `✘`);
 
 const renderRules = ({ rules }) =>
