@@ -50,7 +50,10 @@ const refineText = (text) =>
   text
     .replace('"義" (blue)', `<color=${colorMap["義"]}>義</color>`)
     .replace('"愛" (orange)', `<color=${colorMap["愛"]}>愛</color>`)
-    .replace('"邪" (red)', `<color=${colorMap["邪"]}>邪</color>`);
+    .replace('"邪" (red)', `<color=${colorMap["邪"]}>邪</color>`)
+    .replace('⚔️', `††`)
+    .replace('˟✊', `☮`)
+    .replace('🗑', `✘`);
 
 const renderRules = ({ rules }) =>
   rules && rules !== ""
