@@ -1,6 +1,6 @@
 const fs = require("fs");
 const csv = require("csv-parser");
-const { description } = require("./description");
+const { description, nameFormat } = require("./description");
 
 const results = [];
 
@@ -39,12 +39,12 @@ const deckAttributeCorrespondences = {
 
 // prettier-ignore
 const translateCostSymbol = (symbol) => ({
-  '⏺': 'G', // generic
-  '義': 'R', // righteousness
+  '⏺': 'G', // Generic
+  '義': 'R', // Justice
   '愛': 'L', // love
-  '流': 'S', // style
-  '覇': 'U', // supremacy
-  '邪': 'E'  // evil
+  '流': 'S', // Flow
+  '覇': 'U', // Hegemony
+  '邪': 'E'  // Wickedness
 })[symbol?.trim()] || "";
 
 const getDeckAttributes = (costSymbols) =>
@@ -100,7 +100,7 @@ fs.createReadStream(__dirname + "/ImageCatalog.csv")
           collector: getId(data),
           deckFileTxtId: `${data["Name_EN"]} (${getSetCode()}-${getId(data)})`,
           setCode: getSetCode(),
-          name: data["Name_EN"] || "",
+          name: data["Alt_Name_EN"] || data["Name_EN"] || "",
           // image: getImage(data),
           description: description({
             type: data["Type"],
@@ -109,17 +109,24 @@ fs.createReadStream(__dirname + "/ImageCatalog.csv")
             cost: [data["Cost3"], data["Cost2"], data["Cost1"]].filter(Boolean),
             powerOrSummary: data["Power/Summary"],
             rules: data["Text_EN"],
-            flavor: data["Flavor_EN"],
+            flavor: data["Alt_Flavor_EN"] || data["Flavor_EN"],
           }),
-          italian: description({
-            type: data["Type"],
-            group: data["Group_IT"],
-            attribute: data["Attribute"],
-            cost: [data["Cost3"], data["Cost2"], data["Cost1"]].filter(Boolean),
-            powerOrSummary: data["Power/Summary"],
-            rules: data["Text_IT"],
-            flavor: data["Flavor_IT"],
-          }),
+          italian:
+            nameFormat({
+              name: data["Alt_Name_IT"] || data["Name_IT"],
+              attribute: data["Attribute"],
+            }) +
+            description({
+              type: data["Type"],
+              group: data["Group_IT"],
+              attribute: data["Attribute"],
+              cost: [data["Cost3"], data["Cost2"], data["Cost1"]].filter(
+                Boolean,
+              ),
+              powerOrSummary: data["Power/Summary"],
+              rules: data["Text_IT"],
+              flavor: data["Alt_Flavor_IT"] || data["Flavor_IT"],
+            }),
           attribute: data["Attribute"] || "",
           attributeCostType: getAttributeCostType(data),
           deckAttributes: getDeckAttributes(
@@ -138,40 +145,15 @@ fs.createReadStream(__dirname + "/ImageCatalog.csv")
       .on("end", () => {
         fs.writeFileSync(
           __dirname + "/../dist/AllCards.json",
-          JSON.stringify(
-            [
-              ...results,
-              {
-                id: "HnK1-100",
-                collector: "100",
-                deckFileTxtId: "Test! (HnK1-100)",
-                setCode: "HnK1",
-                name: "You've walked straight into my trap!",
-                description: `<size=100>${testContent()}</size>`,
-                italian: "",
-                attribute: "邪",
-                attributeCostType: ["邪"],
-                deckAttributes: [],
-                cost: "EE",
-                costValue: 2,
-                type: "E",
-                group: "",
-                rules: "",
-                flavor: "",
-                power: null,
-                rarity: "",
-              },
-            ],
-            null,
-            2,
-          ),
+          JSON.stringify(results, null, 2),
         );
         console.log("Conversion complete!");
       });
   });
 
-const testContent = () =>
-  "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz義⏺"
-    .split("")
-    .map((char) => `|${char}|`)
-    .join("\n");
+// const testContent = () =>
+//   "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz"
+//     .split("")
+//     .map((char) => `|${char}|`)
+//     .join("\n")
+//     .concat(`\n|義|\n|Ｏ|\n|<b>義</b>|\n|<b>Ｏ</b>|\n|—|\n| |\n||`);

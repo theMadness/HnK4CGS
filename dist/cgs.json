@@ -16,7 +16,7 @@
   "cardIdStop": "",
   "cardImageFileType": "png",
   "cardNameIdentifier": "name",
-  "cardNameIsUnique": false,
+  "cardNameIsUnique": true,
   "cardPrimaryProperty": "description",
   "cardProperties": [
     {
@@ -38,6 +38,11 @@
       "name": "description",
       "type": "string",
       "display": "Description"
+    },
+    {
+      "name": "italian",
+      "type": "string",
+      "display": "Descrizione in Italiano"
     },
     {
       "name": "type",
@@ -165,21 +170,21 @@
     {
       "property": "attribute",
       "values": {
-        "義": "<color=#92E0FF>義 - Righteousness</color>",
+        "義": "<color=#92E0FF>義 - Justice</color>",
         "愛": "<color=#FFA500>愛 - Love</color>",
-        "流": "<color=#97FF7A>流 - Style</color>",
-        "覇": "<color=#A480FF>覇 - Supremacy</color>",
-        "邪": "<color=#FF6745>邪 - Evil</color>"
+        "流": "<color=#97FF7A>流 - Flow</color>",
+        "覇": "<color=#A480FF>覇 - Hegemony</color>",
+        "邪": "<color=#FF6745>邪 - Wickedness</color>"
       }
     },
     {
       "property": "attributeCostType",
       "values": {
-        "義": "<color=#92E0FF>義 - Righteousness</color>",
+        "義": "<color=#92E0FF>義 - Justice</color>",
         "愛": "<color=#FFA500>愛 - Love</color>",
-        "流": "<color=#97FF7A>流 - Style</color>",
-        "覇": "<color=#A480FF>覇 - Supremacy</color>",
-        "邪": "<color=#FF6745>邪 - Evil</color>"
+        "流": "<color=#97FF7A>流 - Flow</color>",
+        "覇": "<color=#A480FF>覇 - Hegemony</color>",
+        "邪": "<color=#FF6745>邪 - Wickedness</color>"
       }
     },
     {
@@ -245,7 +250,7 @@
         "★★★": "Super Rare - <color=#FFFF00>★★★</color>",
         "★★": "Rare - <color=#FFFF00>★★</color>",
         "★": "Uncommon - <color=#FFFF00>★</color>",
-        " ": "Common -  "
+        " ": "Common"
       }
     }
   ],
@@ -284,6 +289,6 @@
   "setCodeDefault": "HnK1",
   "setCodeIdentifier": "code",
   "setDataIdentifier": "",
-  "setNameDefault": "_CGSDEFAULT_",
+  "setNameDefault": "Core Set",
   "setNameIdentifier": "name"
 }
