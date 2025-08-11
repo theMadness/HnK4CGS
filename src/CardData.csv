@@ -94,7 +94,7 @@ M-mi permetta almeno di fasciargli le ferite!
 ・このキャラクターが『身代わり』を行った場合。 
    バトル中のみ、このキャラクターのパワーは+500される。","・ 将-UP: While this character is the [General], all your characters in the ""Commoner"" group on the battlefield have +100 Power.
 ・ UP: While [Intercept]ing an attack, this character has +500 Power.","・ 大将: Finché questo personaggio è il [Generale], tutti i tuoi personaggi del gruppo ""Civile"" sul battlefield hanno +100 Power.
-・ Mentre [Intercetta] un attacco, questo personaggio ha +500 Power.""","この岩をおまえたちの命と思えば重くはない
+・ Mentre [Intercetta] un attacco, questo personaggio ha +500 Power.","この岩をおまえたちの命と思えば重くはない
 ーシュウー","If I think of this stone as your lives, it's not so heavy.
 ー Shu",This stone isn't nearly as heavy to me as your lives!,This stone is not as heavy as your lives,"Il pensiero che da questa pietra dipendono le vostre vite la rende leggera.
 ー Shu",92,92,,,,
@@ -243,7 +243,7 @@ che noi gente inerme possiamo usare per difenderci!
 ↑UP,,,Koryu,Koryu,コウリュウ,34,Character,北斗神拳,Hokuto Shinken,Hokuto Shinken,流,,⏺,流,★,2200,"・このキャラクターはスキルカードを装備することができない。
 ・攻撃中、このキャラクターのパワーは+300される。","・ This character can't be equipped with a [Skill] card.
 ・ UP: While attacking, this character has +300 Power.","・ Questo personaggio non può essere equipaggiato con una carta [Skill].
-・ Mentre attacca, questo personaggio ha +300 Power.""","おまえもその男たち同様ここで供養してやろう!!
+・ Mentre attacca, questo personaggio ha +300 Power.","おまえもその男たち同様ここで供養してやろう!!
 ーコウリュウー","And you'll be joining them soon. I'll give you your last rites!!
 ー Koryu",And you'll be joining them soon. I'll give you your last rites!!,I will lay your sould to rest!,"Farò in modo che tu possa riposare in pace assieme a loro!
 ー Koryu",98,98,,,,
@@ -451,7 +451,7 @@ could topple the legend that is Cassandra.
    相手の『身代わり』を行うことができるキャラクターを1体選んでもよい。
    選ばれたキャラクターは必ず『身代わり』を行う。","・ This character is considered to have both the name ""Toki"" and ""Amiba"".
 ・ When this character attacks, you may choose one opponent's character that is able to [Intercept] it and force it to [Intercept].","・ Questo personaggio è considerato avere sia il nome ""Toki"" che ""Amiba"".
-・ Quando questo personaggio attacca, puoi scegliere un personaggio dell'avversario in grado di [Intercettarlo] e costringerlo a [Intercettare].""","ケンシロウ暴力はいいぞ！！
+・ Quando questo personaggio attacca, puoi scegliere un personaggio dell'avversario in grado di [Intercettarlo] e costringerlo a [Intercettare].","ケンシロウ暴力はいいぞ！！
 ―トキ？―","Kenshiro, violence is good!!
 ー Toki?","Kenshiro, violence is good!!","Violence is good, Kenshiro!!","Kenshiro, la violenza è bella!
 ー Toki?",48,48,,,,
@@ -519,7 +519,7 @@ Hishō Hakurei",南斗究極奥義 飛翔白麗,69,Skill,,,,義,,⏺,義,★★,
 《FX》+200","・流派『南斗聖拳』を持つキャラクターに装備可能。
 ・随時パワーが+200される。","・ 南斗聖拳: Can only be equipped to characters in the ""Nanto Seiken"" group.
 ・ UP: Equipped character has +200 Power.","・ 南斗聖拳: Può essere equipaggiato solo su personaggi del gruppo ""Nanto Seiken"".
-・ UP: Il personaggio equipaggiato ha +200 di Power.""",,,,,,84,84,,,,
+・ UP: Il personaggio equipaggiato ha +200 di Power.",,,,,,84,84,,,,
 ,,,Bladed Yo-Yos,Shuriken Yo-Yos,手裏剣ヨーヨー,72,Skill,,,,愛,,,⏺,,《FX》Att. +200,・攻撃中、パワーが+200される。,・ UP: Equipped character has +200 Power during attacks.,・ UP: Il personaggio equipaggiato ha +200 di Power durante gli attacchi.,"今までほとんどの男が
 これで額を割られているわ
 ―マミヤ―","So far, most guys have been
@@ -532,7 +532,7 @@ let their heads get cracked open.","Gli altri prima di te si sono tutti ritrovat
 《FX》Att. +400","・流派『泰山流』を持つキャラクターに装備可能。
 ・攻撃中、パワーが+400される。","・ 泰山流: Can only be equipped to characters in the ""Taizan Ryu"" group.
 ・ UP: Equipped character has +400 Power during attacks.","・ 泰山流: Può essere equipaggiato solo su personaggi del gruppo ""Taizan Ryu"".
-・ UP: Il personaggio equipaggiato ha +400 di Power durante gli attacchi.""",,,,,,105,105,,,,
+・ UP: Il personaggio equipaggiato ha +400 di Power durante gli attacchi.",,,,,,105,105,,,,
 🗑,,,Dynamite,Dynamite,ダイナマイト,74,Skill,,,,流,,,⏺,,"《Req》(PWR) <= 800
 《FX》Att. +600","・パワー800以下のキャラクターに装備可能。
 ・攻撃中、パワーが+600される。
@@ -556,7 +556,7 @@ let their heads get cracked open.","Gli altri prima di te si sono tutti ritrovat
 《FX》Att. +400","・流派『北斗神拳』を持つキャラクターに装備可能。
 ・攻撃されたとき、バトル中のみ、パワーが+400される。","・ 北斗神拳: Can only be equipped to characters in the ""Hokuto Shinken"" group.
 ・ UP: Equipped character has +400 Power during attacks.","・ 北斗神拳: Può essere equipaggiato solo su personaggi del gruppo ""Hokuto Shinken"".
-・ UP: Il personaggio equipaggiato ha +400 di Power durante gli attacchi.""",,,,,,102,102,,,,
+・ UP: Il personaggio equipaggiato ha +400 di Power durante gli attacchi.",,,,,,102,102,,,,
 🗑,,,Ōgi Tenshō Honretsu,Ōgi Tenshō Honretsu,奥義 天将奔烈,77,Skill,,,,覇,,⏺,覇,★★,"《Req》(St.) Hokuto Shinken
 《FX》Att.+400 | Double","・流派『北斗神拳』 を持つキャラクターに装備可能。
 ・攻撃中、パワーが+400される。
