@@ -232,7 +232,7 @@ ed il cibo non mi mancherà di certo!
 ―トヨ―","Damn hyenas! They've already sniffed us out!
 ー Toyo",Damn hyenas! They've already sniffed us out!,Damn hyenas! They've already picked up the scent of water!,"Maledetti sciacalli! Hanno già fiutato l'acqua!
 ー Toyo ",19,19,,,,
-˟✊,,,Non-resistance village chief,Capovillaggio non-violento,無抵抗主義の村長,33,Character,一般人,Commoner,Civile,流,,,流,★★,500,"・このキャラクターがバトルフィールドにいる間、
+˟✊,,,Non-resistance Village Chief,Capovillaggio non-violento,無抵抗主義の村長,33,Character,一般人,Commoner,Civile,流,,,流,★★,500,"・このキャラクターがバトルフィールドにいる間、
    流派『一般人』を持つ全てのキャラクターは攻撃することができない。","・ ˟✊: While this character is on the battlefield, all characters in the ""Commoner"" group can't attack.","・ ˟✊: Finché questo personaggio è sul battlefield, tutti i personaggi del gruppo ""Civile"" non possono attaccare.","無抵抗はわれわれ弱者の
 自分を守るべき唯一の武器なのです
 ―村長―","Nonresistance is the only weapon
@@ -545,7 +545,7 @@ let their heads get cracked open.","Gli altri prima di te si sono tutti ritrovat
 ーンバー","It's alright. I have this.
 ー Shiba",It's alright. I have this.,I have this.,"Ho questa con me.
 ー Shiba",88,88,,,,
-,,,Rice seeds,Semi di riso,種モミ,75,Skill,,,,流,,,⏺,★★,《Req》(St.) Ordinary Person,"・流派『一般人』を持つキャラクターに装備可能。
+,,,Rice Seeds,Semi di riso,種モミ,75,Skill,,,,流,,,⏺,★★,《Req》(St.) Ordinary Person,"・流派『一般人』を持つキャラクターに装備可能。
 ・相手が攻撃するとき、相手は可能な限りこのキャラクターを攻撃対象にする。","・ 一般人: Can only be equipped to characters in the ""Commoner"" group.
 ・ When the opponent attacks, they must attack the equipped character if possible.","・ 一般人: Può essere equipaggiato solo su personaggi del gruppo ""Civile"".
 ・ Quando l'avversario attacca, deve attaccare il personaggio equipaggiato, se possibile.","なおさらその種モミを食いたくなったぜ
@@ -669,7 +669,7 @@ to protect these innocent lives!!
 ー Bat","Visto? Ci è capitata subito un'occasione per riempirci la pancia.
 ー Bat"
 ,,,"We've finally managed
-to become self-sufficient here...",Siamo da poco diventati autosufficienti ...,ようやく自給自足ができるようになりましての-,91,Event,,,,流,,,⏺,,,・自分の山札からカードを2枚引く。,・ Draw two cards from your deck.,・ Pesca due carte dal tuo mazzo.,,,We've finally managed to become self-sufficient here...,We've finally become self-sufficient...,,26,26,Self-sufficiency,Autosufficienza,"We've finally managed
+to become self-sufficient here...",Siamo da poco diventati autosufficienti ...,ようやく自給自足ができるようになりましての-,91,Event,,,,流,,,⏺,,,・自分の山札からカードを2枚引く。,・ Draw two cards from your deck.,・ Pesca due carte dal tuo mazzo.,,,We've finally managed to become self-sufficient here...,We've finally become self-sufficient...,,26,26,Self-Sufficiency,Autosufficienza,"We've finally managed
 to become self-sufficient here...
 ー Village Chief","Siamo da poco diventati autosufficienti ...
 ー Capo-villaggio"
@@ -682,7 +682,7 @@ to become self-sufficient here...
 ・ Rimuovi i segnalini [Generale] di tutti i giocatori. (I personaggi che hanno già bersagliato il mazzo per un attacco termineranno il loro attacco senza attaccare il mazzo.)",,,The cries of the demons have been silenced!!,The demons wail no longer!,,57,57,Ending Cassandra's Curse,La fine della maledizione di Cassandra,"The cries of the demons have been silenced!!
 ー Kenshiro","Le urla dei demoni si sono infine placate!
 ー Kenshiro"
-,,,The star you see is the death omen star!,Quella che hai visto à la stella messaggera di morte!,きさまがみた星は死兆星！,93,Event,,,,覇,,⏺,覇,,,・相手の【大将】ではないキャラクター1体を『行動完了』状態にする。,・ An opponent's character of your choice that is not the [General] becomes [Spent].,・ Rendi [Esausto] un personaggio dell'avversario a tua scelta che non sia il suo [Generale].,,,The star you see is the death omen star!,The star you saw was Shichosei!,,65,65,Death omen star,Stella messaggera di morte,"The star you see is the death omen star!
+,,,The star you see is the death omen star!,Quella che hai visto à la stella messaggera di morte!,きさまがみた星は死兆星！,93,Event,,,,覇,,⏺,覇,,,・相手の【大将】ではないキャラクター1体を『行動完了』状態にする。,・ An opponent's character of your choice that is not the [General] becomes [Spent].,・ Rendi [Esausto] un personaggio dell'avversario a tua scelta che non sia il suo [Generale].,,,The star you see is the death omen star!,The star you saw was Shichosei!,,65,65,Death Omen Star,Stella messaggera di morte,"The star you see is the death omen star!
 ー Raoh","Quella che hai visto à la stella messaggera di morte!
 ー Raoh"
 ,,,"You and your petty army
@@ -718,7 +718,7 @@ are no more than trash!!
 ・相手のキャラクター1体を選ぶ。
    そのキャラクターが装備している 『スキルカード』を相手の手札に戻す。","・ Counter (you may play this card during the [Intercept] step)
 ・ Return [Skill] cards equipped to an opponent's character to the opponent's hand.","・ Counter (puoi giocare questa carta durante la fase [Intercettazione])
-・ Rimetti le carte [Skill] equipaggiate a un personaggio dell'avversario nella sua mano.",,,I got it! Dahaha!,I got it! Dah hah!,,59,59,Shuchō tōjin jutsu,Shuchō-tō ha-jutsu,"I got it! Dahaha!
+・ Rimetti le carte [Skill] equipaggiate a un personaggio dell'avversario nella sua mano.",,,I got it! Dahaha!,I got it! Dah hah!,,59,59,Shuchō Tōjin Jutsu,Shuchō Tōjin Jutsu,"I got it! Dahaha!
 ー Zarqa","L'ho presa! Ahahah!
 ー Zarqa"
 ,,,You've walked straight into my trap!,Siete caduti nella nostra trappola.,まんまとワナにはまりましたな,99,Event,,,,邪,,邪,邪,★,,・相手の手札を見る。その中から1枚を選び、捨札にする,・ Look at the opponent's hand. Choose and discard one of their cards.,・ Guarda la mano dell'avversario. Scegli e scarta una delle sue carte.,,,You've walked straight into my trap!,You fell right into the trap.,,77,77,Cunning Trap,Trappola ingegnosa,"You've walked straight into my trap!
