@@ -1,13 +1,13 @@
 ### 北斗の拳世紀末カードバトル伝説 - Hokuto no Ken Card Battle Deck: Shin Starter Deck
-3 [HnK1-40] Shin
-2 [HnK1-45] Jagi
-3 [HnK1-47] Zeed
-3 [HnK1-48] Spade
-3 [HnK1-49] Diamond
-3 [HnK1-50] Club
-3 [HnK1-51] Heart
-3 [HnK1-52] Mad Sergeant
-3 [HnK1-53] Colonel
-2 [HnK1-54] Jackal
-1 [HnK1-55] Devil Rebirth
-1 [HnK1-97] All filth will be sterilized!!
+3 Shin
+2 Jagi
+3 Zeed
+3 Spade
+3 Diamond
+3 Club
+3 Heart
+3 Mad Sergeant
+3 Colonel
+2 Jackal
+1 Devil Rebirth
+1 Purge by Fire

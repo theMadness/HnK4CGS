@@ -1,15 +1,15 @@
 ### 北斗の拳世紀末カードバトル伝説 - Hokuto no Ken Card Battle Deck: Ryuga Starter Deck
-3 [HnK1-29] Ryuga
-2 [HnK1-59] Uighur, the Warden
-3 [HnK1-73] Taizan Tenrō Ken
-2 [HnK1-98] I got it! Dahaha!
-1 [HnK1-92] The cries of the demons have been silenced!!
-2 [HnK1-38] Mitsu
-3 [HnK1-28] Fuga
-3 [HnK1-27] Raiga
-2 [HnK1-80] Mōko Hakyoku Dō
-2 [HnK1-64] Gonzu
-2 [HnK1-33] Non-resistance village chief
-2 [HnK1-34] Koryu
-1 [HnK1-89] It's all for the sake of tomorrow, not today ...
-2 [HnK1-36] Johnny
+3 Ryuga
+2 Uighur, the Warden
+3 Taizan Tenrō Ken
+2 Mitsu
+3 Fuga
+3 Raiga
+2 Mōko Hakyoku Dō
+2 Gonzu
+2 Non-resistance village chief
+2 Koryu
+2 Johnny
+2 Shuchō tōjin jutsu
+1 Ending Cassandra's Curse
+1 For Tomorrow

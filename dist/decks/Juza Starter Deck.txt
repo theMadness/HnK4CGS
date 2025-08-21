@@ -1,19 +1,17 @@
 ### 北斗の拳世紀末カードバトル伝説 - Hokuto no Ken Card Battle Deck: Juza Starter Deck
-3 [HnK1-08] Juza
-2 [HnK1-03] Yuria (Last General of Nanto)
-2 [HnK1-12] Fudo
-2 [HnK1-06] Rihaku
-1 [HnK1-05] Shuren
-2 [HnK1-04] Hyui
-1 [HnK1-26] Juza
-3 [HnK1-35] Juza (Child)
-2 [HnK1-89] It's all for the sake of tomorrow, not today ...
-2 [HnK1-91] We've finally managed
-to become self-sufficient here...
-3 [HnK1-21] Yuria
-2 [HnK1-15] Fudo
-2 [HnK1-88] Become a demon once more
-to protect these innocent lives!!
-1 [HnK1-20] Toh
-1 [HnK1-30] Bat
-1 [HnK1-37] Taki
+3 Juza (Prepared to Die)
+2 Yuria (Last General of Nanto)
+2 Fudo
+2 Rihaku
+1 Shuren
+2 Hyui
+1 Juza
+3 Juza (Child)
+3 Yuria
+2 Fudo (Demon Return)
+1 Toh
+1 Bat
+1 Taki
+2 Demon Once More
+2 For Tomorrow
+2 Self-sufficiency
