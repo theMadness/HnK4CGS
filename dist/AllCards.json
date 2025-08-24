@@ -3204,8 +3204,8 @@
     "deckFileTxtId": "Musō Insatsu (HnK1-76)",
     "setCode": "HnK1",
     "name": "Musō Insatsu",
-    "description": "<size=28>\n<color=#A480FF>Skill</color>                                                       <b><color=#D6D0B5>Ｏ</color></b>\n<b>                                                   <color=#A480FF><size=20>覇 attribute</size></color></b>\n<color=#666666>————————————————</color>\n・ <b><i>[北斗神拳]</i></b> — Can only be equipped to characters in the \"Hokuto Shinken\" group.\n・ <b><i>[UP]</i></b> — Equipped character has +400 Power during attacks.</size>",
-    "italian": "<color=#A480FF>Musō Insatsu</color>\n<size=28>\n<color=#A480FF>Skill</color>                                                       <b><color=#D6D0B5>Ｏ</color></b>\n<b>                                                   <color=#A480FF><size=20>覇 attribute</size></color></b>\n<color=#666666>————————————————</color>\n・ <b><i>[北斗神拳]</i></b> — Può essere equipaggiato solo su personaggi del gruppo \"Hokuto Shinken\".\n・ <b><i>[UP]</i></b> — Il personaggio equipaggiato ha +400 di Power durante gli attacchi.</size>",
+    "description": "<size=28>\n<color=#A480FF>Skill</color>                                                       <b><color=#D6D0B5>Ｏ</color></b>\n<b>                                                   <color=#A480FF><size=20>覇 attribute</size></color></b>\n<color=#666666>————————————————</color>\n・ <b><i>[北斗神拳]</i></b> — Can only be equipped to characters in the \"Hokuto Shinken\" group.\n・ <b><i>[UP]</i></b> — Equipped character has +400 Power while being attacked.</size>",
+    "italian": "<color=#A480FF>Musō Insatsu</color>\n<size=28>\n<color=#A480FF>Skill</color>                                                       <b><color=#D6D0B5>Ｏ</color></b>\n<b>                                                   <color=#A480FF><size=20>覇 attribute</size></color></b>\n<color=#666666>————————————————</color>\n・ <b><i>[北斗神拳]</i></b> — Può essere equipaggiato solo su personaggi del gruppo \"Hokuto Shinken\".\n・ <b><i>[UP]</i></b> — Il personaggio equipaggiato ha +400 di Power mentre è sotto attacco.</size>",
     "attribute": "覇",
     "attributeCostType": [],
     "deckAttributes": [
@@ -3246,7 +3246,7 @@
     "costValue": 1,
     "type": "S",
     "group": "",
-    "rules": "・ 北斗神拳: Can only be equipped to characters in the \"Hokuto Shinken\" group.\n・ UP: Equipped character has +400 Power during attacks.",
+    "rules": "・ 北斗神拳: Can only be equipped to characters in the \"Hokuto Shinken\" group.\n・ UP: Equipped character has +400 Power while being attacked.",
     "flavor": "",
     "power": null,
     "rarity": " "
